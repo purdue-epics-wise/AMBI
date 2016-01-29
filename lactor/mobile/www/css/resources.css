@@ -1,0 +1,29 @@
+body{
+    background:#efefef;
+}
+#resources {
+  line-height: 1.5em;
+}
+
+#resources a {
+  text-decoration: none;
+
+}
+
+#resources li {
+  list-style-type: none;
+  background-color: white;
+  border-bottom: 1px solid #ccc;
+  padding: 0.7em 0 0.7em 1em;
+  font-family: Open Sans, sans-serif;
+  font-size: 1em;
+}
+
+#resources ul {
+  padding: 0;
+  margin: 0;
+}
+
+#resources a {
+  color: black;
+}

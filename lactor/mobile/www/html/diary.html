@@ -1,0 +1,149 @@
+<!-- BREASTFEEDING DIARY -->
+<div style='position:relative'>
+    <div id='diary_breastfeeding' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_breastfeeding_chart" class="diary_chart"></div>
+        </div>
+        {{#breastfeeding}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/{{side}}_icon.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{duration}} minutes</span><br>
+                    {{latching}}, {{infantState}}
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/breastfeeding}}
+    </div>
+    <!-- PUMPING DIARY -->
+    <div id='diary_pumping' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_pumping_chart" class="diary_chart"></div>
+        </div>
+        {{#pumping}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/pump.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{duration}} minutes</span><br>
+                    {{method}},
+                    {{amount}} ounces
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/pumping}}
+    </div>
+    <!-- SUPPLEMENT DIARY -->
+    <div id='diary_supplement' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_supplement_chart" class="diary_chart"></div>
+        </div>
+        {{#supplement}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/supplement.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{supType}}</span><br>
+                    {{supMethod}},
+                    {{totalAmount}} ounces
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/supplement}}
+    </div>
+    <!-- OUTPUT DIARY -->
+    <div id='diary_output' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_output_chart" class="diary_chart"></div>
+        </div>
+        {{#output}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/safety_pin.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{numberOfDiapers}} diapers</span><br>
+                    {{#urine}}
+                      {{urineColor}},
+                      {{urineSaturation}}
+                    {{/urine}}
+                    {{#stool}}
+                      {{stoolColor}},
+                      {{stoolConsistency}}
+                    {{/stool}}
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/output}}
+    </div>
+    <!-- WEIGHT DIARY -->
+    <div id='diary_weight' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_weight_chart" class="diary_chart"></div>
+        </div>
+        {{#weight}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/scale.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{lbs}} lbs. {{ounces}} oz.</span><br>
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/weight}}
+    </div>
+    <!-- HEALTH DIARY -->
+    <div id='diary_health' class='view_panel diary_panel'>
+        <div class="diary_chart_wrapper">
+            <div id="diary_health_chart" class="diary_chart"></div>
+        </div>
+        {{#health}}
+        <div class="diary">
+            <div class="diary_entry">
+                <div class="diary_icon"><img src="img/stethoscope.svg"></div>
+                <div class="diary_details">
+                    <span class="diary_date">{{date}}</span><br>
+                    <span class="diary_main">{{type}}</span><br>
+                </div>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        {{/health}}
+    </div>
+</div>
+<div id='diary_buttonBar'>
+<!-- CLOCK -->
+<div id='diary_nav_breastfeeding'>
+  <img src="img/button_clock.svg">
+</div>
+<!-- PUMP -->
+<div id='diary_nav_pumping'>
+  <img src="img/button_pump.svg">
+</div>
+<!-- SUPPLEMENT -->
+<div id='diary_nav_supplement'>
+  <img src="img/button_bottle.svg">
+</div>
+<!-- SAFETY PIN -->
+<div id='diary_nav_output'>
+  <img src="img/button_safety_pin.svg">
+</div>
+<!-- SCALE -->
+<div id='diary_nav_weight'>
+  <img src="img/button_scale.svg">
+</div>
+<!-- STETHOSCOPE -->
+<div id='diary_nav_health'>
+  <img src="img/button_stethoscope.svg">
+</div>
+</div>

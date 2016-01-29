@@ -1,0 +1,3445 @@
+#: /srv/http/lactor/mother_info.php:12 /srv/http/lactor/profile.php:39
+#: /srv/http/lactor/profile.php:46
+#: /srv/http/lactor/admin/user_accounts.php:322
+msgid "Mother Information"
+msgstr "Información de la Madre"
+
+#: /srv/http/lactor/mother_info.php:54
+msgid "Fields indicated with a (*) MUST be filled."
+msgstr "Todas las preguntas marcadas con  un (*) DEBEN ser completadas."
+
+#: /srv/http/lactor/mother_info.php:55
+msgid "ATTENTION: Mistakes in this page cannot be reverted once submitted."
+msgstr ""
+"ATENCION: Una vez enviada ésta página no se puede cambiar la información."
+
+#: /srv/http/lactor/mother_info.php:59
+msgid "Personal / Contact Information"
+msgstr "Información Personal / de Contacto"
+
+#: /srv/http/lactor/mother_info.php:65
+msgid "First and Last name"
+msgstr "Nombre y Apellido"
+
+#: /srv/http/lactor/mother_info.php:66
+msgid "Phone number"
+msgstr "Número de Teléfono"
+
+#: /srv/http/lactor/mother_info.php:67 /srv/http/lactor/profile.php:60
+#: /srv/http/lactor/admin/user_accounts.php:332
+msgid "Address"
+msgstr "Dirección"
+
+#: /srv/http/lactor/mother_info.php:68 /srv/http/lactor/profile.php:63
+#: /srv/http/lactor/admin/user_accounts.php:347
+msgid "Age"
+msgstr "Edad"
+
+#: /srv/http/lactor/mother_info.php:77
+msgid "Demographic Information"
+msgstr "Información Demográfica"
+
+#: /srv/http/lactor/mother_info.php:82 /srv/http/lactor/profile.php:64
+#: /srv/http/lactor/admin/user_accounts.php:348
+msgid "Ethnicity"
+msgstr "Etnicidad"
+
+#: /srv/http/lactor/mother_info.php:83 /srv/http/lactor/profile.php:65
+#: /srv/http/lactor/admin/user_accounts.php:349
+msgid "Race"
+msgstr "Raza"
+
+#: /srv/http/lactor/mother_info.php:84 /srv/http/lactor/profile.php:66
+#: /srv/http/lactor/admin/user_accounts.php:350
+msgid "Education"
+msgstr "Educación"
+
+#: /srv/http/lactor/mother_info.php:85
+#: /srv/http/lactor/admin/user_accounts.php:351
+msgid "Household Income"
+msgstr "Ingresos Familiares"
+
+#: /srv/http/lactor/mother_info.php:86 /srv/http/lactor/profile.php:68
+#: /srv/http/lactor/admin/user_accounts.php:352
+msgid "Occupation"
+msgstr "Ocupación"
+
+#: /srv/http/lactor/mother_info.php:87 /srv/http/lactor/profile.php:69
+#: /srv/http/lactor/admin/user_accounts.php:353
+msgid "Residence"
+msgstr "Residencia"
+
+#: /srv/http/lactor/mother_info.php:96
+msgid "Medical Information"
+msgstr "Información Médica"
+
+#: /srv/http/lactor/mother_info.php:101 /srv/http/lactor/profile.php:70
+#: /srv/http/lactor/admin/user_accounts.php:354
+msgid "Parity"
+msgstr "Número de Partos"
+
+#: /srv/http/lactor/mother_info.php:102 /srv/http/lactor/profile.php:72
+#: /srv/http/lactor/admin/user_accounts.php:356
+msgid "Past Obstetrical History"
+msgstr "Historia Médica de Otros Embarazos"
+
+#: /srv/http/lactor/mother_info.php:104 /srv/http/lactor/profile.php:74
+#: /srv/http/lactor/admin/user_accounts.php:358
+msgid "Maternal History During Pregnancy"
+msgstr "Historial Materna Durante el Embarazo"
+
+#: /srv/http/lactor/mother_info.php:106
+msgid "Latest Method Of Delivery"
+msgstr "Método de Parto más reciente"
+
+#: /srv/http/lactor/mother_info.php:107
+msgid "Cumulative Breastfeeding Experience"
+msgstr "Meses De Experiencia Dando Pecho En Total (Incluyendo Todos Los Partos)"
+
+#: /srv/http/lactor/mother_info.php:114
+msgid "Finish Registering"
+msgstr "Final de la Inscripción "
+
+#: /srv/http/lactor/system_feedback.php:9
+msgid "System Usability Scale"
+msgstr "Escala de Facilidad de Uso del Sistema"
+
+#: /srv/http/lactor/system_feedback.php:19
+#: /srv/http/lactor/system_perception.php:19
+#: /srv/http/lactor/breastfeeding_followup.php:28
+msgid "Please fill out all the fields."
+msgstr "Por favor conteste todas las preguntas."
+
+#: /srv/http/lactor/system_feedback.php:23
+#: /srv/http/lactor/admin/user_accounts.php:490
+#: /srv/http/lactor/admin/post/survey_download.php:67
+#, php-format
+msgid "System Feedback"
+msgstr "Comentarios acerca del sistema"
+
+#: /srv/http/lactor/system_feedback.php:31
+#: /srv/http/lactor/admin/user_accounts.php:529
+#: /srv/http/lactor/admin/post/survey_download.php:112
+msgid "I think that I would like to use this system frequently"
+msgstr "Creo que me gustaría usar este sistema seguido "
+
+#: /srv/http/lactor/system_feedback.php:32
+#: /srv/http/lactor/admin/user_accounts.php:530
+#: /srv/http/lactor/admin/post/survey_download.php:113
+msgid "I found the system unnecessarily complex"
+msgstr "el sistema es complicado"
+
+#: /srv/http/lactor/system_feedback.php:33
+#: /srv/http/lactor/admin/user_accounts.php:531
+#: /srv/http/lactor/admin/post/survey_download.php:114
+msgid "I thought the system was easy to use"
+msgstr "El sistema es fácil de usar"
+
+#: /srv/http/lactor/system_feedback.php:34
+#: /srv/http/lactor/admin/user_accounts.php:532
+#: /srv/http/lactor/admin/post/survey_download.php:115
+msgid ""
+"I think that I would need the support of a technical person to use this "
+"system"
+msgstr ""
+"Creo que necesitaría el apoyo de una persona técnica para usar este sistema"
+
+#: /srv/http/lactor/system_feedback.php:35
+#: /srv/http/lactor/admin/user_accounts.php:533
+#: /srv/http/lactor/admin/post/survey_download.php:116
+msgid "I found the various functions in this system were well integrated"
+msgstr "El sistema está bien integrado"
+
+#: /srv/http/lactor/system_feedback.php:36
+#: /srv/http/lactor/admin/user_accounts.php:534
+#: /srv/http/lactor/admin/post/survey_download.php:117
+msgid "I thought there was too much inconsistency in this system"
+msgstr "No tiene sentido el sistema"
+
+#: /srv/http/lactor/system_feedback.php:37
+#: /srv/http/lactor/admin/user_accounts.php:535
+#: /srv/http/lactor/admin/post/survey_download.php:118
+msgid "I would imagine that most people would learn to use this system quickly"
+msgstr ""
+"Me imagino que la mayoría de las personas aprenderían a usar este sistema "
+"rápidamente"
+
+#: /srv/http/lactor/system_feedback.php:38
+#: /srv/http/lactor/admin/user_accounts.php:536
+#: /srv/http/lactor/admin/post/survey_download.php:119
+msgid "I found the system very cumbersome to use"
+msgstr "Encontré el sistema muy difícil de usar"
+
+#: /srv/http/lactor/system_feedback.php:39
+#: /srv/http/lactor/admin/user_accounts.php:537
+#: /srv/http/lactor/admin/post/survey_download.php:120
+msgid "I felt very confident using the system"
+msgstr "Tuve mucha confianza usando el sistema"
+
+#: /srv/http/lactor/system_feedback.php:40
+#: /srv/http/lactor/admin/user_accounts.php:538
+#: /srv/http/lactor/admin/post/survey_download.php:121
+msgid ""
+"I needed to learn a lot of the things before I could get going with this "
+"system"
+msgstr ""
+"Tuve necesidad de aprender muchas de las cosas antes de poder empezar con "
+"este sistema"
+
+#: /srv/http/lactor/change_pass.php:25 /srv/http/lactor/change_pass.php:32
+#: /srv/http/lactor/profile.php:41 /srv/http/lactor/profile.php:130
+#: /srv/http/lactor/profile.php:134 /srv/http/lactor/admin/change_pass.php:10
+#: /srv/http/lactor/admin/change_pass.php:25
+#: /srv/http/lactor/admin/change_pass.php:32
+#: /srv/http/lactor/admin/user_accounts.php:202
+msgid "Change Password"
+msgstr "Cambiar Contraseña"
+
+#: /srv/http/lactor/change_pass.php:27 /srv/http/lactor/change_pass.php:30
+#: /srv/http/lactor/profile.php:132 /srv/http/lactor/admin/change_pass.php:27
+#: /srv/http/lactor/admin/change_pass.php:30
+msgid "New Password"
+msgstr "Nueva Contraseña"
+
+#: /srv/http/lactor/change_pass.php:31 /srv/http/lactor/profile.php:133
+#: /srv/http/lactor/admin/change_pass.php:31
+msgid "Repeat New Password"
+msgstr "Repetir Nueva Contraseña"
+
+#: /srv/http/lactor/evaluation_scale.php:9
+#: /srv/http/lactor/system_perception.php:9
+#: /srv/http/lactor/system_perception.php:24
+#: /srv/http/lactor/admin/user_accounts.php:492
+#: /srv/http/lactor/admin/post/survey_download.php:69
+#, php-format
+msgid "System Perception"
+msgstr "Opinión del sistema"
+
+#: /srv/http/lactor/evaluation_scale.php:32
+#: /srv/http/lactor/breastfeeding_followup.php:32
+msgid "Breastfeeding follow-up"
+msgstr "Seguimiento del amamantamiento"
+
+#: /srv/http/lactor/evaluation_scale.php:39
+#: /srv/http/lactor/admin/user_accounts.php:553
+#: /srv/http/lactor/admin/post/survey_download.php:134
+msgid "Visit"
+msgstr "Visita"
+
+#: /srv/http/lactor/evaluation_scale.php:40
+#: /srv/http/lactor/breastfeeding_followup.php:40
+msgid "First"
+msgstr "Primera"
+
+#: /srv/http/lactor/evaluation_scale.php:41
+#: /srv/http/lactor/breastfeeding_followup.php:41
+msgid "Second"
+msgstr "Segunda"
+
+#: /srv/http/lactor/evaluation_scale.php:42
+#: /srv/http/lactor/breastfeeding_followup.php:42
+msgid "Third"
+msgstr "Tercera"
+
+msgid "Fourth / More"
+msgstr "Cuarto / Más"
+
+#: /srv/http/lactor/evaluation_scale.php:45
+#: /srv/http/lactor/breastfeeding_followup.php:45
+#: /srv/http/lactor/admin/user_accounts.php:554
+#: /srv/http/lactor/admin/post/survey_download.php:135
+msgid "How long are you planning to breastfeed your baby?"
+msgstr "¿Cuánto tiempo planea amamantar a su bebé?"
+
+#: /srv/http/lactor/evaluation_scale.php:46
+#: /srv/http/lactor/evaluation_scale.php:47
+#: /srv/http/lactor/evaluation_scale.php:48
+#: /srv/http/lactor/breastfeeding_followup.php:46
+#: /srv/http/lactor/breastfeeding_followup.php:47
+#: /srv/http/lactor/breastfeeding_followup.php:48
+msgid "months"
+msgstr "meses"
+
+#: /srv/http/lactor/evaluation_scale.php:50
+#: /srv/http/lactor/evaluation_scale.php:84
+#: /srv/http/lactor/evaluation_scale.php:104
+#: /srv/http/lactor/breastfeeding_followup.php:50
+#: /srv/http/lactor/breastfeeding_followup.php:84
+#: /srv/http/lactor/breastfeeding_followup.php:104
+msgid "Other (specify)"
+msgstr "Otros (especificar)"
+
+#: /srv/http/lactor/evaluation_scale.php:55
+#: /srv/http/lactor/breastfeeding_followup.php:55
+#: /srv/http/lactor/admin/user_accounts.php:555
+#: /srv/http/lactor/admin/post/survey_download.php:136
+msgid "How many times do you breastfeed your baby per day?"
+msgstr "¿Cuántas veces amamanta a su bebé durante el día?"
+
+#: /srv/http/lactor/evaluation_scale.php:59
+#: /srv/http/lactor/breastfeeding_followup.php:59
+#: /srv/http/lactor/admin/user_accounts.php:556
+#: /srv/http/lactor/admin/post/survey_download.php:137
+msgid "Do you give any other substances (supplementation) for your baby?"
+msgstr "¿Le da otros alimentos a su bebé además de leche materna?"
+
+#: /srv/http/lactor/evaluation_scale.php:60
+#: /srv/http/lactor/breastfeeding_followup.php:60
+msgid "Yes"
+msgstr "Sí"
+
+#: /srv/http/lactor/evaluation_scale.php:61
+#: /srv/http/lactor/breastfeeding_followup.php:61
+msgid "No"
+msgstr "No"
+
+#: /srv/http/lactor/evaluation_scale.php:64
+#: /srv/http/lactor/breastfeeding_followup.php:64
+#: /srv/http/lactor/admin/user_accounts.php:557
+#: /srv/http/lactor/admin/post/survey_download.php:138
+msgid "If yes, what kind of supplement do you give?"
+msgstr ""
+"Si le da otros alimentos a su bebé ¿Qué otros alimentos le da a su bebé "
+"además de leche materna? "
+
+#: /srv/http/lactor/evaluation_scale.php:65
+#: /srv/http/lactor/breastfeeding_followup.php:65
+msgid "Herbs"
+msgstr "Té"
+
+#: /srv/http/lactor/evaluation_scale.php:66
+#: /srv/http/lactor/breastfeeding_followup.php:66
+#: /srv/http/lactor/mobile/m.add_entry.php:396
+msgid "Formula"
+msgstr "Fórmula"
+
+#: /srv/http/lactor/evaluation_scale.php:67
+#: /srv/http/lactor/breastfeeding_followup.php:67
+msgid "Cereal"
+msgstr "Cereal"
+
+#: /srv/http/lactor/evaluation_scale.php:68
+#: /srv/http/lactor/breastfeeding_followup.php:68
+#: /srv/http/lactor/includes/db.php:213 /srv/http/lactor/includes/db.php:245
+#: /srv/http/lactor/includes/db.php:269
+msgid "Other"
+msgstr "Otro"
+
+msgid "Others"
+msgstr "Otros"
+
+#: /srv/http/lactor/evaluation_scale.php:71
+#: /srv/http/lactor/admin/user_accounts.php:558
+#: /srv/http/lactor/admin/post/survey_download.php:139
+msgid "How often do you give a supplemental feeding?"
+msgstr "¿Cuántas veces al día le da otros alimentos a su bebé?"
+
+#: /srv/http/lactor/evaluation_scale.php:72
+#: /srv/http/lactor/breastfeeding_followup.php:72
+msgid "Two times or less"
+msgstr "Dos veces o menos"
+
+#: /srv/http/lactor/evaluation_scale.php:73
+#: /srv/http/lactor/evaluation_scale.php:74
+msgid "times"
+msgstr "veces"
+
+#: /srv/http/lactor/evaluation_scale.php:75
+#: /srv/http/lactor/breastfeeding_followup.php:75
+msgid "More"
+msgstr "Más"
+
+#: /srv/http/lactor/evaluation_scale.php:78
+#: /srv/http/lactor/breastfeeding_followup.php:78
+#: /srv/http/lactor/admin/user_accounts.php:559
+#: /srv/http/lactor/admin/post/survey_download.php:140
+msgid "Causes of supplemental feeding"
+msgstr "¿Por qué le da otros alimentos a su bebé además de leche materna?"
+
+#: /srv/http/lactor/evaluation_scale.php:79
+#: /srv/http/lactor/breastfeeding_followup.php:79
+msgid "Don't have enough milk"
+msgstr "No tengo suficiente leche"
+
+#: /srv/http/lactor/evaluation_scale.php:80
+#: /srv/http/lactor/breastfeeding_followup.php:80
+msgid "Going back to class/work"
+msgstr "Regreso a clases/trabajo"
+
+#: /srv/http/lactor/evaluation_scale.php:81
+#: /srv/http/lactor/breastfeeding_followup.php:81
+msgid "Baby is fussy and crying"
+msgstr "Bebé es quisquilloso y llorón"
+
+#: /srv/http/lactor/evaluation_scale.php:82
+#: /srv/http/lactor/breastfeeding_followup.php:82
+msgid "Cultural/tradition"
+msgstr "Cultura/Tradición"
+
+#: /srv/http/lactor/evaluation_scale.php:89
+#: /srv/http/lactor/breastfeeding_followup.php:89
+#: /srv/http/lactor/admin/user_accounts.php:560
+#: /srv/http/lactor/admin/post/survey_download.php:141
+msgid ""
+"Pattern of breastfeeding (How did you breastfeed your baby in the last 7 days)"
+msgstr ""
+"Patrón de amamantamiento (¿Cómo amamantó a su bebé en los últimos 7 días?"
+
+#: /srv/http/lactor/evaluation_scale.php:90
+#: /srv/http/lactor/breastfeeding_followup.php:90
+msgid ""
+"Exclusive breastfeeding (only breast milk, no other supplement with even "
+"water)"
+msgstr ""
+"Puro pecho (sólo leche materna, no agua ni ningún otro líquido o alimento)"
+
+#: /srv/http/lactor/evaluation_scale.php:91
+#: /srv/http/lactor/breastfeeding_followup.php:91
+msgid "Predominant breastfeeding (Give herbs, liquid, no formula)"
+msgstr "Mayormente pecho (da té, líquidos, no fórmula)"
+
+msgid "Partial breastfeeding, High: 50-80% breastfeeding"
+msgstr "Lactancia Materna parcial, Alta: 50-80% amamantamiento"
+
+msgid "Partial breastfeeding, Medium: 50% breastfeeding"
+msgstr "Lactancia Materna parcial, Media: 50% amamantamiento"
+
+#: /srv/http/lactor/evaluation_scale.php:92
+#: /srv/http/lactor/breastfeeding_followup.php:92
+#, php-format
+msgid "Partial breastfeeding, High: 50-80%% breastfeeding"
+msgstr "Lactancia Materna parcial, Alta: 50-80%% amamantamiento"
+
+#: /srv/http/lactor/evaluation_scale.php:93
+#: /srv/http/lactor/breastfeeding_followup.php:93
+#, php-format
+msgid "Partial breastfeeding, Medium: 50%% breastfeeding"
+msgstr "Lactancia Materna parcial, Media: 50%% amamantamiento"
+
+#: /srv/http/lactor/evaluation_scale.php:94
+#: /srv/http/lactor/breastfeeding_followup.php:94
+#, php-format
+msgid "Partial breastfeeding, Low: 20-50%% breastfeeding"
+msgstr "Lactancia Materna parcial, Baja: 20-50%% amamantamiento"
+
+#: /srv/http/lactor/evaluation_scale.php:95
+#: /srv/http/lactor/breastfeeding_followup.php:95
+#, php-format
+msgid "Token breastfeeding (&lt;20%% breastfeeding, breastfeed for comfort)"
+msgstr "lactancia materna afectiva (ofrece el pecho para dar consuelo)"
+
+#: /srv/http/lactor/evaluation_scale.php:96
+#: /srv/http/lactor/breastfeeding_followup.php:96
+msgid "No breastfeeding (exclusive formula)"
+msgstr "No dió pecho (sólo fórmula)"
+
+#: /srv/http/lactor/evaluation_scale.php:99
+#: /srv/http/lactor/breastfeeding_followup.php:99
+#: /srv/http/lactor/admin/user_accounts.php:561
+#: /srv/http/lactor/admin/post/survey_download.php:142
+msgid "Breastfeeding/baby Problems"
+msgstr "Problemas del bebé para tomar pecho"
+
+#: /srv/http/lactor/evaluation_scale.php:100
+#: /srv/http/lactor/breastfeeding_followup.php:100
+msgid "Inability to latch"
+msgstr "Bebé no se pega al pecho"
+
+#: /srv/http/lactor/evaluation_scale.php:101
+#: /srv/http/lactor/breastfeeding_followup.php:101
+msgid "Baby tires easily"
+msgstr "Bebé se cansa pronto"
+
+#: /srv/http/lactor/evaluation_scale.php:102
+#: /srv/http/lactor/breastfeeding_followup.php:102
+msgid "Sleepy baby"
+msgstr "Bebé se duerme"
+
+msgid "Baby Sleepy"
+msgstr "Bebé somnoliento"
+
+#: /srv/http/lactor/evaluation_scale.php:108
+#: /srv/http/lactor/postnatal_depression_survey.php:113
+#: /srv/http/lactor/system_perception.php:45
+#: /srv/http/lactor/breastfeeding_followup.php:108
+msgid "Finish Feedback"
+msgstr "Fin de comentarios"
+
+#: /srv/http/lactor/self-efficacy_survey.php:9
+msgid "Self-efficacy Survey"
+msgstr "Encuesta sobre la confianza que se tiene usted."
+
+#: /srv/http/lactor/self-efficacy_survey.php:39
+msgid "Breastfeeding Self-Efficacy Scale - Short Form"
+msgstr "Escala de Confianza Sobre la Lactancia Materna"
+
+#: /srv/http/lactor/self-efficacy_survey.php:40
+msgid ""
+"For each of the following statements, please choose the answer that best "
+"describes how confident you are with breastfeeding your new baby. Please mark "
+"your answer by clicking the button that is closest to how you feel. There is "
+"no right or wrong answer."
+msgstr ""
+"Para cada una de las siguientes afirmaciones, por favor escoja la respuesta "
+"que mejor describe cuán segura se siente en amamantar a su bebé. Por favor "
+"marque su respuesta dando click en la respuesta que más se acerca a cómo se "
+"siente. No existe respuesta correcta o incorrecta. "
+
+#: /srv/http/lactor/self-efficacy_survey.php:45
+msgid "Not at all<br />Confident"
+msgstr "Para nada <br />segura"
+
+#: /srv/http/lactor/self-efficacy_survey.php:47
+msgid "Very<br />Confident"
+msgstr "Muy<br />segura"
+
+#: /srv/http/lactor/self-efficacy_survey.php:50
+#: /srv/http/lactor/admin/user_accounts.php:565
+#: /srv/http/lactor/admin/post/survey_download.php:145
+msgid "I can always determine that my baby is getting enough milk."
+msgstr "Siempre estoy segura que mi bebé recibe suficiente leche"
+
+#: /srv/http/lactor/self-efficacy_survey.php:58
+#: /srv/http/lactor/admin/user_accounts.php:566
+#: /srv/http/lactor/admin/post/survey_download.php:146
+msgid ""
+"I can always successfully cope with breastfeeding like I have with other "
+"challenging tasks."
+msgstr "Siempre puedo lograr con éxito amamantar como lo hago con otros retos."
+
+#: /srv/http/lactor/self-efficacy_survey.php:66
+#: /srv/http/lactor/admin/user_accounts.php:567
+#: /srv/http/lactor/admin/post/survey_download.php:147
+msgid ""
+"I can always breastfeed my baby without first using formula as a supplement."
+msgstr ""
+"Siempre puedo amamantar a mi bebé sin usar primero la fórmula como suplemento."
+
+#: /srv/http/lactor/self-efficacy_survey.php:74
+#: /srv/http/lactor/admin/user_accounts.php:568
+#: /srv/http/lactor/admin/post/survey_download.php:148
+msgid ""
+"I can always ensure that my baby is properly latched on for the whole feeding."
+msgstr ""
+"Siempre puedo asegurar que mi bebé está acoplado de modo apropiado durante "
+"toda la alimentación."
+
+#: /srv/http/lactor/self-efficacy_survey.php:82
+#: /srv/http/lactor/admin/user_accounts.php:569
+#: /srv/http/lactor/admin/post/survey_download.php:149
+msgid "I can always manage the breastfeeding situation to my satisfaction."
+msgstr ""
+"Siempre puedo manejar cualquier situación de amamantar satisfactoriamente"
+
+#: /srv/http/lactor/self-efficacy_survey.php:90
+#: /srv/http/lactor/admin/user_accounts.php:570
+#: /srv/http/lactor/admin/post/survey_download.php:150
+msgid "I can always manage to breastfeed even if my baby is crying."
+msgstr ""
+"Siempre puedo manejar la situación de amamantar aún si mi bebé está llorando ."
+
+#: /srv/http/lactor/self-efficacy_survey.php:98
+#: /srv/http/lactor/admin/user_accounts.php:571
+#: /srv/http/lactor/admin/post/survey_download.php:151
+msgid "I can always keep wanting to breastfeed"
+msgstr "Siempre puedo querer seguir amamantando."
+
+#: /srv/http/lactor/self-efficacy_survey.php:106
+#: /srv/http/lactor/admin/user_accounts.php:572
+#: /srv/http/lactor/admin/post/survey_download.php:152
+msgid "I can always comfortably breastfeed with my family members present."
+msgstr ""
+"Siempre puedo amamantar cómodamente con miembros de la familia presentes."
+
+#: /srv/http/lactor/self-efficacy_survey.php:114
+#: /srv/http/lactor/admin/user_accounts.php:573
+#: /srv/http/lactor/admin/post/survey_download.php:153
+msgid "I can always be satisfied with my breastfeeding experience."
+msgstr "Siempre puedo estar satisfecha con mi experiencia de amamantar."
+
+#: /srv/http/lactor/self-efficacy_survey.php:122
+#: /srv/http/lactor/admin/user_accounts.php:574
+#: /srv/http/lactor/admin/post/survey_download.php:154
+msgid ""
+"I can always deal with the fact that breastfeeding can be time consuming."
+msgstr "Siempre puedo manejar el que amamantar se lleve tiempo."
+
+#: /srv/http/lactor/self-efficacy_survey.php:130
+#: /srv/http/lactor/admin/user_accounts.php:575
+#: /srv/http/lactor/admin/post/survey_download.php:155
+msgid ""
+"I can always finish feeding my baby on one breast before switching to the "
+"other breast."
+msgstr ""
+"Siempre puedo terminar de alimentar a mi bebé en un pecho antes de pasar al "
+"otro."
+
+#: /srv/http/lactor/self-efficacy_survey.php:138
+#: /srv/http/lactor/admin/user_accounts.php:576
+#: /srv/http/lactor/admin/post/survey_download.php:156
+msgid "I can always continue to breastfeed my baby for every feeding."
+msgstr "Siempre puedo continuar amamantando mi bebé durante cada alimentación."
+
+#: /srv/http/lactor/self-efficacy_survey.php:146
+#: /srv/http/lactor/admin/user_accounts.php:577
+#: /srv/http/lactor/admin/post/survey_download.php:157
+msgid "I can always manage to keep up with my baby's breastfeeding demands."
+msgstr "Siempre puedo manejar las demandas de lactancia de mi bebé."
+
+#: /srv/http/lactor/self-efficacy_survey.php:154
+#: /srv/http/lactor/admin/user_accounts.php:578
+#: /srv/http/lactor/admin/post/survey_download.php:158
+msgid "I can always tell when my baby is finished breastfeeding."
+msgstr "Siempre puedo determinar cuando mi bebé ha terminado de amamantar."
+
+#: /srv/http/lactor/self-efficacy_survey.php:163
+#: /srv/http/lactor/breastfeeding_evaluation.php:292
+msgid "Submit"
+msgstr "Enviar"
+
+#: /srv/http/lactor/where_info.php:8
+msgid "Login Information"
+msgstr "Información para entrar"
+
+#: /srv/http/lactor/where_info.php:8
+msgid "Welcome!"
+msgstr "¡Bienvenida!"
+
+#: /srv/http/lactor/where_info.php:19
+msgid ""
+"We are very excited that you have decided to join this experiment. We hope "
+"that we can help you secure your baby's current and future health by using "
+"our monitoring system."
+msgstr ""
+"Estamos muy contentos de que usted haya decidido participar en este "
+"experimento.Esperamos poder ayudarle en asegurar la salud presente y futura "
+"de su bebé a través del uso de nuestro sistema de monitoreo."
+
+#: /srv/http/lactor/where_info.php:20
+msgid ""
+"You should have an email from LACTOR, with the subject New Mother User. If "
+"you do not find it, look for it in the junk mail, if it is not there, contact "
+"us by clicking the link at the bottom."
+msgstr ""
+"Usted debe tener un mensaje electrónico de LACTOR, con el asunto Nueva Madre "
+"Usuario. Si usted no lo encuentra, por favor búsquelo en la carpeta de correo "
+"no deseado (basura), si no está ahí, contáctenos haciendo click en el enlace "
+"abajo. "
+
+#: /srv/http/lactor/where_info.php:21
+msgid ""
+"In this email you will find your temporary password. You will be asked to "
+"change it as soon as you log in."
+msgstr ""
+"En este correo usted encontrará una contraseña temporal. Se le pedirá que la "
+"cambie tan pronto como entre."
+
+#: /srv/http/lactor/where_info.php:22
+msgid ""
+"Again, we would like to thank you for using our system. We hope you enjoy it."
+msgstr ""
+"De nuevo, nos gustaría agradecerle por usar nuestro sistema. Esperamos lo "
+"disfrute."
+
+#: /srv/http/lactor/login.php:54 /srv/http/lactor/login.php:95
+#: /srv/http/lactor/index.php:54 /srv/http/lactor/index.php:95
+#: /srv/http/lactor/admin/login.php:8 /srv/http/lactor/admin/login.php:22
+#: /srv/http/lactor/admin/index.php:8 /srv/http/lactor/admin/index.php:22
+msgid "Login"
+msgstr "Entrar"
+
+#: /srv/http/lactor/login.php:90 /srv/http/lactor/index.php:90
+msgid "Welcome to LACTOR"
+msgstr "Bienvenida a LACTOR"
+
+#: /srv/http/lactor/login.php:91 /srv/http/lactor/index.php:91
+msgid ""
+"LACTOR is an innovative, interactive web-based breastfeeding monitoring "
+"system.  LACTOR was created to help breastfeeding mothers monitor their "
+"breastfeeding patterns and detect early breastfeeding problems.  The "
+"lactation consultant can also monitor mothers' data and intervene immediately "
+"in case of a breastfeeding problem.  Mothers also receive notifications if "
+"they have any breastfeeding problem with suggestions to help solve the "
+"problem."
+msgstr ""
+"LACTOR es un sistema por internet innovador e interactivo de monitoreo de "
+"lactancia materna. LACTOR fué creado para ayudar a madres amamantando a "
+"monitorear sus patrones de lactancia y a detectar temprano  problemas de "
+"lactancia. El especialista en lactancia también puede también monitorear los "
+"datos de la madre e intervenir inmediatamente en caso de problemas con "
+"amamantar. Las madres también reciben notificaciones si ellas tienen "
+"problemas de amamantamiento con sugerencias para resolver los problemas."
+
+#: /srv/http/lactor/login.php:98 /srv/http/lactor/index.php:98
+#: /srv/http/lactor/admin/login.php:25 /srv/http/lactor/admin/index.php:25
+msgid "Credentials"
+msgstr "Credenciales"
+
+#: /srv/http/lactor/login.php:101 /srv/http/lactor/reset_pass.php:28
+#: /srv/http/lactor/index.php:101 /srv/http/lactor/admin/display_data.php:298
+#: /srv/http/lactor/admin/display_data.php:376
+#: /srv/http/lactor/admin/display_data.php:446
+#: /srv/http/lactor/admin/display_data.php:521
+#: /srv/http/lactor/admin/user_accounts.php:236
+#: /srv/http/lactor/admin/reset_pass.php:28
+#: /srv/http/lactor/mobile/m.login.php:27
+#: /srv/http/lactor/mobile/m.reset_pass.php:29
+#: /srv/http/lactor/mobile/index.php:27
+msgid "Email"
+msgstr "Correo Electrónico"
+
+#: /srv/http/lactor/login.php:102 /srv/http/lactor/index.php:102
+#: /srv/http/lactor/mobile/m.login.php:29 /srv/http/lactor/mobile/index.php:29
+msgid "Password"
+msgstr "Contraseña"
+
+#: /srv/http/lactor/login.php:113 /srv/http/lactor/index.php:113
+#: /srv/http/lactor/admin/login.php:37 /srv/http/lactor/admin/index.php:37
+msgid "Forgot your password?"
+msgstr "¿Olvidó su contraseña?"
+
+#: /srv/http/lactor/login.php:114 /srv/http/lactor/index.php:114
+msgid "Where is this information?"
+msgstr "¿Dónde está ésta información?"
+
+#: /srv/http/lactor/profile.php:15
+msgid "Profile"
+msgstr "Perfil"
+
+#: /srv/http/lactor/profile.php:40 /srv/http/lactor/profile.php:85
+#: /srv/http/lactor/admin/child_info.php:36
+#: /srv/http/lactor/admin/user_accounts.php:404
+msgid "Child Information"
+msgstr "Información del Bebé"
+
+#: /srv/http/lactor/profile.php:53
+msgid "No data has been entered."
+msgstr "No se han entrado datos."
+
+#: /srv/http/lactor/profile.php:53 /srv/http/lactor/profile.php:57
+msgid "Please contact the lactation consultant."
+msgstr "Por favor contacte al especialista en lactancia."
+
+#: /srv/http/lactor/profile.php:59 /srv/http/lactor/admin/display_data.php:297
+#: /srv/http/lactor/admin/display_data.php:375
+#: /srv/http/lactor/admin/display_data.php:445
+#: /srv/http/lactor/admin/display_data.php:520
+#: /srv/http/lactor/admin/user_accounts.php:331
+msgid "Name"
+msgstr "Nombre"
+
+#: /srv/http/lactor/profile.php:61
+#: /srv/http/lactor/admin/user_accounts.php:333
+msgid "Phone"
+msgstr "Teléfono"
+
+#: /srv/http/lactor/profile.php:67
+msgid "HouseIncome"
+msgstr "Ingresos Familiares"
+
+#: /srv/http/lactor/profile.php:76
+#: /srv/http/lactor/admin/user_accounts.php:360
+msgid "Method Of Delivery"
+msgstr "Método de Parto"
+
+#: /srv/http/lactor/profile.php:77
+msgid "Past breastfeeding experience"
+msgstr "Experiencia pasada dando pecho"
+
+#: /srv/http/lactor/profile.php:99
+msgid "The data has yet to be entered by the lactation consultant."
+msgstr ""
+"Los datos aún están por ser completados por el especialista en lactancia."
+
+#: /srv/http/lactor/profile.php:103
+msgid "If any of this information is incorrect"
+msgstr "Si alguna de esta información es incorrecta"
+
+#: /srv/http/lactor/profile.php:103
+msgid "please contact the lactation consultant"
+msgstr "Por favor contacte al especialista en lactancia"
+
+#: /srv/http/lactor/profile.php:105 /srv/http/lactor/admin/child_info.php:56
+#: /srv/http/lactor/admin/user_accounts.php:423
+msgid "Infant initials"
+msgstr "Iniciales del Bebé"
+
+#: /srv/http/lactor/profile.php:106 /srv/http/lactor/admin/child_info.php:57
+#: /srv/http/lactor/admin/user_accounts.php:424
+msgid "Gestational age"
+msgstr "Edad Gestacional"
+
+#: /srv/http/lactor/profile.php:107 /srv/http/lactor/admin/child_info.php:58
+#: /srv/http/lactor/admin/user_accounts.php:425
+msgid "Appropiateness for gestational age"
+msgstr "Tamaño apropiado para edad gestacional"
+
+#: /srv/http/lactor/profile.php:109 /srv/http/lactor/admin/child_info.php:60
+#: /srv/http/lactor/admin/user_accounts.php:435
+msgid "Date of birth"
+msgstr "Fecha de nacimiento"
+
+#: /srv/http/lactor/profile.php:110 /srv/http/lactor/admin/child_info.php:61
+#: /srv/http/lactor/admin/user_accounts.php:436
+msgid "Infant weight at birth"
+msgstr "Peso del Bebé al nacer"
+
+#: /srv/http/lactor/profile.php:111 /srv/http/lactor/admin/child_info.php:62
+#: /srv/http/lactor/admin/user_accounts.php:437
+msgid "Date of discharge"
+msgstr "Fecha de dada de alta "
+
+#: /srv/http/lactor/profile.php:112 /srv/http/lactor/admin/child_info.php:63
+#: /srv/http/lactor/admin/user_accounts.php:438
+msgid "Weight at discharge"
+msgstr "Peso al salir"
+
+msgid "Infant Weight"
+msgstr "Peso del Bebé"
+
+msgid "Infant Weight Diary"
+msgstr "Diario de Peso del Bebé"
+
+#: /srv/http/lactor/profile.php:114 /srv/http/lactor/admin/child_info.php:65
+#: /srv/http/lactor/admin/user_accounts.php:440
+msgid "Type of first feeding"
+msgstr "Tipo de la primera alimentación "
+
+#: /srv/http/lactor/profile.php:115 /srv/http/lactor/admin/child_info.php:66
+#: /srv/http/lactor/admin/user_accounts.php:441
+msgid "Infant's age at first feeding session"
+msgstr "Edad del Bebé en la primera alimentación"
+
+#: /srv/http/lactor/profile.php:116 /srv/http/lactor/admin/child_info.php:67
+#: /srv/http/lactor/admin/user_accounts.php:442
+msgid "Time of starting breast milk expression"
+msgstr "Hora de la primera sacada de leche"
+
+#: /srv/http/lactor/profile.php:117 /srv/http/lactor/admin/child_info.php:68
+#: /srv/http/lactor/admin/user_accounts.php:443
+msgid "Frequency of breast milk expression"
+msgstr "Veces al dia que se saca la leche"
+
+#: /srv/http/lactor/profile.php:119 /srv/http/lactor/admin/child_info.php:70
+#: /srv/http/lactor/admin/user_accounts.php:445
+msgid "First primary care provider visit"
+msgstr "Primera visita al doctor"
+
+#: /srv/http/lactor/profile.php:120 /srv/http/lactor/admin/child_info.php:71
+#: /srv/http/lactor/admin/user_accounts.php:446
+msgid "Need for extra primary care provider"
+msgstr "Necesidad de proveedor adicional de cuidado médico"
+
+#: /srv/http/lactor/profile.php:121 /srv/http/lactor/admin/child_info.php:72
+#: /srv/http/lactor/admin/user_accounts.php:447
+msgid "Times of extra primary care on first month"
+msgstr "Número de veces de cuidado médico adicional durante el primer mes"
+
+#: /srv/http/lactor/profile.php:122 /srv/http/lactor/admin/child_info.php:73
+#: /srv/http/lactor/admin/user_accounts.php:448
+msgid "Hospitalization during the first month"
+msgstr "Hospitalización durante el primer mes"
+
+#: /srv/http/lactor/tutorials.php:16 /srv/http/lactor/mobile/header.php:11
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: /srv/http/lactor/tutorials.php:39 /srv/http/lactor/tutorials.php:45
+#: /srv/http/lactor/mobile/tutorials.php:15
+msgid "Introduction"
+msgstr "Introducción "
+
+#: /srv/http/lactor/tutorials.php:40 /srv/http/lactor/notifications.php:16
+#: /srv/http/lactor/mobile/m.reset_pass.php:9
+#: /srv/http/lactor/mobile/header.php:10
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: /srv/http/lactor/tutorials.php:50 /srv/http/lactor/mobile/tutorials.php:20
+msgid "Handling Notifications"
+msgstr "Manejando notificaciones"
+
+#: /srv/http/lactor/add_entry.php:14 /srv/http/lactor/add_entry.php:449
+#: /srv/http/lactor/education.php:72 /srv/http/lactor/admin/proxy.php:61
+#: /srv/http/lactor/mobile/header.php:8
+#: /srv/http/lactor/mobile/m.add_entry.php:242
+msgid "Add Entry"
+msgstr "Agregar entrada"
+
+#: /srv/http/lactor/add_entry.php:55
+msgid "Please enter breastfeeding duration."
+msgstr "Por favor entre la duración de lactancia."
+
+#: /srv/http/lactor/add_entry.php:58
+#: /srv/http/lactor/post/modify_entry.post.php:102
+msgid "Please enter latching information."
+msgstr "Por favor entre información de acoplamiento."
+
+#: /srv/http/lactor/add_entry.php:61
+msgid "Please enter infant alertness."
+msgstr "Por favor entre estado de alerta del bebé."
+
+#: /srv/http/lactor/add_entry.php:64
+msgid "Please enter breastfeeding maternal problems."
+msgstr "Por favor entre problemas para amamantar maternos."
+
+#: /srv/http/lactor/add_entry.php:124
+msgid "Breastfeeding entry added successfully"
+msgstr "Dato de amamantamiento agregado exitosamente"
+
+#: /srv/http/lactor/add_entry.php:127 /srv/http/lactor/add_entry.php:151
+#: /srv/http/lactor/add_entry.php:177 /srv/http/lactor/add_entry.php:214
+#: /srv/http/lactor/add_entry.php:226
+#: /srv/http/lactor/mobile/m.add_entry.php:124
+#: /srv/http/lactor/mobile/m.add_entry.php:149
+#: /srv/http/lactor/mobile/m.add_entry.php:176
+#: /srv/http/lactor/mobile/m.add_entry.php:214
+#: /srv/http/lactor/mobile/m.add_entry.php:226
+msgid ""
+"An error occurred while processing your submission. Please contact the site "
+"administrator."
+msgstr ""
+"Un error ha ocurrido durante el proceso de su envío. Por favor contacte al "
+"administrador del sitio."
+
+#: /srv/http/lactor/add_entry.php:136
+#: /srv/http/lactor/mobile/m.add_entry.php:134
+msgid "Please enter pumping method"
+msgstr "Por favor entre como se saca la leche"
+
+#: /srv/http/lactor/add_entry.php:139
+#: /srv/http/lactor/mobile/m.add_entry.php:137
+#: /srv/http/lactor/post/modify_entry.post.php:173
+msgid "Please enter pumping duration"
+msgstr "Por favor entre por cuánto tiempo se saca la leche"
+
+#: /srv/http/lactor/add_entry.php:142
+#: /srv/http/lactor/mobile/m.add_entry.php:140
+msgid "Please enter pumping amount"
+msgstr "Por favor entre cuanta leche se saca"
+
+#: /srv/http/lactor/add_entry.php:148
+msgid "Pumping entry added successfully"
+msgstr "Dato de extracción agregado exitosamente"
+
+#: /srv/http/lactor/add_entry.php:159
+#: /srv/http/lactor/mobile/m.add_entry.php:158
+msgid "Please enter supplement type"
+msgstr "Por favor entre el tipo de suplemento"
+
+#: /srv/http/lactor/add_entry.php:162
+#: /srv/http/lactor/mobile/m.add_entry.php:161
+msgid "Please enter supplement method"
+msgstr "Por favor entre el método de suplemento"
+
+#: /srv/http/lactor/add_entry.php:165
+#: /srv/http/lactor/mobile/m.add_entry.php:164
+msgid "Please enter total amount"
+msgstr "Por favor entre la cantidad total"
+
+#: /srv/http/lactor/add_entry.php:168
+#: /srv/http/lactor/mobile/m.add_entry.php:167
+msgid "Please enter number of doses"
+msgstr "Por favor entre el número de veces"
+
+#: /srv/http/lactor/add_entry.php:174
+msgid "Supplement entry added successfully"
+msgstr "Dato de suplemento agregado exitosamente"
+
+#: /srv/http/lactor/add_entry.php:186
+#: /srv/http/lactor/mobile/m.add_entry.php:186
+msgid "Please enter number of diapers"
+msgstr "Por favor entre el número de pañales"
+
+#: /srv/http/lactor/add_entry.php:190
+#: /srv/http/lactor/mobile/m.add_entry.php:190
+msgid "Please enter urine color"
+msgstr "Por favor entre el color de la orina"
+
+#: /srv/http/lactor/add_entry.php:193
+#: /srv/http/lactor/mobile/m.add_entry.php:193
+msgid "Please enter urine saturation"
+msgstr "Por favor entre la cantidad de la orina que hay el pañal"
+
+#: /srv/http/lactor/add_entry.php:197
+#: /srv/http/lactor/mobile/m.add_entry.php:197
+msgid "Please enter stool color"
+msgstr "Por favor entre el color de la materia fecal"
+
+#: /srv/http/lactor/add_entry.php:200
+#: /srv/http/lactor/mobile/m.add_entry.php:200
+msgid "Please enter stool consistency"
+msgstr "Por favor entre la cantidad de popóque hay en el pañal"
+
+#: /srv/http/lactor/add_entry.php:211
+msgid "Output entry added successfully"
+msgstr "Por favor entre la consistencia de la popó (o caca)"
+
+#: /srv/http/lactor/add_entry.php:223
+#: /srv/http/lactor/mobile/m.add_entry.php:223
+msgid "Health issue entry added successfully"
+msgstr "Dato de asunto de salud agregado exitosamente"
+
+#: /srv/http/lactor/add_entry.php:260 /srv/http/lactor/modify_entry.php:106
+msgid "AM"
+msgstr "AM"
+
+#: /srv/http/lactor/add_entry.php:261 /srv/http/lactor/modify_entry.php:107
+msgid "PM"
+msgstr "PM"
+
+#: /srv/http/lactor/add_entry.php:267 /srv/http/lactor/modify_entry.php:113
+msgid "Day"
+msgstr "Día"
+
+#: /srv/http/lactor/add_entry.php:268 /srv/http/lactor/modify_entry.php:114
+#: /srv/http/lactor/mobile/m.add_entry.php:281
+msgid "Today"
+msgstr "Hoy"
+
+#: /srv/http/lactor/add_entry.php:269 /srv/http/lactor/modify_entry.php:115
+#: /srv/http/lactor/mobile/m.add_entry.php:282
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: /srv/http/lactor/add_entry.php:293
+#: /srv/http/lactor/admin/display_data.php:284
+#: /srv/http/lactor/mobile/m.add_entry.php:292
+#: /srv/http/lactor/mobile/view_diary.php:89
+msgid "Breastfeeding"
+msgstr "Amamantamiento"
+
+#: /srv/http/lactor/add_entry.php:294 /srv/http/lactor/view_diary.php:239
+#: /srv/http/lactor/mobile/m.add_entry.php:349
+msgid "Pumping"
+msgstr "Bombeo"
+
+#: /srv/http/lactor/add_entry.php:295
+#: /srv/http/lactor/mobile/m.add_entry.php:389
+msgid "Supplement"
+msgstr "Suplemento"
+
+#: /srv/http/lactor/add_entry.php:296
+#: /srv/http/lactor/mobile/m.add_entry.php:439
+msgid "Output"
+msgstr "Producción"
+
+#: /srv/http/lactor/add_entry.php:297
+#: /srv/http/lactor/admin/display_data.php:230
+msgid "Health Issues"
+msgstr "Asuntos de Salud"
+
+#: /srv/http/lactor/add_entry.php:300
+msgid "Breastfeeding Entry"
+msgstr "Entrada de amamantamiento"
+
+#: /srv/http/lactor/add_entry.php:303
+#: /srv/http/lactor/mobile/m.add_entry.php:294
+msgid "Breastfeeding duration"
+msgstr "Duración de amamantamiento"
+
+#: /srv/http/lactor/add_entry.php:303
+msgid "Left"
+msgstr "Izquierdo"
+
+#: /srv/http/lactor/add_entry.php:306
+msgid "Right"
+msgstr "Derecho"
+
+#: /srv/http/lactor/add_entry.php:312 /srv/http/lactor/education.php:46
+#: /srv/http/lactor/modify_entry.php:142 /srv/http/lactor/view_diary.php:90
+#: /srv/http/lactor/view_diary.php:270
+#: /srv/http/lactor/admin/display_data.php:302
+#: /srv/http/lactor/mobile/m.add_entry.php:316
+#: /srv/http/lactor/mobile/view_diary.php:110
+#: /srv/http/lactor/includes/general.php:371
+msgid "Latching"
+msgstr "Acoplamiento"
+
+#: /srv/http/lactor/education.php:43
+msgid "Educational Materials"
+msgstr "Materiales educativos"
+
+#: /srv/http/lactor/add_entry.php:318
+#: /srv/http/lactor/mobile/m.add_entry.php:325
+msgid "Infant alertness"
+msgstr "Estado de alerta del bebé"
+
+#: /srv/http/lactor/add_entry.php:324
+#: /srv/http/lactor/mobile/m.add_entry.php:335
+msgid "Maternal breastfeeding problems"
+msgstr "Problemas de  amamantar maternos"
+
+#: /srv/http/lactor/add_entry.php:339
+#: /srv/http/lactor/mobile/m.add_entry.php:351
+msgid "Pumping method"
+msgstr "Método para sacar la leche"
+
+#: /srv/http/lactor/add_entry.php:343
+#: /srv/http/lactor/mobile/m.add_entry.php:360
+msgid "Pumping duration"
+msgstr "Duración sacando la leche"
+
+#: /srv/http/lactor/add_entry.php:363 /srv/http/lactor/add_entry.php:442
+#: /srv/http/lactor/modify_entry.php:226 /srv/http/lactor/modify_entry.php:314
+#: /srv/http/lactor/view_diary.php:118 /srv/http/lactor/view_diary.php:388
+#: /srv/http/lactor/view_diary.php:504
+#: /srv/http/lactor/admin/display_data.php:380
+#: /srv/http/lactor/admin/display_data.php:523
+#: /srv/http/lactor/mobile/m.add_entry.php:391
+#: /srv/http/lactor/mobile/m.add_entry.php:491
+#: /srv/http/lactor/mobile/view_diary.php:230
+msgid "Type"
+msgstr "Tipo"
+
+#: /srv/http/lactor/add_entry.php:370 /srv/http/lactor/modify_entry.php:186
+#: /srv/http/lactor/modify_entry.php:230 /srv/http/lactor/view_diary.php:119
+#: /srv/http/lactor/view_diary.php:389
+#: /srv/http/lactor/admin/display_data.php:381
+#: /srv/http/lactor/mobile/m.add_entry.php:399
+#: /srv/http/lactor/mobile/view_diary.php:231
+msgid "Method"
+msgstr "Método"
+
+#: /srv/http/lactor/add_entry.php:377
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: /srv/http/lactor/add_entry.php:377 /srv/http/lactor/modify_entry.php:234
+#: /srv/http/lactor/view_diary.php:120
+msgid "Total Amount Today"
+msgstr "Cantidad Total  Hoy"
+
+#: /srv/http/lactor/add_entry.php:384 /srv/http/lactor/modify_entry.php:238
+msgid "Number of Doses Today"
+msgstr "Número total de veces el día de hoy"
+
+#: /srv/http/lactor/add_entry.php:398
+msgid "Output Entry"
+msgstr "Información acerca las evacuaciones."
+
+#: /srv/http/lactor/add_entry.php:400
+msgid "NOTE: Please add different entries for different forms of output."
+msgstr ""
+"NOTA: Por favor agregue las direntes entradas para las diferentes formas de "
+"producción"
+
+#: /srv/http/lactor/add_entry.php:401 /srv/http/lactor/modify_entry.php:268
+#: /srv/http/lactor/view_diary.php:142 /srv/http/lactor/view_diary.php:444
+#: /srv/http/lactor/admin/display_data.php:448
+#: /srv/http/lactor/mobile/view_diary.php:288
+msgid "Number of Diapers"
+msgstr "Número de pañales"
+
+#: /srv/http/lactor/add_entry.php:408 /srv/http/lactor/modify_entry.php:273
+#: /srv/http/lactor/view_diary.php:143 /srv/http/lactor/view_diary.php:445
+#: /srv/http/lactor/admin/display_data.php:449
+#: /srv/http/lactor/mobile/m.add_entry.php:454
+#: /srv/http/lactor/mobile/view_diary.php:289
+msgid "Urine Color"
+msgstr "Color de orina"
+
+#: /srv/http/lactor/add_entry.php:414 /srv/http/lactor/modify_entry.php:277
+#: /srv/http/lactor/view_diary.php:144 /srv/http/lactor/view_diary.php:446
+#: /srv/http/lactor/admin/display_data.php:450
+#: /srv/http/lactor/mobile/m.add_entry.php:461
+#: /srv/http/lactor/mobile/view_diary.php:290
+msgid "Urine Saturation"
+msgstr "Cantidad de orina"
+
+#: /srv/http/lactor/add_entry.php:421 /srv/http/lactor/modify_entry.php:282
+#: /srv/http/lactor/view_diary.php:145 /srv/http/lactor/view_diary.php:447
+#: /srv/http/lactor/admin/display_data.php:451
+#: /srv/http/lactor/mobile/m.add_entry.php:470
+#: /srv/http/lactor/mobile/view_diary.php:291
+msgid "Stool Color"
+msgstr "Color de la popó"
+
+#: /srv/http/lactor/add_entry.php:427 /srv/http/lactor/modify_entry.php:286
+#: /srv/http/lactor/view_diary.php:146 /srv/http/lactor/view_diary.php:448
+#: /srv/http/lactor/admin/display_data.php:452
+#: /srv/http/lactor/mobile/m.add_entry.php:478
+#: /srv/http/lactor/mobile/view_diary.php:292
+msgid "Stool Consistency"
+msgstr "Consistencia de la popó"
+
+#: /srv/http/lactor/add_entry.php:440 /srv/http/lactor/modify_entry.php:311
+msgid "Health Issue Entry"
+msgstr "Información sobre la salud"
+
+#: /srv/http/lactor/reset_pass.php:8 /srv/http/lactor/reset_pass.php:22
+#: /srv/http/lactor/admin/user_accounts.php:204
+#: /srv/http/lactor/admin/reset_pass.php:8
+#: /srv/http/lactor/admin/reset_pass.php:22
+#: /srv/http/lactor/mobile/m.login.php:36 /srv/http/lactor/mobile/index.php:36
+msgid "Reset Password"
+msgstr "Cambiar la contraseña"
+
+#: /srv/http/lactor/reset_pass.php:25 /srv/http/lactor/admin/reset_pass.php:25
+msgid "Enter your email address"
+msgstr "Entrar su dirección de correo electrónico"
+
+#: /srv/http/lactor/reset_pass.php:29
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:9
+#: /srv/http/lactor/admin/user_accounts.php:500
+#: /srv/http/lactor/admin/post/survey_download.php:77
+#, php-format
+msgid "Postnatal Depression"
+msgstr "Depresión después del parto"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:28
+msgid "Please fill out all the fields"
+msgstr "Por favor complete todas los espacios en blanco"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:33
+msgid "Edinburgh Postnatal Depression Scale"
+msgstr "Escala de Edinburgo para Depresión después del parto."
+
+#: /srv/http/lactor/postnatal_depression_survey.php:40
+msgid "I have felt happy"
+msgstr "Me he sentido feliz"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:41
+msgid "Yes, all the time"
+msgstr "Sí, todo el tiempo"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:42
+#: /srv/http/lactor/postnatal_depression_survey.php:64
+#: /srv/http/lactor/postnatal_depression_survey.php:92
+#: /srv/http/lactor/postnatal_depression_survey.php:99
+#: /srv/http/lactor/admin/user_accounts.php:618
+#: /srv/http/lactor/admin/user_accounts.php:659
+#: /srv/http/lactor/admin/user_accounts.php:715
+#: /srv/http/lactor/admin/user_accounts.php:729
+#: /srv/http/lactor/admin/post/survey_download.php:256
+#: /srv/http/lactor/admin/post/survey_download.php:293
+#: /srv/http/lactor/admin/post/survey_download.php:345
+#: /srv/http/lactor/admin/post/survey_download.php:358
+msgid "Yes, most of the time"
+msgstr "Sí, la mayoría del tiempo"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:43
+#: /srv/http/lactor/admin/user_accounts.php:620
+#: /srv/http/lactor/admin/post/survey_download.php:258
+msgid "No, not very often"
+msgstr "No, no muy frecuentemente"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:44
+#: /srv/http/lactor/postnatal_depression_survey.php:71
+#: /srv/http/lactor/postnatal_depression_survey.php:81
+#: /srv/http/lactor/postnatal_depression_survey.php:95
+#: /srv/http/lactor/admin/user_accounts.php:622
+#: /srv/http/lactor/admin/user_accounts.php:673
+#: /srv/http/lactor/admin/user_accounts.php:693
+#: /srv/http/lactor/admin/user_accounts.php:721
+#: /srv/http/lactor/admin/post/survey_download.php:260
+#: /srv/http/lactor/admin/post/survey_download.php:306
+#: /srv/http/lactor/admin/post/survey_download.php:325
+#: /srv/http/lactor/admin/post/survey_download.php:351
+msgid "No, not at all"
+msgstr "No, para nada"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:47
+#: /srv/http/lactor/admin/user_accounts.php:627
+msgid "In the past 7 days"
+msgstr "En los últimos 7 días"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:49
+#: /srv/http/lactor/admin/user_accounts.php:628
+#: /srv/http/lactor/admin/post/survey_download.php:194
+msgid "I have been able to laugh and see the funny side of things"
+msgstr "He podido reirme y ver el lado chistoso de las cosas"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:50
+#: /srv/http/lactor/admin/user_accounts.php:631
+#: /srv/http/lactor/admin/post/survey_download.php:267
+msgid "As much as I always could"
+msgstr "Tanto como siempre he podido"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:51
+#: /srv/http/lactor/admin/user_accounts.php:633
+#: /srv/http/lactor/admin/post/survey_download.php:269
+msgid "Not quite so much now"
+msgstr "No tanto ahora"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:52
+#: /srv/http/lactor/admin/user_accounts.php:635
+#: /srv/http/lactor/admin/post/survey_download.php:271
+msgid "Definitely not so much now"
+msgstr "Definitivamente no mucho"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:53
+#: /srv/http/lactor/admin/user_accounts.php:637
+#: /srv/http/lactor/admin/post/survey_download.php:273
+msgid "Not at all"
+msgstr "Para nada"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:56
+#: /srv/http/lactor/admin/user_accounts.php:642
+#: /srv/http/lactor/admin/post/survey_download.php:195
+msgid "I have looked forward with enjoyment to things"
+msgstr "He anhelado el disfrutar cosas"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:57
+#: /srv/http/lactor/admin/user_accounts.php:645
+#: /srv/http/lactor/admin/post/survey_download.php:280
+msgid "As much as I ever did"
+msgstr "Tanto como siempre"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:58
+#: /srv/http/lactor/admin/user_accounts.php:647
+#: /srv/http/lactor/admin/post/survey_download.php:282
+msgid "Rather less than I used to"
+msgstr "Menos de lo que acostumbraba"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:59
+#: /srv/http/lactor/admin/user_accounts.php:649
+#: /srv/http/lactor/admin/post/survey_download.php:284
+msgid "Definitely less than I used to"
+msgstr "Definitivamente menos de lo que acostumbraba"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:60
+#: /srv/http/lactor/admin/user_accounts.php:651
+#: /srv/http/lactor/admin/post/survey_download.php:286
+msgid "Hardly at all"
+msgstr "Para nada"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:63
+#: /srv/http/lactor/admin/user_accounts.php:656
+#: /srv/http/lactor/admin/post/survey_download.php:196
+msgid "I have blamed myself unnecessarily when things went wrong"
+msgstr "Me he culpado sin necesidad cuando las cosas han salido mal"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:65
+#: /srv/http/lactor/admin/user_accounts.php:661
+#: /srv/http/lactor/admin/post/survey_download.php:295
+msgid "Yes, some of the time"
+msgstr "Sí, parte del tiempo"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:66
+#: /srv/http/lactor/postnatal_depression_survey.php:94
+#: /srv/http/lactor/admin/user_accounts.php:663
+#: /srv/http/lactor/admin/user_accounts.php:719
+#: /srv/http/lactor/admin/post/survey_download.php:297
+#: /srv/http/lactor/admin/post/survey_download.php:349
+msgid "Not very often"
+msgstr "No muy frecuentemente"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:67
+#: /srv/http/lactor/postnatal_depression_survey.php:102
+#: /srv/http/lactor/admin/user_accounts.php:665
+#: /srv/http/lactor/admin/user_accounts.php:735
+#: /srv/http/lactor/admin/post/survey_download.php:299
+#: /srv/http/lactor/admin/post/survey_download.php:364
+msgid "No, never"
+msgstr "No, nunca"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:70
+#: /srv/http/lactor/admin/user_accounts.php:670
+#: /srv/http/lactor/admin/post/survey_download.php:197
+msgid "I have been anxious or worried for no good reason"
+msgstr "He estado ansiosa o preocupada sin razón"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:72
+#: /srv/http/lactor/postnatal_depression_survey.php:108
+#: /srv/http/lactor/admin/user_accounts.php:675
+#: /srv/http/lactor/admin/user_accounts.php:747
+#: /srv/http/lactor/admin/post/survey_download.php:308
+#: /srv/http/lactor/admin/post/survey_download.php:375
+msgid "Hardly ever"
+msgstr "Casi nunca"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:73
+#: /srv/http/lactor/postnatal_depression_survey.php:79
+#: /srv/http/lactor/postnatal_depression_survey.php:93
+#: /srv/http/lactor/admin/user_accounts.php:677
+#: /srv/http/lactor/admin/user_accounts.php:689
+#: /srv/http/lactor/admin/user_accounts.php:717
+#: /srv/http/lactor/admin/post/survey_download.php:310
+#: /srv/http/lactor/admin/post/survey_download.php:321
+#: /srv/http/lactor/admin/post/survey_download.php:347
+msgid "Yes, sometimes"
+msgstr "Sí, a veces"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:74
+#: /srv/http/lactor/admin/user_accounts.php:679
+#: /srv/http/lactor/admin/post/survey_download.php:312
+msgid "Yes, very often"
+msgstr "Sí, frecuentemente"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:77
+msgid "I have felt scared or panicky for no very good reason"
+msgstr "Me he sentido asustada o con pánico sin razón"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:78
+#: /srv/http/lactor/admin/user_accounts.php:687
+#: /srv/http/lactor/admin/post/survey_download.php:319
+msgid "Yes, quite a lot"
+msgstr "Sí, bastante"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:80
+#: /srv/http/lactor/admin/user_accounts.php:691
+#: /srv/http/lactor/admin/post/survey_download.php:323
+msgid "No, not much"
+msgstr "No, no mucho"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:84
+msgid "Things have been getting on top of me"
+msgstr "No puedo con todo"
+
+msgid "Yes, most of the time I haven't been able to cope at all"
+msgstr "Sí, la mayoría del tiempo no he sido capaz de hacer frente a todo."
+
+#: /srv/http/lactor/postnatal_depression_survey.php:85
+#: /srv/http/lactor/admin/user_accounts.php:701
+#: /srv/http/lactor/admin/post/survey_download.php:332
+msgid "Yes, most of the time I haven't been able"
+msgstr "Sí, la mayoría de las veces no he sido capaz de"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:86
+#: /srv/http/lactor/admin/user_accounts.php:703
+#: /srv/http/lactor/admin/post/survey_download.php:334
+msgid "Yes, sometimes I haven't been coping as well"
+msgstr "Sí, algunas veces no he podido hacer frente a las cosas tan bien"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:87
+#: /srv/http/lactor/admin/user_accounts.php:705
+#: /srv/http/lactor/admin/post/survey_download.php:336
+msgid "No, most of the time I have coped quite well"
+msgstr "No, la mayoría del tiempo he podido enfrentar las cosas bien "
+
+#: /srv/http/lactor/postnatal_depression_survey.php:88
+#: /srv/http/lactor/admin/user_accounts.php:707
+#: /srv/http/lactor/admin/post/survey_download.php:338
+msgid "No, I have been coping as well as ever"
+msgstr ""
+"No, la mayoría del tiempo he podido enfrentar las cosas tan bien como antes"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:91
+#: /srv/http/lactor/admin/user_accounts.php:712
+#: /srv/http/lactor/admin/post/survey_download.php:200
+msgid "I have been so unhappy that I have had difficulty sleeping"
+msgstr "He estado tan triste que he tenido dificultad para dormir"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:98
+#: /srv/http/lactor/admin/user_accounts.php:726
+#: /srv/http/lactor/admin/post/survey_download.php:201
+msgid "I have been so unhappy that I have been crying"
+msgstr "He estado tan triste que he estado llorando"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:100
+msgid "Yes quite often"
+msgstr "Sí muy a menudo"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:101
+#: /srv/http/lactor/admin/user_accounts.php:733
+#: /srv/http/lactor/admin/post/survey_download.php:362
+msgid "Only occasionally"
+msgstr "Sólo ocasionalmente"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:105
+#: /srv/http/lactor/admin/user_accounts.php:740
+#: /srv/http/lactor/admin/post/survey_download.php:202
+msgid "The thought of harming myself has occurred to me"
+msgstr "Se me ha ocurrido hacerme daño"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:106
+#: /srv/http/lactor/admin/user_accounts.php:731
+#: /srv/http/lactor/admin/user_accounts.php:743
+#: /srv/http/lactor/admin/post/survey_download.php:360
+#: /srv/http/lactor/admin/post/survey_download.php:371
+msgid "Yes, quite often"
+msgstr "Sí, muy a menudo"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:107
+#: /srv/http/lactor/admin/user_accounts.php:745
+#: /srv/http/lactor/admin/post/survey_download.php:373
+msgid "Sometimes"
+msgstr "Algunas veces"
+
+#: /srv/http/lactor/postnatal_depression_survey.php:109
+#: /srv/http/lactor/admin/user_accounts.php:749
+#: /srv/http/lactor/admin/post/survey_download.php:377
+msgid "Never"
+msgstr "Nunca"
+
+#: /srv/http/lactor/system_perception.php:20
+msgid "A maximum of 500 letters per field."
+msgstr "Máximo 500 letras por espacio."
+
+#: /srv/http/lactor/system_perception.php:30
+#: /srv/http/lactor/admin/user_accounts.php:542
+#: /srv/http/lactor/admin/post/survey_download.php:124
+msgid ""
+"Was the web-based breastfeeding monitoring helpful in recognizing your baby's "
+"breastfeeding problems?"
+msgstr ""
+"¿Fué el sistema sistema en-línea de monitoreo de lactancia materna útil para "
+"reconocer los problemas para amamantar?"
+
+#: /srv/http/lactor/system_perception.php:31
+#: /srv/http/lactor/admin/user_accounts.php:543
+#: /srv/http/lactor/admin/post/survey_download.php:125
+msgid "How did it help?"
+msgstr "¿Cómo le ayudó?"
+
+#: /srv/http/lactor/system_perception.php:33
+#: /srv/http/lactor/admin/user_accounts.php:544
+#: /srv/http/lactor/admin/post/survey_download.php:126
+msgid "Was the data entry time consuming? Do you have any suggestions?"
+msgstr ""
+"¿Le llevó mucho tiempo meter la información en el sistema? ¿Tiene algunas "
+"sugerencias?"
+
+#: /srv/http/lactor/system_perception.php:35
+#: /srv/http/lactor/admin/user_accounts.php:545
+#: /srv/http/lactor/admin/post/survey_download.php:127
+msgid ""
+"Was the data entry a burden for you or overwhelming? Do you have any "
+"suggestions?"
+msgstr ""
+"¿Fué la entrada de datos una carga o algo tediosa? ¿Tiene algunas sugerencias?"
+
+#: /srv/http/lactor/system_perception.php:37
+#: /srv/http/lactor/admin/user_accounts.php:546
+#: /srv/http/lactor/admin/post/survey_download.php:128
+msgid ""
+"How did the web-based monitoring help in overcoming your baby's health "
+"problems?"
+msgstr ""
+"¿Cómo le ayudó el sistema en-línea de monitoreo a superar los problemas de "
+"salud de su bebé?"
+
+#: /srv/http/lactor/system_perception.php:39
+msgid "Do you think the system helped you to brestfeed longer? Explain."
+msgstr ""
+"¿Cree que el sistema le ayudó a aumentar la duración de lactancia? Explique"
+
+#: /srv/http/lactor/system_perception.php:43
+#: /srv/http/lactor/admin/user_accounts.php:549
+#: /srv/http/lactor/admin/post/survey_download.php:131
+msgid ""
+"Would you recommend this web-based monitoring for a friend? Why and why not?"
+msgstr ""
+"¿Recomendaría usted este sistema de monitoreo en línea a una amiga? Por qué o "
+"por qué no?"
+
+#: /srv/http/lactor/logout.php:28
+msgid "You have successfully logged out."
+msgstr "Usted ha salido exitosamente."
+
+#: /srv/http/lactor/logout.php:30 /srv/http/lactor/admin/logout.php:23
+msgid "Log back in."
+msgstr "Volver a entrar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:34
+#: /srv/http/lactor/breastfeeding_evaluation.php:39
+#: /srv/http/lactor/admin/user_accounts.php:498
+#: /srv/http/lactor/admin/post/survey_download.php:75
+#, php-format
+msgid "Breastfeeding Evaluation"
+msgstr "Evaluación de Amamantamiento"
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:40
+msgid ""
+"If you breastfed more than one baby, base your answers on the most recent "
+"experience. Consider the overall breastfeeding experience, and please do not "
+"skip any questions."
+msgstr ""
+"Si usted amamantó a más de un bebé, base sus respuestas en la experiencia más "
+"reciente. Considere la experiencia general de lactancia, y por favor no se "
+"salte ninguna pregunta."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:41
+msgid ""
+"Indicate your agreement or disagreement with each statement by selecting the "
+"best answer."
+msgstr ""
+"Indique su acuerdo o desacuerdo con cada afirmación seleccionando la mejor "
+"respuesta."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:46
+msgid "Strongly<br />Disagree"
+msgstr "Estoy totalmente en desacuerdo"
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:48
+msgid "Strongly<br />Agree"
+msgstr "Estoy totalmente de acuerdo"
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:51
+#: /srv/http/lactor/admin/user_accounts.php:582
+#: /srv/http/lactor/admin/post/survey_download.php:161
+msgid "With breastfeeding I felt a sense of inner contentment."
+msgstr "Amamantando me sentí feliz interiormente."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:59
+#: /srv/http/lactor/admin/user_accounts.php:583
+#: /srv/http/lactor/admin/post/survey_download.php:162
+msgid "Breastfeeding was a special time with my baby."
+msgstr "El amamantamiento fué un tiempo especial con mi bebé."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:67
+#: /srv/http/lactor/admin/user_accounts.php:584
+#: /srv/http/lactor/admin/post/survey_download.php:163
+msgid "My baby wasn't interested in breastfeeding."
+msgstr "Mi bebé no estaba interesado en amamantar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:75
+#: /srv/http/lactor/admin/user_accounts.php:585
+#: /srv/http/lactor/admin/post/survey_download.php:164
+msgid "My baby loved to nurse."
+msgstr "A mi bebé le encantaba amamantar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:83
+#: /srv/http/lactor/admin/user_accounts.php:586
+#: /srv/http/lactor/admin/post/survey_download.php:165
+msgid "It was a burden being my baby's main source of food."
+msgstr "Fué una carga el ser la única fuente de alimento de mi bebé."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:91
+#: /srv/http/lactor/admin/user_accounts.php:587
+#: /srv/http/lactor/admin/post/survey_download.php:166
+msgid "I felt extremely close to my baby when I breastfed."
+msgstr "Me sentí muy cercana a mi bebé cuando lo amamantaba."
+
+msgid "My baby was an eager breast feeder."
+msgstr "A mi bebé le gustó mucho tomar el pecho"
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:99
+#: /srv/http/lactor/admin/user_accounts.php:588
+#: /srv/http/lactor/admin/post/survey_download.php:167
+msgid "My baby was an eager breastfeeder."
+msgstr "Mi bebé tenía un breastfeeder ansioso."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:107
+#: /srv/http/lactor/admin/user_accounts.php:589
+#: /srv/http/lactor/admin/post/survey_download.php:168
+msgid "Breastfeeding was physically draining."
+msgstr "Me cansó mucho dar el pecho"
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:115
+#: /srv/http/lactor/admin/user_accounts.php:590
+#: /srv/http/lactor/admin/post/survey_download.php:169
+msgid "It was important to me to be able to nurse."
+msgstr "Era importante para mi el poder amamantar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:123
+#: /srv/http/lactor/admin/user_accounts.php:591
+#: /srv/http/lactor/admin/post/survey_download.php:170
+msgid "While breastfeeding, my baby's growth was excellent."
+msgstr "Durante la lactancia, el crecimiento de mi bebé fué excelente."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:131
+#: /srv/http/lactor/admin/user_accounts.php:592
+#: /srv/http/lactor/admin/post/survey_download.php:171
+msgid "My baby and I worked together to make breastfeeding go smoothly."
+msgstr "Mi bebé y yo trabajamos juntos para hacer fácil el amamantar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:139
+#: /srv/http/lactor/admin/user_accounts.php:593
+#: /srv/http/lactor/admin/post/survey_download.php:172
+msgid "Breastfeeding was a very nurturing, maternal experience."
+msgstr "El amamantar fué una experiencia maternal muy enriquecedora."
+
+msgid "While breastfeeding, I felt self-conscious about my body."
+msgstr "Mientras amamantaba, estaba muy consciente de mi cuerpo."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:147
+#: /srv/http/lactor/admin/user_accounts.php:594
+#: /srv/http/lactor/admin/post/survey_download.php:173
+msgid "While breastfeeding, I felt self-concious about my body."
+msgstr "Durante la lactancia, sentí auto-consciente sobre mi cuerpo."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:155
+#: /srv/http/lactor/admin/user_accounts.php:595
+#: /srv/http/lactor/admin/post/survey_download.php:174
+msgid "With breastfeeding, I felt too tied down all the time."
+msgstr "Con la lactancia me sentí amarrada todo el tiempo."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:163
+#: /srv/http/lactor/admin/user_accounts.php:596
+#: /srv/http/lactor/admin/post/survey_download.php:175
+msgid "While breastfeeding, I worried about my baby gaining enough weight."
+msgstr ""
+"Mientras amamantaba, estaba preocupada de que mi bebé ganara suficiente peso."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:171
+#: /srv/http/lactor/admin/user_accounts.php:597
+#: /srv/http/lactor/admin/post/survey_download.php:176
+msgid "Breastfeeding was soothing when my baby was upset or crying."
+msgstr "El amamantar calmaba a mi bebé cuando estaba llorando o inquieto."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:179
+#: /srv/http/lactor/admin/user_accounts.php:598
+#: /srv/http/lactor/admin/post/survey_download.php:177
+msgid "Breastfeeding was like a high of sorts."
+msgstr "El amamantar fué una experiencia inigualable."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:187
+#: /srv/http/lactor/admin/user_accounts.php:599
+#: /srv/http/lactor/admin/post/survey_download.php:178
+msgid ""
+"The fact that I could produce the food to feed my own baby was very "
+"satisfying."
+msgstr ""
+"El hecho de que hubiera podido producir el alimento para mi bebé fué muy "
+"satisfactorio."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:195
+#: /srv/http/lactor/admin/user_accounts.php:600
+#: /srv/http/lactor/admin/post/survey_download.php:179
+msgid "In the beginning, my baby had trouble breastfeeding."
+msgstr "En el comienzo, mi bebé tuvo problemas amamantando."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:203
+#: /srv/http/lactor/admin/user_accounts.php:601
+#: /srv/http/lactor/admin/post/survey_download.php:180
+msgid "Breastfeeding made me feel like a good mother."
+msgstr "El amamantar me hizo sentir como una buena madre."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:211
+#: /srv/http/lactor/admin/user_accounts.php:602
+#: /srv/http/lactor/admin/post/survey_download.php:181
+msgid "I really enjoyed nursing."
+msgstr "Disfruté mucho el amamantar."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:219
+#: /srv/http/lactor/admin/user_accounts.php:603
+#: /srv/http/lactor/admin/post/survey_download.php:182
+msgid "While breastfeeding, I was anxious to have my body back."
+msgstr "Mientras amamantaba, estaba ansiosa de recuperar mi figura."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:227
+#: /srv/http/lactor/breastfeeding_evaluation.php:243
+#: /srv/http/lactor/admin/user_accounts.php:604
+#: /srv/http/lactor/admin/user_accounts.php:606
+#: /srv/http/lactor/admin/post/survey_download.php:183
+#: /srv/http/lactor/admin/post/survey_download.php:185
+msgid "Breastfeeding made me feel more confident as a mother."
+msgstr "El amamantar me hizo sentir más segura como madre."
+
+msgid "My baby gained weight really well with breast milk."
+msgstr "Mi bebé ganó buen peso con leche materna."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:235
+#: /srv/http/lactor/admin/user_accounts.php:605
+#: /srv/http/lactor/admin/post/survey_download.php:184
+msgid "My baby gained weight really well with breastmilk."
+msgstr "Mi bebé aumentado de peso muy bien con la leche materna."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:251
+#: /srv/http/lactor/admin/user_accounts.php:607
+#: /srv/http/lactor/admin/post/survey_download.php:186
+msgid "I could easily fit my baby's breastfeeding with my other activities."
+msgstr ""
+"Pude fácilmente acomodar la lactancia de mi bebé con mis otras actividades."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:259
+#: /srv/http/lactor/admin/user_accounts.php:608
+#: /srv/http/lactor/admin/post/survey_download.php:187
+msgid "Breastfeeding made me feel like a cow."
+msgstr "El amamantar me hizo sentir como una vaca."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:267
+#: /srv/http/lactor/admin/user_accounts.php:609
+#: /srv/http/lactor/admin/post/survey_download.php:188
+msgid "My baby did not relax while nursing."
+msgstr "Mi bebé no se relajaba mientras lactaba."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:275
+#: /srv/http/lactor/admin/user_accounts.php:610
+#: /srv/http/lactor/admin/post/survey_download.php:189
+msgid "Breastfeeding was emotionally draining."
+msgstr "El amamantar fué emocionalmente agotador."
+
+#: /srv/http/lactor/breastfeeding_evaluation.php:283
+#: /srv/http/lactor/admin/user_accounts.php:611
+#: /srv/http/lactor/admin/post/survey_download.php:190
+msgid "Breastfeeding felt wonderful to me."
+msgstr "El amamantar fué maravilloso para mi."
+
+#: /srv/http/lactor/education.php:31
+msgid "Logged in as scientist."
+msgstr "Ha iniciado seción como científico."
+
+#: /srv/http/lactor/education.php:49
+msgid "Managing your milk supply"
+msgstr "Manejando su reserva de leche"
+
+#: /srv/http/lactor/education.php:52
+msgid "Milk expression and pumping"
+msgstr "Eyección de leche y extracción "
+
+#: /srv/http/lactor/education.php:55
+msgid "My baby is Jaundiced"
+msgstr "Mi bebé está amarillo"
+
+#: /srv/http/lactor/education.php:58
+msgid "Tips for breastfeeding your premature baby"
+msgstr "Consejos para amamantar a su bebé prematuro"
+
+#: /srv/http/lactor/education.php:61
+msgid "When your baby is born a little early"
+msgstr "Cuando su bebé ha nacido temprano"
+
+#: /srv/http/lactor/education.php:64
+msgid "Feeding Cues"
+msgstr "Indicaciones de alimentación"
+
+#: /srv/http/lactor/education.php:67
+msgid "Breastfeeing and returning to work"
+msgstr "Breastfeeing y el regreso al trabajo"
+
+#: /srv/http/lactor/breastfeeding_followup.php:73
+msgid "3-4 times"
+msgstr "3-4 veces"
+
+#: /srv/http/lactor/breastfeeding_followup.php:74
+msgid "5-6 times"
+msgstr "5-6 veces"
+
+#: /srv/http/lactor/notifications.php:38
+msgid "Current"
+msgstr "Actual"
+
+#: /srv/http/lactor/notifications.php:39
+msgid "Past"
+msgstr "Pasado"
+
+#: /srv/http/lactor/notifications.php:42
+msgid "Current Notifications"
+msgstr "Notificaciones actuales"
+
+#: /srv/http/lactor/notifications.php:48 /srv/http/lactor/notifications.php:63
+#: /srv/http/lactor/view_diary.php:267 /srv/http/lactor/view_diary.php:330
+#: /srv/http/lactor/view_diary.php:385 /srv/http/lactor/view_diary.php:443
+#: /srv/http/lactor/view_diary.php:503
+#: /srv/http/lactor/admin/display_data.php:299
+#: /srv/http/lactor/admin/display_data.php:377
+#: /srv/http/lactor/admin/display_data.php:447
+#: /srv/http/lactor/admin/display_data.php:522
+#: /srv/http/lactor/mobile/view_diary.php:107
+#: /srv/http/lactor/mobile/view_diary.php:169
+#: /srv/http/lactor/mobile/view_diary.php:227
+#: /srv/http/lactor/mobile/view_diary.php:287
+#: /srv/http/lactor/mobile/view_diary.php:348
+msgid "Date &amp; Time"
+msgstr "Fecha y Hora"
+
+#: /srv/http/lactor/notifications.php:48 /srv/http/lactor/notifications.php:63
+msgid "Problem"
+msgstr "Problema"
+
+#: /srv/http/lactor/notifications.php:50
+#: /srv/http/lactor/mobile/m.notifications.php:49
+msgid "Mark As Read"
+msgstr "Marcar como leído"
+
+#: /srv/http/lactor/notifications.php:57
+msgid "Read Notifications"
+msgstr "Leer notificaciones"
+
+#: /srv/http/lactor/modify_entry.php:21 /srv/http/lactor/modify_entry.php:50
+#: /srv/http/lactor/modify_entry.php:165 /srv/http/lactor/modify_entry.php:204
+#: /srv/http/lactor/modify_entry.php:249 /srv/http/lactor/modify_entry.php:296
+#: /srv/http/lactor/modify_entry.php:323
+#: /srv/http/lactor/mobile/m.modify_entry.php:36
+#: /srv/http/lactor/mobile/m.modify_entry.php:137
+#: /srv/http/lactor/mobile/m.modify_entry.php:181
+#: /srv/http/lactor/mobile/m.modify_entry.php:232
+#: /srv/http/lactor/mobile/m.modify_entry.php:257
+msgid "Modify Entry"
+msgstr "Modificar la entrada"
+
+#: /srv/http/lactor/modify_entry.php:77
+msgid "Entry Not Found"
+msgstr "Entrada no encontrada"
+
+#: /srv/http/lactor/modify_entry.php:132
+msgid "Breastfeeding duration:"
+msgstr "Duración de lactancia:"
+
+#: /srv/http/lactor/modify_entry.php:137
+msgid "Side:"
+msgstr "Lado:"
+
+#: /srv/http/lactor/modify_entry.php:147
+msgid "Infant alertness:"
+msgstr "Estado de alerta del bebé:"
+
+#: /srv/http/lactor/modify_entry.php:152
+msgid "Maternal breastfeeding problems:"
+msgstr "Problemas maternos para amamantar:"
+
+#: /srv/http/lactor/modify_entry.php:167 /srv/http/lactor/modify_entry.php:206
+#: /srv/http/lactor/modify_entry.php:251 /srv/http/lactor/modify_entry.php:297
+#: /srv/http/lactor/modify_entry.php:324
+#: /srv/http/lactor/mobile/m.modify_entry.php:139
+#: /srv/http/lactor/mobile/m.modify_entry.php:183
+#: /srv/http/lactor/mobile/m.modify_entry.php:234
+#: /srv/http/lactor/mobile/m.modify_entry.php:259
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /srv/http/lactor/modify_entry.php:181 /srv/http/lactor/view_diary.php:88
+#: /srv/http/lactor/view_diary.php:268 /srv/http/lactor/view_diary.php:331
+#: /srv/http/lactor/admin/display_data.php:300
+#: /srv/http/lactor/mobile/view_diary.php:108
+#: /srv/http/lactor/mobile/view_diary.php:170
+msgid "Duration"
+msgstr "Duración"
+
+#: /srv/http/lactor/modify_entry.php:191
+msgid "Amount"
+msgstr "Cantidad"
+
+#: /srv/http/lactor/view_diary.php:52 /srv/http/lactor/mobile/header.php:9
+#: /srv/http/lactor/mobile/view_diary.php:84
+msgid "View Diary"
+msgstr "Ver Diario"
+
+#: /srv/http/lactor/view_diary.php:87 /srv/http/lactor/view_diary.php:117
+#: /srv/http/lactor/view_diary.php:141
+msgid "Date"
+msgstr "Fecha"
+
+#: /srv/http/lactor/view_diary.php:89 /srv/http/lactor/view_diary.php:269
+#: /srv/http/lactor/admin/display_data.php:301
+#: /srv/http/lactor/mobile/view_diary.php:109
+msgid "Side"
+msgstr "Lado"
+
+#: /srv/http/lactor/view_diary.php:91 /srv/http/lactor/view_diary.php:332
+#: /srv/http/lactor/admin/display_data.php:303
+#: /srv/http/lactor/mobile/view_diary.php:171
+msgid "Pumping Method"
+msgstr "Método de Extracción"
+
+#: /srv/http/lactor/view_diary.php:92 /srv/http/lactor/view_diary.php:333
+#: /srv/http/lactor/admin/display_data.php:304
+#: /srv/http/lactor/mobile/view_diary.php:172
+msgid "Pumping Amount"
+msgstr "Cantidad de Extracción"
+
+#: /srv/http/lactor/view_diary.php:93 /srv/http/lactor/view_diary.php:271
+#: /srv/http/lactor/admin/display_data.php:305
+#: /srv/http/lactor/mobile/view_diary.php:111
+msgid "Infant Alertness"
+msgstr "Estado de alerta del bebé"
+
+#: /srv/http/lactor/view_diary.php:94 /srv/http/lactor/view_diary.php:272
+#: /srv/http/lactor/admin/display_data.php:306
+#: /srv/http/lactor/mobile/view_diary.php:112
+msgid "Maternal Problems"
+msgstr "Problemas Maternos"
+
+#: /srv/http/lactor/view_diary.php:121
+msgid "Number Of Doses Today"
+msgstr "Número total de veces el día de hoy"
+
+
+#: /srv/http/lactor/view_diary.php:204
+msgid "Date Range"
+msgstr "Rango de fechas"
+
+#: /srv/http/lactor/view_diary.php:211
+#: /srv/http/lactor/admin/display_data.php:232
+msgid "From"
+msgstr "De"
+
+#: /srv/http/lactor/view_diary.php:211
+msgid "To"
+msgstr "Hasta"
+
+#: /srv/http/lactor/view_diary.php:211
+msgid "Search Diary"
+msgstr "Buscar diario"
+
+#: /srv/http/lactor/view_diary.php:238
+msgid "Breastfeed Diary"
+msgstr "Diario de Lactancia"
+
+#: /srv/http/lactor/view_diary.php:240 /srv/http/lactor/view_diary.php:373
+msgid "Supplement Diary"
+msgstr "Diaro de Suplementos"
+
+#: /srv/http/lactor/view_diary.php:241 /srv/http/lactor/view_diary.php:430
+msgid "Output Diary"
+msgstr "Diario de Producción"
+
+#: /srv/http/lactor/view_diary.php:242
+msgid "Health Issues Diary"
+msgstr "Diario de Asuntos de Salud"
+
+#: /srv/http/lactor/view_diary.php:252
+msgid "Breastfeeding Diary"
+msgstr "Diario de Lactancia"
+
+#: /srv/http/lactor/view_diary.php:273 /srv/http/lactor/view_diary.php:334
+#: /srv/http/lactor/view_diary.php:390 /srv/http/lactor/view_diary.php:449
+#: /srv/http/lactor/view_diary.php:505
+#: /srv/http/lactor/mobile/view_diary.php:130
+#: /srv/http/lactor/mobile/view_diary.php:190
+#: /srv/http/lactor/mobile/view_diary.php:249
+#: /srv/http/lactor/mobile/view_diary.php:310
+msgid "Modify"
+msgstr "Modificar"
+
+#: /srv/http/lactor/view_diary.php:386
+msgid "Total Amount"
+msgstr "Cantidad Total  "
+
+#: /srv/http/lactor/view_diary.php:387
+#: /srv/http/lactor/admin/display_data.php:379
+#: /srv/http/lactor/mobile/view_diary.php:229
+msgid "Number of Doses"
+msgstr "Número total de veces"
+
+#: /srv/http/lactor/view_diary.php:491
+msgid "Health Issue Diaries"
+msgstr "Diarios de Asuntos de Salud"
+
+#: /srv/http/lactor/admin/child_info.php:15
+msgid "Child Info"
+msgstr "Información del Bebé"
+
+#: /srv/http/lactor/admin/child_info.php:31
+msgid ""
+"Note: Once a child's information has been added for a certain mother, it "
+"cannot be undone or modified."
+msgstr ""
+"Nota: Una vez que la información de un bebé se ha agregado para cierta mamá, "
+"no se puede modificar o cancelar."
+
+#: /srv/http/lactor/admin/child_info.php:42
+msgid "Add Child Information"
+msgstr "Agregar información del Bebé"
+
+#: /srv/http/lactor/admin/child_info.php:45
+#: /srv/http/lactor/admin/display_data.php:234
+#: /srv/http/lactor/admin/user_accounts.php:227
+#: /srv/http/lactor/admin/user_accounts.php:285
+#: /srv/http/lactor/admin/user_accounts.php:304
+#: /srv/http/lactor/admin/user_accounts.php:389
+#: /srv/http/lactor/admin/proxy.php:41
+msgid "Mother"
+msgstr "Madre"
+
+#: /srv/http/lactor/admin/child_info.php:69
+msgid "Morbidities"
+msgstr "Enfermedades"
+
+#: /srv/http/lactor/admin/display_data.php:207
+#: /srv/http/lactor/admin/display_data.php:224
+msgid "Display Data"
+msgstr "Mostrar Datos"
+
+#: /srv/http/lactor/admin/display_data.php:227
+msgid "Diary Query Values"
+msgstr "Valores de Diario"
+
+#: /srv/http/lactor/admin/display_data.php:244
+msgid "Search"
+msgstr "Buscar"
+
+#: /srv/http/lactor/admin/display_data.php:244
+#: /srv/http/lactor/admin/user_accounts.php:367
+#: /srv/http/lactor/admin/user_accounts.php:457
+#, php-format
+msgid "Download"
+msgstr "Bajar"
+
+#: /srv/http/lactor/admin/display_data.php:378
+msgid "Total"
+msgstr "Total"
+
+#: /srv/http/lactor/admin/user_accounts.php:145
+msgid "User Accounts"
+msgstr "Usuarios de Cuentas"
+
+#: /srv/http/lactor/admin/user_accounts.php:186
+msgid "Add/Manage Users"
+msgstr "Agregar/Manejar Usuarios"
+
+#: /srv/http/lactor/admin/user_accounts.php:187
+msgid "Proxy"
+msgstr "Representante"
+
+#: /srv/http/lactor/admin/user_accounts.php:188
+msgid "View/Edit Mother Info"
+msgstr "Ver/Editar Información de la Madre"
+
+#: /srv/http/lactor/admin/user_accounts.php:189
+msgid "View/Edit Child Info"
+msgstr "Ver/Editar Información del Bebé"
+
+#: /srv/http/lactor/admin/user_accounts.php:190
+msgid "Questionnaires"
+msgstr "Cuestionarios"
+
+#: /srv/http/lactor/admin/user_accounts.php:193
+msgid "Manage Users"
+msgstr "Manejar Usuarios"
+
+#: /srv/http/lactor/admin/user_accounts.php:196
+msgid "Action"
+msgstr "Acción"
+
+#: /srv/http/lactor/admin/user_accounts.php:197
+msgid "Request system feedback"
+msgstr "Solicitar realimentación del sistema"
+
+#: /srv/http/lactor/admin/user_accounts.php:198
+msgid "Send breastfeeding followup"
+msgstr "Enviar followup lactancia"
+
+#: /srv/http/lactor/admin/user_accounts.php:199
+msgid "Send self-efficacy survey"
+msgstr "Enviar encuesta de confianza"
+
+#: /srv/http/lactor/admin/user_accounts.php:200
+msgid "Send breastfeeding evaluation"
+msgstr "Enviar evaluación de amamantamiento"
+
+#: /srv/http/lactor/admin/user_accounts.php:201
+msgid "Send postnatal depression survey"
+msgstr "Enviar encuesta de depresión postparto"
+
+msgid "System Feedback Survey Results"
+msgstr "Resultados de Encuesta de Realimentación del Sistema"
+
+#: /srv/http/lactor/admin/user_accounts.php:203
+msgid "Issue Mother Information"
+msgstr "Expedir Información de la Madre"
+
+#: /srv/http/lactor/admin/user_accounts.php:205
+msgid "Disable User"
+msgstr "Desactivar Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:206
+msgid "Enable User"
+msgstr "Activar Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:207
+msgid "Delete User"
+msgstr "Borrar Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:209
+msgid "Mothers"
+msgstr "Madres"
+
+#: /srv/http/lactor/admin/user_accounts.php:216
+msgid "Set"
+msgstr "Fijar"
+
+#: /srv/http/lactor/admin/user_accounts.php:224
+#: /srv/http/lactor/admin/user_accounts.php:236
+msgid "Add User"
+msgstr "Agregar Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:226
+msgid "User Type"
+msgstr "Tipo de Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:229
+msgid "Scientist"
+msgstr "Científico"
+
+#: /srv/http/lactor/admin/user_accounts.php:231
+msgid "Hospital Administrator"
+msgstr "Administrador del Hospital"
+
+#: /srv/http/lactor/admin/user_accounts.php:232
+msgid "Super Administrator"
+msgstr "Super Administrador"
+
+#: /srv/http/lactor/admin/user_accounts.php:238
+#: /srv/http/lactor/admin/user_accounts.php:266
+#: /srv/http/lactor/admin/user_accounts.php:269
+msgid "Hospital"
+msgstr "Hospital"
+
+#: /srv/http/lactor/admin/user_accounts.php:264
+msgid "Hospital Management"
+msgstr "Director del Hospital"
+
+#: /srv/http/lactor/admin/user_accounts.php:266
+msgid "Add Hospital"
+msgstr "Agregar Hospital"
+
+#: /srv/http/lactor/admin/user_accounts.php:275
+msgid "Remove Hospital"
+msgstr "Eliminar Hospital"
+
+#: /srv/http/lactor/admin/user_accounts.php:282
+#: /srv/http/lactor/admin/user_accounts.php:294
+#: /srv/http/lactor/admin/proxy.php:52
+msgid "Log In As Mother"
+msgstr "Entrar como Madre"
+
+#: /srv/http/lactor/admin/user_accounts.php:301
+msgid "View / Edit Mother Information"
+msgstr "Ver/Editar Información de la Madre"
+
+#: /srv/http/lactor/admin/user_accounts.php:336
+msgid "Lactation Consultant"
+msgstr "Especialista en Lactancia"
+
+#: /srv/http/lactor/admin/user_accounts.php:386
+msgid "View / Edit Child Information"
+msgstr "Ver/Editar Información del Bebé"
+
+#: /srv/http/lactor/admin/user_accounts.php:494
+#, php-format
+msgid "Breastfeeding Followu"
+msgstr "La lactancia materna Followu"
+
+#: /srv/http/lactor/admin/user_accounts.php:496
+#, php-format
+msgid "Self Efficacy Survey"
+msgstr "Encuesta de Autoeficacia"
+
+#: /srv/http/lactor/admin/user_accounts.php:505
+#: /srv/http/lactor/admin/post/survey_download.php:110
+msgid "Survey Results"
+msgstr "Resultados de Encuesta"
+
+#: /srv/http/lactor/admin/user_accounts.php:518
+msgid "Download For This User"
+msgstr "Bajar para este Usuario"
+
+#: /srv/http/lactor/admin/user_accounts.php:519
+msgid "Download All Of This Type"
+msgstr "Bajar todo de este Tipo"
+
+#: /srv/http/lactor/admin/user_accounts.php:528
+msgid "System Feeback Survey Results"
+msgstr "Sistema Feeback Resultados de la Encuesta"
+
+#: /srv/http/lactor/admin/user_accounts.php:541
+msgid "System Perception Survey Results"
+msgstr "Resultados de Encuesta de Percepción del Sistema"
+
+#: /srv/http/lactor/admin/user_accounts.php:547
+#: /srv/http/lactor/admin/post/survey_download.php:129
+msgid "Do you think the system helped you to breastfeed longer?"
+msgstr "¿Cree que el sistema le ayudó a aumentar la duración de amamantar?"
+
+msgid "Breastfeeding Follow-up Survey Results"
+msgstr "Resultados de Encuesta de Seguimiento del Amamantamiento"
+
+#: /srv/http/lactor/admin/user_accounts.php:548
+#: /srv/http/lactor/admin/post/survey_download.php:130
+#: /srv/http/lactor/system_perception.php:41
+msgid ""
+"Do you think the monitoring helped you to decrease supplementation with any "
+"substance other than breast milk?"
+msgstr ""
+"¿Cree que el monitoreo le ayudó a disminuir la suplementación con sustancias "
+"diferentes a leche materna?"
+
+#: /srv/http/lactor/admin/user_accounts.php:552
+msgid "Breastfeeding Followup Survey Results"
+msgstr "Lactancia Resultados de la encuesta Followup"
+
+#: /srv/http/lactor/admin/user_accounts.php:564
+msgid "Self-efficacy Survey Results"
+msgstr "Resultados de Encuesta de Evaluación de Autoeficacia"
+
+#: /srv/http/lactor/admin/user_accounts.php:581
+msgid "Breastfeeding Evaluation Survey Results"
+msgstr "Resultados de Encuesta de Evaluación del Amamantamiento"
+
+#: /srv/http/lactor/admin/user_accounts.php:613
+#: /srv/http/lactor/admin/post/survey_download.php:193
+msgid "I have felty happy"
+msgstr "Tengo Felty feliz"
+
+#: /srv/http/lactor/admin/user_accounts.php:616
+#: /srv/http/lactor/admin/post/survey_download.php:254
+msgid "Yes, all of the time"
+msgstr "Sí, todo el tiempo"
+
+#: /srv/http/lactor/admin/user_accounts.php:684
+#: /srv/http/lactor/admin/post/survey_download.php:198
+msgid "I have felt scared of panicky for no very good reason"
+msgstr "He sentido miedo de pánico sin razón muy buena"
+
+#: /srv/http/lactor/admin/user_accounts.php:698
+#: /srv/http/lactor/admin/post/survey_download.php:199
+msgid "Things have been geting on top of me"
+msgstr "No puedo con todo"
+
+#: /srv/http/lactor/admin/user_accounts.php:758
+msgid "Error: No Suvery Results Avaliable"
+msgstr "Error: No hay resultados disponibles Suvery"
+
+#: /srv/http/lactor/admin/user_accounts.php:766
+#: /srv/http/lactor/admin/user_accounts.php:784
+#: /srv/http/lactor/admin/post/survey_download.php:13
+#: /srv/http/lactor/admin/post/survey_download.php:31
+msgid "Strongly Disagree"
+msgstr "Estoy en fuerte desacuerdo"
+
+#: /srv/http/lactor/admin/user_accounts.php:768
+#: /srv/http/lactor/admin/user_accounts.php:786
+#: /srv/http/lactor/admin/post/survey_download.php:15
+#: /srv/http/lactor/admin/post/survey_download.php:33
+msgid "Disagree"
+msgstr "Estoy en desacuerdo"
+
+#: /srv/http/lactor/admin/user_accounts.php:770
+#: /srv/http/lactor/admin/user_accounts.php:788
+#: /srv/http/lactor/admin/post/survey_download.php:17
+#: /srv/http/lactor/admin/post/survey_download.php:35
+msgid "Neutral"
+msgstr "Neutral"
+
+#: /srv/http/lactor/admin/user_accounts.php:772
+#: /srv/http/lactor/admin/user_accounts.php:790
+#: /srv/http/lactor/admin/post/survey_download.php:19
+#: /srv/http/lactor/admin/post/survey_download.php:37
+msgid "Agree"
+msgstr "Estoy de acuerdo"
+
+#: /srv/http/lactor/admin/user_accounts.php:774
+#: /srv/http/lactor/admin/user_accounts.php:792
+#: /srv/http/lactor/admin/post/survey_download.php:21
+#: /srv/http/lactor/admin/post/survey_download.php:39
+msgid "Strongly Agree"
+msgstr "Estoy en fuerte acuerdo"
+
+#: /srv/http/lactor/admin/user_accounts.php:983
+msgid "You have chosen to delete the following accounts"
+msgstr "Usted ha optado por borrar las siguientes cuentas"
+
+#: /srv/http/lactor/admin/user_accounts.php:996
+msgid "This action is irreversible. Are you sure you want to do this?"
+msgstr "Esta acción es irreversible. ¿Está seguro que quiere hacer esto?"
+
+#: /srv/http/lactor/admin/proxy.php:15
+msgid "Mother Log In"
+msgstr "Entrada de la Madre"
+
+#: /srv/http/lactor/admin/proxy.php:32
+msgid "Mother's Portal"
+msgstr "Portal de la Madre"
+
+#: /srv/http/lactor/admin/proxy.php:38
+msgid "Log In As"
+msgstr "Entrar como"
+
+msgid "Log In"
+msgstr "Entrar"
+
+#: /srv/http/lactor/admin/logout.php:21
+msgid "You have successfully logged out"
+msgstr "Usted ha salido exitosamente"
+
+#: /srv/http/lactor/admin/main.php:169
+msgid "See Entries"
+msgstr "Ver Entradas"
+
+#: /srv/http/lactor/admin/main.php:169
+msgid "See Notifications"
+msgstr "Ver Notificaciones"
+
+#: /srv/http/lactor/admin/instructions.php:8
+#: /srv/http/lactor/admin/instructions.php:17
+msgid "Notification Instructions"
+msgstr "Instrucciones de notificaciones"
+
+#: /srv/http/lactor/admin/instructions.php:19
+msgid "Sleep Problem"
+msgstr "Problema de Sueño"
+
+#: /srv/http/lactor/admin/instructions.php:20
+msgid "Wake the baby every 3 hours."
+msgstr "Despierte al bebé cada 3 horas."
+
+#: /srv/http/lactor/admin/instructions.php:21
+msgid "Skin-to-skin care for 30 min."
+msgstr "Cuidado Piel-a-Piel por 30 minutos."
+
+#: /srv/http/lactor/admin/instructions.php:22
+#: /srv/http/lactor/admin/instructions.php:30
+msgid "Provide jaw support during feeding."
+msgstr "Provea apoyo para la mandíbula durante la alimentación."
+
+#: /srv/http/lactor/admin/instructions.php:23
+msgid "Pump after each feeding (every 3 hours)."
+msgstr "Extraiga después de cada alimentación (cada 3 horas)."
+
+#: /srv/http/lactor/admin/instructions.php:27
+msgid "Latching Problems"
+msgstr "Problemas de Acoplamiento"
+
+#: /srv/http/lactor/admin/instructions.php:28
+msgid "Pump every 3 hours."
+msgstr "Extraiga cada 3 horas."
+
+#: /srv/http/lactor/admin/instructions.php:29
+msgid "Contact local lactation consultant."
+msgstr "Contacte el especialista en lactancia."
+
+#: /srv/http/lactor/admin/instructions.php:34
+msgid "Back to notifications"
+msgstr "Regresar a notificaciones"
+
+#: /srv/http/lactor/admin/post/survey_download.php:23
+#: /srv/http/lactor/admin/post/survey_download.php:41
+msgid "Not answered"
+msgstr "Sin respuesta"
+
+#: /srv/http/lactor/admin/post/survey_download.php:71
+msgid "Breastfeeding Followup"
+msgstr "Lactancia Seguimiento"
+
+#: /srv/http/lactor/admin/post/survey_download.php:73
+msgid "Self Efficacy"
+msgstr "Autoeficacia"
+
+#: /srv/http/lactor/mobile/m.login.php:4 /srv/http/lactor/mobile/index.php:4
+msgid "Lactor Mobile"
+msgstr "Lactor móvil"
+
+#: /srv/http/lactor/mobile/m.login.php:37 /srv/http/lactor/mobile/index.php:37
+msgid "Desktop Version"
+msgstr "Versión de Escritorio"
+
+#: /srv/http/lactor/mobile/m.reset_pass.php:35
+msgid "Back to login page"
+msgstr "Regresar a página de entrada"
+
+#: /srv/http/lactor/mobile/header.php:12
+msgid "Log Out"
+msgstr "Salir"
+
+#: /srv/http/lactor/mobile/m.notifications.php:43
+msgid "You have no unread notifications"
+msgstr "Usted tiene notificaciones no leídas"
+
+#: /srv/http/lactor/mobile/tutorials.php:13
+msgid "Desktop site tutorials"
+msgstr "Sitio de tutoriales para escritorio"
+
+#: /srv/http/lactor/mobile/footer.php:3
+#: /srv/http/lactor/includes/general.php:102
+#: /srv/http/lactor/includes/mail.include.php:61
+msgid "This project is supported by grants from"
+msgstr "Proyecto financiado por becas de"
+
+#: /srv/http/lactor/mobile/footer.php:4
+msgid "The International Lactation Consultant Association"
+msgstr "Asociación Internacional de Consultores de Lactancia"
+
+#: /srv/http/lactor/mobile/footer.php:5
+msgid "The Indiana CTSI"
+msgstr "CTSI Indiana"
+
+msgid "Indiana CTSI"
+msgstr "CTSI Indiana"
+
+#: /srv/http/lactor/mobile/footer.php:6
+#: /srv/http/lactor/includes/general.php:105
+#: /srv/http/lactor/includes/mail.include.php:64
+msgid "and by"
+msgstr "y por"
+
+#: /srv/http/lactor/mobile/footer.php:6
+msgid "Purdue University's Bindley Bioscience Center"
+msgstr "Centro Bindley de Biociencia de la Universidad de Purdue"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:52
+#: /srv/http/lactor/post/modify_entry.post.php:99
+msgid "Please enter breastfeeding duration"
+msgstr "Por favor entre la duración de amamantamiento"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:55
+msgid "Please enter breastfeeding latching"
+msgstr "Por favor entre el acoplamiento de amamantamiento"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:58
+msgid "Please enter breastfeeding infant alertness"
+msgstr "Por favor entre el estado de alerta del bebé"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:61
+msgid "Please enter breastfeeding maternal problems"
+msgstr "Por favor entre los problemas maternos"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:255
+msgid "Time &amp; Day"
+msgstr "Hora y Día"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:238
+#: /srv/http/lactor/mobile/m.add_entry.php:246
+msgid "Time"
+msgstr "Hora"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:286
+msgid "Add entry"
+msgstr "Agregar entrada"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:296
+msgid "Left side"
+msgstr "Lado izquierdo"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:298
+#: /srv/http/lactor/mobile/m.add_entry.php:307
+#: /srv/http/lactor/mobile/m.add_entry.php:318
+#: /srv/http/lactor/mobile/m.add_entry.php:327
+#: /srv/http/lactor/mobile/m.add_entry.php:337
+#: /srv/http/lactor/mobile/m.add_entry.php:353
+#: /srv/http/lactor/mobile/m.add_entry.php:362
+#: /srv/http/lactor/mobile/m.add_entry.php:372
+#: /srv/http/lactor/mobile/m.add_entry.php:393
+#: /srv/http/lactor/mobile/m.add_entry.php:401
+#: /srv/http/lactor/mobile/m.add_entry.php:410
+#: /srv/http/lactor/mobile/m.add_entry.php:426
+#: /srv/http/lactor/mobile/m.add_entry.php:444
+#: /srv/http/lactor/mobile/m.add_entry.php:456
+#: /srv/http/lactor/mobile/m.add_entry.php:463
+#: /srv/http/lactor/mobile/m.add_entry.php:472
+#: /srv/http/lactor/mobile/m.add_entry.php:480
+#: /srv/http/lactor/mobile/m.add_entry.php:493
+msgid "Choose one"
+msgstr "Escoja uno"
+
+msgid "Choose One"
+msgstr "Escoja Uno"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:299
+#: /srv/http/lactor/mobile/m.add_entry.php:300
+#: /srv/http/lactor/mobile/m.add_entry.php:301
+#: /srv/http/lactor/mobile/m.add_entry.php:302
+#: /srv/http/lactor/mobile/m.add_entry.php:303
+#: /srv/http/lactor/mobile/m.add_entry.php:308
+#: /srv/http/lactor/mobile/m.add_entry.php:309
+#: /srv/http/lactor/mobile/m.add_entry.php:310
+#: /srv/http/lactor/mobile/m.add_entry.php:311
+#: /srv/http/lactor/mobile/m.add_entry.php:312
+#: /srv/http/lactor/mobile/m.add_entry.php:363
+#: /srv/http/lactor/mobile/m.add_entry.php:364
+#: /srv/http/lactor/mobile/m.add_entry.php:365
+#: /srv/http/lactor/mobile/m.add_entry.php:366
+#: /srv/http/lactor/mobile/m.add_entry.php:367
+msgid "Minutes"
+msgstr "Minutos"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "1-2 Minutes"
+msgstr "1-2 Minutos"
+
+msgid "3-4 Minutes"
+msgstr "3-4 Minutos"
+
+msgid "5-10 Minutes"
+msgstr "5-10 Minutos"
+
+msgid "11-15 Minutes"
+msgstr "11-15 Minutos"
+
+msgid "> 15 Minutes"
+msgstr "> 15 Minutos"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:303
+#: /srv/http/lactor/mobile/m.add_entry.php:312
+#: /srv/http/lactor/mobile/m.add_entry.php:367
+#: /srv/http/lactor/mobile/m.add_entry.php:383
+#: /srv/http/lactor/mobile/m.add_entry.php:421
+#: /srv/http/lactor/mobile/m.add_entry.php:432
+#: /srv/http/lactor/mobile/m.add_entry.php:451
+msgid "More than"
+msgstr "Más que "
+
+#: /srv/http/lactor/mobile/m.add_entry.php:319
+msgid "Not at All"
+msgstr "Para nada"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:320
+msgid "Slipping of the breast"
+msgstr "Deslizamiento del pecho"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:321
+msgid "Latch correctly"
+msgstr "Acoplamiento correcto"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:322
+msgid "Latch with nipple shield"
+msgstr "Acoplamiento con protector de pezón"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:328
+msgid "Difficult to awake"
+msgstr "Difícil de despertar"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:329
+msgid "Drowsy"
+msgstr "Somnoliento"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:330
+msgid "Quiet and alert"
+msgstr "Quieto y alerta"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:331
+msgid "Active alert"
+msgstr "Activo alerta"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:332
+msgid "Crying"
+msgstr "Lloroso"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:338
+msgid "Breast tissue is soft/no milk coming in"
+msgstr "Tejido de mama es suave/No hay salida de leche"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:339
+#: /srv/http/lactor/includes/general.php:379
+msgid "Sore nipple"
+msgstr "Pezón irritado"
+
+msgid "Sore Nipple"
+msgstr "Pezón irritado"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:340
+msgid "Flat/inverted nipple"
+msgstr "Pezón plano/invertido"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:341
+#: /srv/http/lactor/includes/general.php:375
+msgid "Engorgement"
+msgstr "Congestión mamaria"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:342
+msgid "Mastitis"
+msgstr "Mastitis"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:343
+msgid "No problems"
+msgstr "Sin problemas"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:354
+msgid "Hand pump"
+msgstr "Extracción manual"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:355
+msgid "Manual hand pump"
+msgstr "Sacaleches manual"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:356
+msgid "Double electric pump"
+msgstr "Sacaleches eléctrico doble"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:357
+msgid "Not applicable"
+msgstr "No aplica"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:373
+#: /srv/http/lactor/mobile/m.add_entry.php:374
+#: /srv/http/lactor/mobile/m.add_entry.php:375
+#: /srv/http/lactor/mobile/m.add_entry.php:376
+#: /srv/http/lactor/mobile/m.add_entry.php:377
+#: /srv/http/lactor/mobile/m.add_entry.php:378
+#: /srv/http/lactor/mobile/m.add_entry.php:379
+#: /srv/http/lactor/mobile/m.add_entry.php:380
+#: /srv/http/lactor/mobile/m.add_entry.php:381
+#: /srv/http/lactor/mobile/m.add_entry.php:382
+#: /srv/http/lactor/mobile/m.add_entry.php:383
+#: /srv/http/lactor/mobile/m.add_entry.php:411
+#: /srv/http/lactor/mobile/m.add_entry.php:412
+#: /srv/http/lactor/mobile/m.add_entry.php:413
+#: /srv/http/lactor/mobile/m.add_entry.php:414
+#: /srv/http/lactor/mobile/m.add_entry.php:415
+#: /srv/http/lactor/mobile/m.add_entry.php:416
+#: /srv/http/lactor/mobile/m.add_entry.php:417
+#: /srv/http/lactor/mobile/m.add_entry.php:418
+#: /srv/http/lactor/mobile/m.add_entry.php:419
+#: /srv/http/lactor/mobile/m.add_entry.php:420
+#: /srv/http/lactor/mobile/m.add_entry.php:421
+msgid "ounces"
+msgstr "onzas"
+
+msgid "Ounces"
+msgstr "Onzas"
+
+msgid "pounds"
+msgstr "libras"
+
+msgid "Pounds"
+msgstr "Libras"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:394
+msgid "Expressed milk"
+msgstr "Leche eyectada"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:395
+msgid "Pasteurized human milk"
+msgstr "Leche humana pasteurizada"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:402
+msgid "Bottle"
+msgstr "Biberón"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:403
+msgid "Cup"
+msgstr "Taza"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:361
+msgid "Supplement Entry"
+msgstr "Entrada de Suplemento"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:404
+msgid "Supplemental Set"
+msgstr "Equipo suplementario"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:405
+msgid "Spoon"
+msgstr "Cuchara"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:457
+msgid "Amber Yellow"
+msgstr "Amarillo ámbar"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:458
+msgid "Dark Yellow"
+msgstr "Amarillo oscuro"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:464
+msgid "Not wet at all"
+msgstr "No está mojado "
+
+#: /srv/http/lactor/mobile/m.add_entry.php:465
+msgid "Slighly wet"
+msgstr "Ligeramente húmedo"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:466
+msgid "Moderately wet"
+msgstr "Moderadamente mojado"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:467
+msgid "Heavily wet"
+msgstr "Bastante mojado"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:473
+msgid "Black/tarry meconium"
+msgstr "Meconio negro/sanguinolento"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:474
+msgid "Black/green"
+msgstr "Negro/verde"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:475
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:481
+msgid "Loose and seedy"
+msgstr "Suelto y granuloso"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:482
+msgid "Formed"
+msgstr "Formado"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:483
+msgid "Watery"
+msgstr "Acuoso"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:489
+msgid "Health Issue"
+msgstr "Asunto de salud"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:494
+#: /srv/http/lactor/includes/general.php:377
+msgid "Jaundice"
+msgstr "ictericia (bebé amarillento)"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:495
+msgid "Decrease body temperature"
+msgstr "Disminución en temperatura corporal"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:496
+msgid "Decrease in blood glucose"
+msgstr "Disminución en glucosa sanguínea"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:497
+msgid "Difficult or trouble breathing"
+msgstr "Dificultad respiratoria"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:498
+msgid "Infection"
+msgstr "Infección"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:499
+msgid "Dehydration"
+msgstr "Deshidratación"
+
+#: /srv/http/lactor/mobile/m.add_entry.php:500
+msgid "Weight Loss"
+msgstr "Pérdida de peso"
+
+#: /srv/http/lactor/mobile/m.modify_entry.php:271
+msgid "Logout"
+msgstr "Salir"
+
+#: /srv/http/lactor/mobile/view_diary.php:261
+#: /srv/http/lactor/mobile/view_diary.php:324
+msgid "No breastfeeding entries for date range"
+msgstr "No hay datos de amamantamiento para el rango de fechas"
+
+#: /srv/http/lactor/mobile/view_diary.php:163
+msgid "No pumping entries for date range"
+msgstr "No hay datos de extracción para el rango de fechas"
+
+#: /srv/http/lactor/mobile/view_diary.php:163
+msgid "No supplement entries for date range"
+msgstr "No hay datos de suplementos para el rango de fechas"
+
+#: /srv/http/lactor/mobile/view_diary.php:163
+msgid "No output entries for date range"
+msgstr "No hay datos de producción  para el rango de fechas"
+
+#: /srv/http/lactor/mobile/view_diary.php:163
+msgid "No health issue entries for date range"
+msgstr "No hay datos de asutos de salud para el rango de fechas"
+
+#: /srv/http/lactor/mobile/view_diary.php:228
+msgid "TotalAmount"
+msgstr "TotalAmount"
+
+#: /srv/http/lactor/post/modify_entry.post.php:37
+#: /srv/http/lactor/post/modify_entry.post.php:115
+#: /srv/http/lactor/post/modify_entry.post.php:127
+#: /srv/http/lactor/post/modify_entry.post.php:155
+#: /srv/http/lactor/post/modify_entry.post.php:194
+#: /srv/http/lactor/post/modify_entry.post.php:287
+#: /srv/http/lactor/post/modify_entry.post.php:374
+msgid "Breastfeeding entry not modified."
+msgstr "Entrada de Amamantamiento no modificada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:49
+#: /srv/http/lactor/post/modify_entry.post.php:265
+msgid "Supplement entry not modified."
+msgstr "Entrada de Suplemento no modificada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:61
+#: /srv/http/lactor/post/modify_entry.post.php:138
+#: /srv/http/lactor/post/modify_entry.post.php:205
+#: /srv/http/lactor/post/modify_entry.post.php:276
+#: /srv/http/lactor/post/modify_entry.post.php:353
+#: /srv/http/lactor/post/modify_entry.post.php:363
+#: /srv/http/lactor/post/modify_entry.post.php:401
+#: /srv/http/lactor/post/modify_entry.post.php:411
+msgid "Output entry not modified."
+msgstr "Entrada de Producción no modificada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:73
+#: /srv/http/lactor/post/modify_entry.post.php:422
+msgid "Health Issue entry not modified."
+msgstr "Entrada de Asunto de Salud no modificada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:105
+msgid "Breastfeeding latching must be entered."
+msgstr "Acoplamiento debe ser entrado."
+
+#: /srv/http/lactor/post/modify_entry.post.php:108
+msgid "Infant alertness must be entered."
+msgstr "Estado de alerta del bebé debe ser entrado."
+
+#: /srv/http/lactor/post/modify_entry.post.php:111
+msgid "Maternal problems must be entered."
+msgstr "Problemas maternos deben ser entrados."
+
+#: /srv/http/lactor/post/modify_entry.post.php:126
+#: /srv/http/lactor/post/modify_entry.post.php:193
+#: /srv/http/lactor/post/modify_entry.post.php:264
+#: /srv/http/lactor/post/modify_entry.post.php:352
+#: /srv/http/lactor/post/modify_entry.post.php:400
+msgid "An error occurred when attempting to log your entry<br />"
+msgstr "Un error ha ocurrido durante el proceso de su entrada "
+
+#: /srv/http/lactor/post/modify_entry.post.php:137
+#: /srv/http/lactor/post/modify_entry.post.php:204
+#: /srv/http/lactor/post/modify_entry.post.php:275
+#: /srv/http/lactor/post/modify_entry.post.php:410
+msgid "An error occurred when attempting to update your entry<br />"
+msgstr "Un error ha ocurrido mientras ha tratado de actualizar su entrada"
+
+#: /srv/http/lactor/post/modify_entry.post.php:154
+#: /srv/http/lactor/post/modify_entry.post.php:218
+#: /srv/http/lactor/post/modify_entry.post.php:286
+#: /srv/http/lactor/post/modify_entry.post.php:373
+#: /srv/http/lactor/post/modify_entry.post.php:421
+msgid "An error occurred while trying to update the entry"
+msgstr "Un error ha ocurrido mientras ha actualizado su entrada"
+
+#: /srv/http/lactor/post/modify_entry.post.php:161
+msgid "Breastfeeding entry updated."
+msgstr "Entrada de amamantamiento actualizada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:176
+msgid "Please enter pumping method."
+msgstr "Por favor entre método de extracción."
+
+#: /srv/http/lactor/post/modify_entry.post.php:179
+msgid "Please enter pumping amount."
+msgstr "Por favor entre cantidad de extracción."
+
+#: /srv/http/lactor/post/modify_entry.post.php:182
+#: /srv/http/lactor/post/modify_entry.post.php:219
+msgid "Pumping entry not modified."
+msgstr "Entrada de extracción no modificada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:225
+msgid "Pumping entry updated."
+msgstr "Entrada de extracción actualizada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:293
+msgid "Supplement entry updated."
+msgstr "Entrada de suplemento actualizada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:362
+msgid "An error occurred when attempting to upate your entry<br />"
+msgstr "Se produjo un error al intentar Upate tu <br /> entrada"
+
+#: /srv/http/lactor/post/modify_entry.post.php:380
+msgid "Output entry updated."
+msgstr "Entrada de producción actualizada."
+
+#: /srv/http/lactor/post/modify_entry.post.php:428
+msgid "Health issue entry updated."
+msgstr "Entrada de Asunto de salud actualizada."
+
+#: /srv/http/lactor/includes/general.php:114
+msgid "Full message"
+msgstr "Mensaje completo"
+
+#: /srv/http/lactor/includes/general.php:115
+msgid "Close"
+msgstr "Cerrar"
+
+#: /srv/http/lactor/includes/general.php:175
+msgid "Attention: You have"
+msgstr "Atención: Usted tiene"
+
+#: /srv/http/lactor/includes/general.php:175
+msgid "new notifications"
+msgstr "nuevas notificaciones"
+
+#: /srv/http/lactor/includes/general.php:175
+msgid "new messages"
+msgstr "nuevas mensajes"
+
+#: /srv/http/lactor/includes/general.php:175
+msgid "View"
+msgstr "Ver"
+
+#: /srv/http/lactor/includes/general.php:317
+msgid ""
+"You have recently experienced difficulty with your baby latching. Please do "
+"the following."
+msgstr ""
+"Usted ha experimentado recientemente dificultad con el acoplamiento de su "
+"bebé. Por favor haga lo siguiente."
+
+#: /srv/http/lactor/includes/general.php:318
+msgid ""
+"Skin-to-skin contact (remove all clothing from the baby -except diaper-, "
+"place the baby on your bare chest. The baby will crawl to the breast and "
+"latch)."
+msgstr ""
+"Contacto Piel-a-Piel (quítele toda la ropa al bebé -excepto por el pañal-, "
+"coloque al bebé en su pecho desnudo. El bebé se moverá al pecho y se acoplará."
+
+#: /srv/http/lactor/includes/general.php:319
+msgid "Pump every 3 hours if baby does not latch."
+msgstr "Extraiga cada 3 horas si el bebé no se acopla."
+
+#: /srv/http/lactor/includes/general.php:320
+msgid "Contact local lactation consultant for help."
+msgstr "Contacte al especialista en lactancia para ayuda."
+
+#: /srv/http/lactor/includes/general.php:323
+msgid ""
+"Your baby has been difficult to wake and breastfeed. Please do the following:"
+msgstr ""
+"Si le ha costado trabajo despertar a su bebé para amamamntarlo. Por favor "
+"haga lo siguiente:"
+
+#: /srv/http/lactor/includes/general.php:324
+msgid ""
+"Skin-to-skin contact (remove all clothing from baby except diaper, place the "
+"baby on your bare chest. The baby will crawl to the breast and latch)."
+msgstr ""
+"Contacto Piel-a-Piel (quítele toda la ropa al bebé -excepto por el pañal-, "
+"coloque al bebé en su pecho desnudo. El bebé se moverá al pecho y se acoplará."
+
+#: /srv/http/lactor/includes/general.php:325
+msgid "Pump after each feeding if baby did you get enough."
+msgstr "Extraiga después de cada alimentación si el bebé no comió suficiente."
+
+#: /srv/http/lactor/includes/general.php:326
+msgid ""
+"Contact the primary care provider if continues (baby should not go for more "
+"than 5 hours without feeding for the first 5 weeks)."
+msgstr ""
+"Contacte al proveedor de cuidado primario si continua (el bebé no debe pasar "
+"más de 5 horas sin alimentarse por las primeras 5 semanas)."
+
+#: /srv/http/lactor/includes/general.php:329
+msgid ""
+"You have recently experienced breast engorgement. Please try the following"
+msgstr ""
+"Usted ha experimentado congestión mamaria recientemente. Por favor intente lo "
+"siguiente"
+
+#: /srv/http/lactor/includes/general.php:330
+msgid ""
+"Manually express or pump enough to soften your breast before putting your "
+"baby to the breast."
+msgstr ""
+"Saquese la leche manualmente o extraiga lo suficiente para suavizar los "
+"pechos antes de poner el bebé al pecho."
+
+#: /srv/http/lactor/includes/general.php:331
+msgid "Breastfeed your baby more often."
+msgstr "Amamante al bebé con más frecuencia."
+
+#: /srv/http/lactor/includes/general.php:332
+msgid "Make sure that your baby is latching on and feeding well."
+msgstr "Asegúrese que su bebé está acoplándose y alimentando apropiadamente."
+
+msgid ""
+"Apply cold packs to the breasts after feeding to help reduce swelling, "
+"warmth, and pain."
+msgstr ""
+"Aplica compresas frías a los senos después de la alimentación para ayudar a "
+"reducir la hinchazón, calor y dolor."
+
+#: /srv/http/lactor/includes/general.php:335
+msgid ""
+"You have reported that your baby having a yellowish discoloration of the "
+"skin. Please do the following:"
+msgstr ""
+"Usted ha reportado que su bebé tiene una coloración amarillenta en la piel. "
+"Por favor haga lo siguiente:"
+
+#: /srv/http/lactor/includes/general.php:336
+msgid "Contact your primary care provider."
+msgstr "Contacte a su proveedor de cuidado médico."
+
+#: /srv/http/lactor/includes/general.php:337
+msgid "Breastfeed the baby more frequently."
+msgstr "Amamante al bebé con más frecuencia."
+
+#: /srv/http/lactor/includes/general.php:338
+msgid "Make sure that the baby is latching correctly."
+msgstr "Asegúrese que el bebé astá acoplándose correctamente."
+
+#: /srv/http/lactor/includes/general.php:339
+msgid "Report any decrease in wet and dirty diapers."
+msgstr "Reporte cualquier disminución en pañales mojados y sucios."
+
+#: /srv/http/lactor/includes/general.php:342
+msgid "You have recently experienced sore nipples. Please try the following:"
+msgstr ""
+"Usted ha experimentado recientemente pezones irritados. Por favor intente lo "
+"siguiente:"
+
+#: /srv/http/lactor/includes/general.php:343
+msgid ""
+"Make sure that your baby is latched on well, so that baby opens mouth wide."
+msgstr ""
+"Asegúrese que el bebé está correctamente acoplado, de tal modo que abra bien "
+"la boca."
+
+#: /srv/http/lactor/includes/general.php:344
+msgid ""
+"Continue breast-feeding even if nipples are sore or cracked. Try to feed the "
+"baby from the less painful breast first."
+msgstr ""
+"Continúe amamantando aún si los pezones están irritados o agrietados. Trate "
+"de alimentar al bebé con el pecho menos doloroso primero."
+
+#: /srv/http/lactor/includes/general.php:345
+msgid "Detach your baby carefully off of the breast when feeding is finished"
+msgstr ""
+"Desacople el bebé cuidadosamente del pecho una vez termine la alimentación"
+
+#: /srv/http/lactor/includes/general.php:346
+msgid ""
+"Breastfeed often (Every 1&frac12; to 3 hours for 8 to 12 feedings a day) to "
+"reduce engorgement."
+msgstr ""
+"Amamante con frecuencia (cada hora y media a 3 horas para un total de 8 a 12 "
+"alimentaciones por día) para reducir congestión mamaria."
+
+#: /srv/http/lactor/includes/general.php:347
+msgid ""
+"Vary nursing positions, so the baby's positions on the breast are changed."
+msgstr ""
+"Cambie las posiciones de lactancia, de tal modo que las posiciones del bebé "
+"en la mama cambien"
+
+#: /srv/http/lactor/includes/general.php:348
+msgid "Express colostrum or milk onto your nipples before and after feedings."
+msgstr ""
+"Exprese calostro  o leche en sus pezones antes y después de las "
+"alimentaciones."
+
+#: /srv/http/lactor/includes/general.php:349
+msgid "After feeding, allow the nipples to air dry."
+msgstr "Después de alimentar, permita que los pezones sequen al aire libre."
+
+#: /srv/http/lactor/includes/general.php:352
+msgid ""
+"Your records showed that you breastfed your baby less than 6 times last 24 "
+"hours. Please note the following:"
+msgstr ""
+"Su registro muestra que usted amamantó a su bebé menos de 6 veces en las "
+"últimas 24 horas. Por favor note lo siguiente:"
+
+#: /srv/http/lactor/includes/general.php:353
+msgid ""
+"Ideal breastfeeding during the first month is from 8 to 12 times per day. "
+"Feeding your baby less than 6 times per day will decrease your milk supply."
+msgstr ""
+"El amamantamiento ideal durante el primer mes es entre 8 y 12 veces por día. "
+"Amamantar a su bebé menos de 6 veces por día disminuirá su reserva de leche."
+
+#: /srv/http/lactor/includes/general.php:354
+msgid ""
+"Try to breastfeed your baby as much as you can and avoid any supplementation."
+msgstr "Trate de amamantar a su bebé lo que más pueda y evite suplementos."
+
+#: /srv/http/lactor/includes/general.php:355
+msgid "Contact your lactation consultant if you have any question."
+msgstr "Contacte a su especialista en lactancia si tiene alguna pregunta."
+
+#: /srv/http/lactor/includes/general.php:358
+msgid ""
+"Your records showed that you are using nipple shields. Please note the "
+"following"
+msgstr ""
+"Su registro muestra que usted está usando protectores de pezones . Por favor "
+"note lo siguiente"
+
+#: /srv/http/lactor/includes/general.php:359
+msgid ""
+"A Nipple shield should in general be considered a short-term solution and "
+"should be used under the guidance of a Lactation Consultant"
+msgstr ""
+"El protector de pezon en general deben ser considerados como una "
+"solución de corto plazo y deben ser usados bajo la guía de un especialista en "
+"lactancia "
+
+#: /srv/http/lactor/includes/general.php:360
+msgid ""
+"Work with your lactation consultant to solve the problem behind using a "
+"nipple shield."
+msgstr ""
+"Trabaje con su especialista en lactancia para resolver el problema detrás del "
+"uso del protector de pezon."
+
+#: /srv/http/lactor/includes/general.php:361
+msgid "Make sure that your baby is getting enough milk and gaining weight"
+msgstr "Asegúrese que su bebé está recibiendo suficiente leche y ganando peso"
+
+#: /srv/http/lactor/includes/general.php:373
+msgid "Sleepy"
+msgstr "Somnoliento"
+
+#: /srv/http/lactor/includes/general.php:381
+msgid "Insufficient Breastfeeding"
+msgstr "Lactancia insuficiente"
+
+msgid "Insufficient Breastfeeding Entries"
+msgstr "Lactancia insuficiente entradas"
+
+msgid "Sufficient Breastfeeding Entries"
+msgstr "Lactancia suficiente entradas"
+
+msgid "Sufficient Output Entries"
+msgstr "Exitosamente suficiente entradas"
+
+msgid "Sufficient Notification Reading"
+msgstr "Leyendo suficiente de notificatiónes"
+
+#: /srv/http/lactor/includes/general.php:383
+msgid "Nipple shield"
+msgstr "Protector de pezón"
+
+#: /srv/http/lactor/includes/db.php:177 /srv/http/lactor/includes/db.php:261
+msgid "History of pregnancy loss"
+msgstr "Historia de pérdida de embarazo"
+
+#: /srv/http/lactor/includes/db.php:179 /srv/http/lactor/includes/db.php:263
+msgid "Previous premature &lt; 37 weeks"
+msgstr "Prematuro anterior &lt; 37 semanas"
+
+msgid "Previous premature < 37 weeks"
+msgstr "Prematuro anterior &lt; 37 semanas"
+
+#: /srv/http/lactor/includes/db.php:181 /srv/http/lactor/includes/db.php:265
+msgid "Previous antepartum hemorrahage"
+msgstr "Hemorrahage antes del parto anterior"
+
+#: /srv/http/lactor/includes/db.php:183 /srv/http/lactor/includes/db.php:267
+msgid "Low birth weight infant"
+msgstr "Bebé de bajo peso al nacer"
+
+#: /srv/http/lactor/includes/db.php:201 /srv/http/lactor/includes/db.php:233
+msgid "Low maternal weight"
+msgstr "Peso materno bajo"
+
+msgid "Low maternal weight <50 kg"
+msgstr "Peso materno bajo <50 kg"
+
+#: /srv/http/lactor/includes/db.php:203 /srv/http/lactor/includes/db.php:235
+msgid "Bleeding during pregnancy"
+msgstr "Hemorragia durante embarazo"
+
+#: /srv/http/lactor/includes/db.php:205 /srv/http/lactor/includes/db.php:237
+msgid "Toxemia of Pregnancy"
+msgstr "Toxemia de embarazo"
+
+#: /srv/http/lactor/includes/db.php:207 /srv/http/lactor/includes/db.php:239
+msgid "Lack or late prenatal care"
+msgstr "Falta de o demora en cuidado prenatal"
+
+#: /srv/http/lactor/includes/db.php:209 /srv/http/lactor/includes/db.php:241jj
+msgid "PROM"
+msgstr "Ruptura prematura de membrana"
+
+#: /srv/http/lactor/includes/db.php:211 /srv/http/lactor/includes/db.php:243
+msgid "Gestational Diabetes"
+msgstr "Diabetis Gestacional"
+
+msgid "Great job!"
+msgstr "¡Gran trabajo!"
+
+msgid "You did a great job of reading your notifications today! Keep it up!"
+msgstr "¡Has hecho un gran trabajo de leer sus notificaciones hoy! ¡Sigue así!"
+
+msgid "You did a great job of entering your baby's output data today! Keep doing what you're doing!"
+msgstr "¡Has hecho un gran trabajo de introducción de datos de salida de su bebé hoy! ¡Sigue haciendo lo que estás haciendo!"
+
+msgid "Effective breastfeeding is from 8 to 12 times per day."
+msgstr "La lactancia materna eficaz es de 8 a 12 veces al día."
+
+msgid ""
+"You did a great job of entering your breastfeeding data entries today! Keep "
+"up the great work!"
+msgstr ""
+"¡Has hecho un gran trabajo de introducción de sus entradas de datos "
+"lactancia hoy! ¡Sigan con el buen trabajo!"
+
+msgid "¿Prefiere Esapñol?"
+msgstr "Do you prefer English?"
+
+msgid "All"
+msgstr "Todos"
+
+msgid "No notifications entries for date range"
+msgstr "No hay datos de Notificaciones para el rango de fechas"
+
+msgid "Log in"
+msgstr "Iniciar la sesión"
+
+msgid "Hand Pump"
+msgstr "Bomba de Mano"
+
+msgid "Manual Hand Pump"
+msgstr "Bomba de Mano Manual"
+
+msgid "Double Electric Pump"
+msgstr "Bomba Eléctrica Doble"
+
+msgid "1 ounces"
+msgstr "1 onza"
+
+msgid "2 ounces"
+msgstr "2 onzas"
+
+msgid "3 ounces"
+msgstr "3 onzas"
+
+msgid "4 ounces"
+msgstr "4 onzas"
+
+msgid "5 ounces"
+msgstr "5 onzas"
+
+msgid "6 ounces"
+msgstr "6 onzas"
+
+msgid "7 ounces"
+msgstr "7 onzas"
+
+msgid "8 ounces"
+msgstr "8 onzas"
+
+msgid "9 ounces"
+msgstr "9 onzas"
+
+msgid "10 ounces"
+msgstr "10 onzas"
+
+msgid "> 10 ounces"
+msgstr "> 10 onzas"
+
+msgid "Slightly wet"
+msgstr "Un poco húmeda"
+
+msgid "No past breastfeeding experience"
+msgstr "No pasado experiencia de lactancia"
+
+msgid "Notification"
+msgstr "Notificacion"
+
+msgid "to"
+msgstr "a"
+
+msgid "for the selected users"
+msgstr "para los usuarios seleccionados"
+
+msgid "Unread by User"
+msgstr "No leído por el usuario"
+
+msgid "Read by User"
+msgstr "Leído por el usuario"
+
+msgid "Unread by Admin"
+msgstr "No leído por el administrador"
+
+msgid "Read by Admin"
+msgstr "Leído por el administrador"
+
+msgid "Query"
+msgstr "Búsqueda"
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Contact Web Support"
+msgstr "Contaco Con Soporte De Web"
+
+msgid "View Security/Privacy Information"
+msgstr "Ver Información De Seguridad Y Privacidada"
+
+msgid "Latching.pdf"
+msgstr "Learning_the_dance_of_latching_es.pdf"
+
+msgid "Managing_your_milk_supply.pdf"
+msgstr "Managing_your_milk_supply_es.pdf"
+
+#msgid "Milk_expression_and_pumping.pdf"
+#msgstr ""
+
+msgid "My_Baby_is_Jaundiced.pdf"
+msgstr "My_baby_is_jaundiced_es.pdf"
+
+msgid "Tips_for_breastfeeding_your_premature_baby.pdf"
+msgstr "Tips_for_greastfeeding_your_preterm_baby_es.pdf"
+
+msgid "When_your_baby_is_born_a_little_early.pdf"
+msgstr "When_your_baby_is_born_a_little_early_es.pdf"
+
+#msgid "feeding_cues.pdf"
+#msgstr ""
+
+msgid "Breastfeeding_and_returning_to_work.pdf"
+msgstr "Breastfeeding_and_returning_to_work_es.pdf"
+
+msgid "logo.png"
+msgstr "logo_es.png"
+
+msgid "<3 months"
+msgstr "<3 meses"
+
+msgid "3-6 months"
+msgstr "3-6 meses"
+
+msgid "7-12 months"
+msgstr "7-12 meses"
+
+msgid "> 1 year"
+msgstr "> 1 año"
+
+msgid "last %d days"
+msgstr "últimos %d días"
+
+msgid "Health"
+msgstr "Salud"
+
+msgid "Inbox"
+msgstr "Bendeja De Entrada"
+
+msgid "Unread Messages"
+msgstr "Mensajes No Leídos"
+
+msgid "Read Messages"
+msgstr "Mensajes Leídos"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Archived"
+msgstr "Archivado"
+
+msgid "Compose Message"
+msgstr "Escribe Mensaje"
+
+msgid "Compose"
+msgstr "Escribe"
+
+msgid "Mark as read"
+msgstr "Marcar como leído"
+
+msgid "Reply"
+msgstr "Respuesta"
+
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+msgid "January"
+msgstr "Enero"
+
+msgid "February"
+msgstr "Febrero"
+
+msgid "March"
+msgstr "Marzo"
+
+msgid "April"
+msgstr "Abril"
+
+msgid "May"
+msgstr "Mayo"
+
+msgid "June"
+msgstr "Junio"
+
+msgid "July"
+msgstr "Juli"
+
+msgid "August"
+msgstr "Agosto"
+
+msgid "September"
+msgstr "Septiembre"
+
+msgid "October"
+msgstr "Octubre"
+
+msgid "November"
+msgstr "Noviembre"
+
+msgid "December"
+msgstr "Diciembre"
+
+msgid "the"
+msgstr "el"

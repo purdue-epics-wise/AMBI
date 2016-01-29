@@ -1,0 +1,81 @@
+  /*
+#actionBar {
+  display:none;
+}
+*/
+body{
+
+}
+#login_page {
+  font-size: 1em;
+  text-align: center;
+
+}
+
+#mainContent { 
+  margin-top: 32px;
+}
+
+#login-content{
+  margin:0 10%;
+  background-color:#eff0f4;
+  padding: 20px 0px;
+  border-bottom: 4px solid #e4e4e6;
+}
+#login_page input::-webkit-input-placeholder {
+   color: #ccc;
+}
+
+#login_user {
+  display:block;
+  width: 80%;
+  padding:10px;
+  margin:10px auto;
+  border-radius: .3em;
+}
+
+#login_password {
+  display:block;
+  width: 80%;
+  padding:10px;
+  margin:0px auto;
+  border-radius: .3em;
+
+}
+
+#login_page button {
+    margin-top:1.5em;
+    padding: 10px;
+    width:86%;
+	color: #fff;
+	vertical-align: middle;
+	text-align: center;
+	color: #fff;
+	border-radius: .3em;
+    background-color: #3fb8e8;
+    font-family: Open Sans Bold, sans-serif;
+    border:none;
+}
+
+#logo-login {
+  height: 140px;
+  overflow: hidden;
+}
+
+#logo-login img{
+    height: 200px;
+    width: 200px;
+    margin-top: -30px;
+}
+
+/* Smartphones */
+@media only screen and (max-width: 479px) { }
+
+/* Large smartphones */
+@media only screen and (min-width: 480px) and (max-width: 767px) { }
+
+/* Tablets and landscape large smartphones */
+@media only screen and (min-width: 768px) and (max-width: 959px) { }
+
+/* Desktop screens */
+@media only screen and (min-width: 960px){ }

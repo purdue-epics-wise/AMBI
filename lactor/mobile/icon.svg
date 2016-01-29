@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 128">
+  <defs>
+    <mask id="mask1" maskUnits="userSpaceOnUse"
+        x="0" y="0" width="128" height="128">
+      <rect x="0" width="128" y="0" height="128" fill="white" stroke="none"/>
+      <rect x="28" y="22" width="86" height="54" fill="black" rx="22" ry="22"/>
+    </mask>
+    <mask id="mask2" maskUnits="userSpaceOnUse"
+        x="0" y="0" width="128" height="128">
+      <rect x="0" width="128" y="0" height="128" fill="white" stroke="none"/>
+      <rect x="33" y="29" width="76" height="44" fill="black" 
+          rx="16" ry="16"/>
+      <polygon points="68 72 86 92 86 72" fill="black"/>
+    </mask>
+  </defs>
+  <g>
+  <!-- background -->
+  <rect x="0" y="0" width="128" height="128" fill="#bc3464"/>
+  <!-- The bottom speech bubble -->
+  <g mask="url(#mask1)">
+    <rect x="13" y="60" width="54" height="36" fill="white" rx="12" ry="12"/>
+    <polygon points="28 95 28 110 43 95" fill="white"/>
+  </g>
+  <!-- The top speech bubble -->
+  <g mask="url(#mask2)">
+    <rect x="27" y="23" width="88" height="56" fill="white" rx="22" ry="22"/>
+    <polygon points="58 73 92 108 92 73" fill="white"/>
+  </g>
+  <!-- baby face -->
+  <g>
+    <circle cx="72" cy="52" r="18" stroke-width="5" stroke="white" fill="none"/>
+    <circle cx="63" cy="53" r="2.5" fill="white"/>
+    <circle cx="81" cy="53" r="2.5" fill="white"/>
+    <path d="M 78 61 A 11 11 0 0 1 66 61" stroke="white" fill="none" 
+        stroke-width="4" stroke-linecap="round"/>
+    <path stroke="white" fill="none" stroke-width="1" stroke-linecap="round" d="
+        M 69 33.00 A 1 1 0 0 1 69 42.75
+        M 69 42.75 A 1 1 0 0 1 69 36.75
+        M 69 36.75 A 1 1 0 0 1 69 40.5
+    "/>
+  </g>
+  </g>
+</svg>

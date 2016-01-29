@@ -1,0 +1,29 @@
+#profileContent {
+  padding: 1em;
+}
+
+#profileContent tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+#profileHeader {
+  background-color: #3a74ad;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 3em;
+}
+
+#profileHeader img {
+  max-width: 3.9em;
+}
+#profile-breakout{
+    width:100%;
+    height:100px;
+    background:#3a74ad;
+    text-align:center;
+
+}
+
+#profileContent td{
+  padding: 9px;
+}

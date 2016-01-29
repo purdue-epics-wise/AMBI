@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: 'Open Sans', Arial;
+}
+
+#actionBar {
+  background-color: #3a74ad;
+  color: white;
+}

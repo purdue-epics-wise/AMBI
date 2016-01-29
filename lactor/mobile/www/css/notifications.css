@@ -1,0 +1,81 @@
+body{
+    background:#efefef;
+    font-size:1em;
+}
+.itemDetail {
+  margin: 0 0em;
+}
+
+.notificationDate {
+
+  white-space: pre;
+  font-size: 0.6em;
+  color: #666;
+  display:block;
+  margin-top:5px;
+}
+
+.itemDetailList{
+    background:#fff;
+}
+
+.itemDetailList li {
+  border:none;
+  border-bottom:1px solid #ccc;
+}
+
+.itemDetailList li:nth-child(even) {
+  /* background-color: #f0f0f0; */
+}
+
+.notification-link{
+    float:left;
+    margin-left:20px;
+}
+
+.ndetail-wrapper{
+    background:#fff;
+    width:100%;
+    margin:0;
+    padding:1em 0;
+}
+
+.ndetail-problem{
+      font-family: Open Sans SemiBold, sans-serif;
+      font-size: 1.2em;
+      margin: 0 1em;
+      display:block;
+}
+
+.ndetail-date{
+      font-family: Open Sans Light, sans-serif;
+      font-size: 0.8em;
+      color:#ccc;
+
+      margin:0 1em;
+      display:block;
+
+}
+
+.ndetail-steps{
+      font-family: Open Sans, sans-serif;
+      font-size: 1em;
+      margin:.2em 1em 0em 2em;
+      display:block;
+      list-style: disc !important;
+}
+
+.ndetail-steps li{
+      margin-bottom:1em;
+}
+
+.dismiss-button{
+      background-color: #f08d0d;
+       font-size: 1.2em;
+       color: white;
+       border:none;
+       padding:.5em;
+       margin:1em;
+       border-radius:0.2em;
+}
+

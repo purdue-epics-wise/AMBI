@@ -1,0 +1,292 @@
+<!-- TIME ENTRY -->
+<div id='addentry'>
+
+<!-- BREASTFEEDING ENTRY -->
+<div style='position:relative' class='addentry_values'>
+<div id='addentry_breastfeeding' class='view_panel addentry_panel0'>
+    <div id='addentry_breastfeedingTimer'>
+        <table id='addentry_timerDisplays'>
+            <tr>
+                <td id='addentry_timerLeft'>
+                    <input type='text' name='timerLeft'>
+                </td>
+                <td id='addentry_timerRight'>
+                    <input type='text' name='timerRight'>
+                </td>
+            </tr>
+        </table>
+        <table id='addentry_timerSideSelect'>
+            <tr>
+                <td class='addentry_timerSelect' id='addentry_timerSelectLeft'>
+                    <div>Left</div>
+                </td>
+                <td class='addentry_timerSelect' id='addentry_timerSelectRight'>
+                    <div>Right</div>
+                </td>
+            </tr>
+        </table>
+        <table id='addentry_clockControls'>
+            <tr>
+                <td data-translate='true' id='clockClearButton'><img src='img/clear_button.svg'>
+                </td>
+                <td data-translate='true' id='clockStartButton'><img src='img/start_button.svg'>
+                </td>
+                <td data-translate='true' id='clockPauseButton'><img src='img/pause_button.svg'>
+                </td>
+            </tr>
+        </table>
+
+        <div class='addentry_problemButtons'>
+            <select id='latchingButton'>
+                <option value='0'>Latching</option>
+                <option value='1'>Not at all</option>
+                <option value='2'>Slipping of the breast</option>
+                <option value='3'>Latch correctly</option>
+                <option value='4'>Latch with nipple sheild</option>
+            </select>
+            <select id='alertnessButton'>
+                <option value='0'>Infant Alertness</option>
+                <option value='1'>Difficult to awake</option>
+                <option value='2'>Drowsy</option>
+                <option value='3'>Quiet and alert</option>
+                <option value='4'>Active and alert</option>
+                <option value='5'>Crying</option>
+            </select>
+            <select id='breastfeedingProblemsButton'>
+                <option value='0'>Maternal Breastfeeding Problems</option>
+                <option value='1'>Breast tissue is soft/no milk coming in</option>
+                <option value='2'>Sore nipple</option>
+                <option value='3'>Flat/inverted nipple</option>
+                <option value='4'>Engorgement</option>
+                <option value='5'>Mastitis</option>
+                <option value='6'>No problems</option>
+            </select>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<!-- PUMPING ENTRY -->
+<br><br><br>
+
+<div id='addentry_pumping' class='view_panel addentry_panel1'>
+    <div class='addentry_problemButtons'>
+        <select name="pumping_method">
+            <option value="0">Pumping Method</option>
+            <option value="1">Hand pump</option>
+            <option value="2">Manual hand pump</option>
+            <option value="3">Double electric pump</option>
+            <option value="4">Not applicable</option>
+        </select>
+
+        <select name="pumping_duration">
+            <option value="0">Pumping Duration</option>
+            <option value="1">1-2 minutes</option>
+            <option value="2">3-4 minutes</option>
+            <option value="3">5-10 minutes</option>
+            <option value="4">11-15 minutes</option>
+            <option value="5">More than 15 minutes</option>
+        </select>
+
+        <select name="pumping_amount">
+            <option value="0">Pumping Amount</option>
+            <option value="1">1 ounces</option>
+            <option value="2">2 ounces</option>
+            <option value="3">3 ounces</option>
+            <option value="4">4 ounces</option>
+            <option value="5">5 ounces</option>
+            <option value="6">6 ounces</option>
+            <option value="7">7 ounces</option>
+            <option value="8">8 ounces</option>
+            <option value="9">9 ounces</option>
+            <option value="10">10 ounces</option>
+            <option value="11">More than 10 ounces</option>
+        </select>
+    </div>
+</div>
+<!-- SUPPLEMENT ENTRY -->
+<br><br><br>
+
+<div id='addentry_supplement' class='view_panel addentry_panel2'>
+    <div class='addentry_problemButtons'>
+        <select name="sup_type">
+            <option value="0">Supplement Type</option>
+            <option value="1">Expressed milk</option>
+            <option value="2">Pasteurized human milk</option>
+            <option value="3">Formula</option>
+        </select>
+        <br>
+
+        <select name="sup_method">
+            <option value="0">Supplement Method</option>
+            <option value="1">Bottle</option>
+            <option value="2">Cup</option>
+            <option value="3">Supplemental Set</option>
+            <option value="4">Spoon</option>
+        </select>
+        <br>
+
+        <select name="NumberTimes">
+            <option value="0">Number of Times</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">More than 5</option>
+        </select>
+        <br>
+
+        <select name="TotalAmount">
+            <option value="0">Total Amount</option>
+            <option value="1">1 ounces</option>
+            <option value="2">2 ounces</option>
+            <option value="3">3 ounces</option>
+            <option value="4">4 ounces</option>
+            <option value="5">5 ounces</option>
+            <option value="6">6 ounces</option>
+            <option value="7">7 ounces</option>
+            <option value="8">8 ounces</option>
+            <option value="9">9 ounces</option>
+            <option value="10">10 ounces</option>
+            <option value="11">More than 10 ounces</option>
+        </select>
+    </div>
+</div>
+<!-- OUTPUT ENTRY -->
+<br><br><br>
+
+<div id='addentry_output' class='view_panel addentry_panel3'>
+    <div class='textOnBg'>Please add different entries for different forms of output.</div>
+    <div class='addentry_problemButtons'>
+        <select name="NumberDiapers">
+            <option value="0">Number of Diapers</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">More than 6</option>
+        </select>
+
+
+        <select name="out_u_color">
+            <option value="0">Urine Color</option>
+            <option value="1">Amber Yellow</option>
+            <option value="2">Dark Yellow</option>
+        </select>
+
+
+        <select name="out_u_saturation">
+            <option value="0">Urine Saturation</option>
+            <option value="1">Not wet at all</option>
+            <option value="2">Slighly wet</option>
+            <option value="3">Moderately wet</option>
+            <option value="4">Heavily wet</option>
+        </select>
+
+
+        <select name="out_s_color">
+            <option value="0">Stool Color</option>
+            <option value="1">Black/tarry meconium</option>
+            <option value="2">Black/green</option>
+            <option value="3">Yellow</option>
+        </select>
+
+
+        <select name="out_s_consistency">
+            <option value="0">Stool Consistency</option>
+            <option value="1">Loose and seedy</option>
+            <option value="2">Formed</option>
+            <option value="3">Watery</option>
+        </select>
+    </div>
+</div>
+<!-- WEIGHT ENTRY -->
+<br><br><br><br><br><br>
+
+<div id='addentry_weight' class='view_panel addentry_panel4'>
+    <input type='number' name='pounds' value='8' style='width:40px;'><label for='pounds' class='textOnBg'>lbs.</label>
+    <input type='number' name='ounces' value='8' style='width:40px;'><label for='ounces' class='textOnBg'>oz.</label>
+</div>
+<!-- HEALTH ENTRY -->
+<br><br><br><br><br><br>
+
+<div id='addentry_health' class='view_panel addentry_panel5'>
+    <div class='addentry_problemButtons'>
+      <select name="morb_type">
+          <option value="0">Issue Type</option>
+          <option value="1">Jaundice</option>
+          <option value="2">Decrease body temperature</option>
+          <option value="3">Decrease in blood glucose</option>
+          <option value="4">Difficult or trouble breathing</option>
+          <option value="5">Infection</option>
+          <option value="6">Dehydration</option>
+          <option value="7">Weight Loss</option>
+      </select>
+    </div>
+</div>
+</div>
+<div id='addentry_timeSelect'>
+    <table cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <div id="addentry_time_wrapper">
+                    <input type='time' id='addentry_time'>
+                </div>
+            </td>
+            <td>
+                <div id="addentry_day_wrapper">
+                    <select id='addentry_day'>
+                        <option value='00'>Yesterday</option>
+                        <option selected value='01'>Today</option>
+                    </select>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div id='addentry_saveButtons'>
+    <table id='bfSaveButtons' cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+                <button id='addentry_cancelButton'>
+                    Cancel
+                </button>
+            </td>
+            <td>
+                <button id='addentry_saveButton'>
+                    Save
+                </button>
+            </td>
+        </tr>
+    </table>
+</div>
+<div id='addentry_buttonBar'>
+<!-- CLOCK -->
+<div id='addentry_nav_breastfeeding'>
+  <img src='img/button_clock.svg'>
+</div>
+<!-- PUMP -->
+<div id='addentry_nav_pumping'>
+  <img src='img/button_pump.svg'>
+</div>
+<!-- SUPPLEMENT -->
+<div id='addentry_nav_supplement'>
+  <img src='img/button_bottle.svg'>
+</div>
+<!-- SAFETY PIN -->
+<div id='addentry_nav_output'>
+  <img src='img/button_safety_pin.svg'>
+</div>
+<!-- SCALE -->
+<div id='addentry_nav_weight'>
+  <img src='img/button_scale.svg'>
+</div>
+<!-- STETHOSCOPE -->
+<div id='addentry_nav_health'>
+  <img src='img/button_stethoscope.svg'>
+</div>
+</div>
+</div>

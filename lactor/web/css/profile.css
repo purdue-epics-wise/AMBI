@@ -1,0 +1,27 @@
+/* VIEW ENTRY */
+thead td{
+font-weight:bold;
+color:#000;
+background-color:#d7d7d7;
+border:0px solid #000;
+}
+
+td{
+padding:5px;
+border:0px solid #000;
+}
+
+table{
+border:0px solid #000;
+border-collapse: collapse;
+background-color:#FFF;
+}
+
+h1{
+font-size:2em;
+margin-bottom:0px;
+}
+
+table,h1,p,#ads{
+margin-left:0px;
+}

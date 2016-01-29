@@ -1,0 +1,243 @@
+
+html {
+  height: 100%;
+  /* fallback (Opera) */
+  background: #13a;
+  /* Mozilla: */
+  background: fixed -moz-linear-gradient(top, #24f, #014);
+  /* Chrome, Safari, Opera:*/
+  background: fixed -webkit-gradient(linear,
+              left top, left bottom, from(#24f), to(#014));
+  /* MSIE */
+  filter: progid:DXImageTransform.Microsoft.Gradient(
+              StartColorStr='#2244ff', EndColorStr='#001144', GradientType=0);
+}
+
+* {
+  font-family: 'Varela Round', Arial, Helvetica, sans-serif !important;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+a {
+  color: #102898;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a img {
+  border: none;
+}
+
+#header {
+  background-color: #12f;
+  text-align: center;
+  padding: 10px 0;
+}
+
+#maincontainer {
+  width: 1024px;
+  border: 1px solid #aaa;
+  background-color: white;
+  margin: auto;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+
+#pagecontent {
+  padding: 1.5em;
+}
+
+#footer {
+  padding: 20px 20px 0 20px;
+  text-align: right;
+  font-size: 0.8em;
+}
+
+ul.lavaLampNoImage {
+  display: block;
+  background-color: #ddd;
+  border: 1px solid #bbb;
+  padding: 0;
+  margin: 0;
+}
+
+ul.lavaLampNoImage li {
+  float: left;
+  display: block;
+  padding: 0.8em;
+  margin: 0.3em 0 0 0.3em;
+  position: relative;
+  background-color: #f6f6f6;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+ul.lavaLampNoImage li#logout {
+  float: right;
+  margin: 0.3em 0.3em 0 0;
+}
+
+ul.lavaLampNoImage li:hover {
+  background-color: #0073ea;
+}
+ul.lavaLampNoImage li:hover a {
+  color: #fff;
+}
+
+ul.lavaLampNoImage li.current {
+  background-color: #fff;
+  top: 1px;
+}
+
+ul.lavaLampNoImage li.current a {
+  color: #ff0084;
+}
+
+ul.lavaLampNoImage li.clear {
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  float: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.lavaLampNoImage li a {
+  text-decoration: none;
+  color: black;
+  /* color: #0073ea; */
+}
+
+
+ul.lavaLampNoImage li, ul.ui-tabs-nav li {
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
+
+.dynamic.message {
+  background-color: #88ff88;
+  display: inline-block;
+  padding: 1em;
+  border-radius: 1em;
+  font-weight: bold;
+}
+
+
+#warnmessage {
+  background: #ff80b8 url("../image/right-expand-horiz.gif") left center no-repeat;
+  display: inline;
+  padding: 25px;
+  border-bottom-left-radius: 1em;
+  border-top-left-radius: 1em;
+  float: right;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 50;
+  font-weight: bold;
+  cursor: pointer;
+}
+:wa
+
+
+#warnmessage.collapsed {
+  background-image: url("../image/left-expand-horiz.gif");
+}
+ 
+.successMessage, #goodmessage {
+  background-color: #88ff88;
+  display: inline-block;
+  padding: 1em;
+  border-radius: 1em;
+  font-weight: bold;
+}
+
+.errorMessage {
+  background-color: #ff80b8;
+  display: inline-block;
+  padding: 1em;
+  border-radius: 1em;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.errorMessage.collapsed {
+  background-image: url("../image/left-expand-horiz.gif");
+}
+ 
+input[type="text"], 
+input[type="password"], 
+input[type="button"],
+input[type="submit"],
+textarea,
+button {
+  border-radius: 1em;
+  padding: 0 0.3em;
+  position:relative;
+  border: 1px solid black;
+}
+
+input[type="button"]:active,
+input[type="submit"]:active,
+button:active {
+  top: 1px;
+  right: 1px;
+}
+
+table.data tr:nth-child(odd) {
+  background-color: #ddd;
+}
+
+#pagecontent {
+  position: relative;
+}
+
+.ui-tabs {
+  border-radius: 0.5em;
+}
+
+iframe {
+  border: none;
+}
+
+table.diary .old {
+  /* put something here if you want to style unmodifiable entries differently */
+}
+
+table:not([border='0']) tr:nth-child(even) {
+  background-color: #ddd;
+}
+
+/* Inbox stuff */
+.mailContainer .mailFrom {
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+.mailContainer .mailDate {
+  font-size: 0.8em;
+  color: #666;
+}
+
+.mailContainer .mailContent  {
+  margin-top: 1em;
+}
+
+.mailContainer button {
+  margin-top: 1em;
+}
+
+.mailContainer .mail {
+  margin-top: 1em;
+  border-top: 1px solid #ddd;
+}
+

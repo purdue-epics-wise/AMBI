@@ -1,0 +1,3 @@
+[submodule "fivel"]
+	path = fivel
+	url = git@github.com:mcgrew/fivel.git

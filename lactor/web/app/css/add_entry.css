@@ -1,0 +1,311 @@
+
+html {
+  background-color: #eee;
+  
+}
+
+#addentry select, #addentry input {
+  border-color: #888;
+}
+
+#addentry_buttonBar {
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  height: 72px;
+  background-color: #55aaff;
+}
+
+#addentry_main {
+  padding-bottom: 68px;
+}
+
+#addentry_time {
+  width: 100%;
+  height: 25px;
+  background:none;
+  border:none;
+}
+
+#addentry_timeSelect table {
+  width: 90%;
+  margin: 0 auto;
+  padding: 0;
+  zoom: 1.75;
+}
+
+#addentry_timeSelect table td {
+  padding: 0;
+  margin: 0;
+}
+
+#addentry_timeSelect table td:nth-child(2) {
+  width: 50%;
+}
+
+#addentry_time_wrapper {
+  background:#fff;
+  border-bottom-left-radius: .2em;
+  border-top-left-radius: .2em;
+  height:25px;
+  text-align:right;
+  font-family: Open Sans SemiBold, sans-serif;
+}
+#addentry_day_wrapper {
+   background:#fff;
+   border-bottom-right-radius: .2em;
+   border-top-right-radius: .2em;
+   height:25px;
+   font-family: Open Sans SemiBold, sans-serif;
+   position: relative;
+}
+
+#addentry_day {
+  background:none;
+  border:none;
+  height: 25px;
+}
+
+#addentry_saveButtons {
+  padding 8px;
+}
+
+#addentry_saveButtons table {
+  width: 100%
+}
+
+#mainContent {
+  padding-bottom: 358px;
+  background-color: #3A74AD;
+}
+
+#addentry_saveButtons td {
+  width: 50%;
+}
+
+#addentry_saveButtons button {
+  border-radius: .2em;
+  height: 2em;
+  background-color: white;
+  width: 95%;
+  font-size: 1.5em;
+}
+
+#addentry_saveButtons {
+  position:fixed;
+  bottom:72px;
+  width:100%;
+  height: 56px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #eee;
+  font-family: Open Sans SemiBold, sans-serif;
+}
+
+#addentry_saveButtons #addentry_saveButton {
+  background-color: #285c89;
+  color: white;
+  float:left;
+  border:none;
+  width:80%;
+  margin-left:10px;
+}
+#addentry_saveButtons #bfCancelButton{
+  float:right;
+  border:none;
+  width:80%;
+  margin-right:10px;
+}
+
+#addentry_buttonBar .active {
+  background: top center url('../img/active_arrow.svg') no-repeat;
+  background-size: 20px 20px;
+}
+
+#addentry_buttonBar > div {
+  float: left;
+  width: 16.6%;
+}
+
+#addentry_buttonBar > #addentry_nav_breastfeeding {
+  background-color: #336699;
+}
+
+#addentry_buttonBar > #addentry_nav_pumping {
+  background-color: #3a74ad;
+}
+
+#addentry_buttonBar > #addentry_nav_supplement {
+  background-color: #4181c2;
+}
+
+#addentry_buttonBar > #addentry_nav_output {
+  background-color: #478fd6;
+}
+
+#addentry_buttonBar > #addentry_nav_weight {
+  background-color: #4e9ceb;
+}
+
+#addentry_buttonBar > #addentry_nav_health {
+  background-color: #55aaff;
+}
+
+#addentry_breastfeedingTimer {
+  background-color: #3a74ad;
+  padding-bottom:1px;
+}
+
+#addentry_timerDisplays {
+  width: 100%;
+}
+
+#addentry_timerDisplays td {
+  width: 50%;
+  padding: 10px;
+}
+
+#addentry_timerLeft{
+
+}
+
+#addentry_timerRight{
+
+}
+
+#addentry_timerDisplays td:first-child {
+  text-align: right;
+}
+
+#addentry_timerDisplays input {
+  width: 75%;
+  font-size: 1.8em;
+  color:#333;
+  border-radius:.2em;
+}
+
+#addentry_clockControls {
+  margin: 1em auto;
+  width: 90%;
+}
+
+#addentry_clockControls td {
+  height: 60px;
+  width: 17%;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+
+#addentry_clockControls #clockStartButton {
+  width: 34%;
+}
+
+#addentry_timerSideSelect {
+  width: 80%;
+  border-radius: 0.4em;
+  font-size: 1.4em;
+  color: #478fd6;
+  margin: 10px auto;
+}
+    
+#addentry_timerSideSelect td {
+  text-align: center;
+  vertical-align: middle;
+  width:50%;
+  font-family: Open Sans SemiBold, sans-serif;
+
+}
+
+#addentry_timerSideSelect td.selected div {
+  background-color: #5997ce;
+  color: white;
+
+}
+
+#addentry_timerSelectLeft div{
+  display:inline-block;
+  width:100%;
+  border-bottom-left-radius: 0.2em;
+  border-top-left-radius: 0.2em;
+  border: 2px solid #5997ce;
+  padding:5px 0;
+}
+
+#addentry_timerSelectRight div{
+  display:inline-block;
+  width:100%;
+  border-bottom-right-radius: 0.2em;
+  border-top-right-radius: 0.2em;
+  border: 2px solid #5997ce;
+  padding:5px 0;
+
+}
+.addentry_problemButtons{
+    margin:20px auto;
+    width: 90%;
+
+}
+.addentry_problemButtons > * {
+  margin: 5px 0 ;
+  width:100%;
+  padding: 0.8em 0 0.8em 0.8em;
+  border-radius: .3em;
+  border-top-width: 0;
+  background:#fff;
+  font-family: Open Sans SemiBold, sans-serif;
+}
+
+select {
+  width: 100%;
+  margin: 0;
+}
+
+#addentry_pumping, #addentry_supplement, #addentry_health, #addentry_output{
+  background-color: #3a74ad;
+}
+
+select#latchingButton,
+select#alertnessButton,
+select#breastfeedingProblemsButton {
+  zoom: 1.8 !important;
+}
+
+#addentry_pumping select,
+#addentry_supplement select,
+#addentry_health select {
+  padding: 1em;
+  border-top-width: 0;
+  zoom: 2 !important;
+}
+
+#addentry_output select {
+  padding: 0.75em;
+  border-top-width: 0;
+  zoom: 2 !important;
+}
+
+#addentry_weight {
+  font-size: 2em;
+  padding-top: 60px;
+  text-align: center;
+}
+
+#addentry_weight input {
+  font-size: 1em;
+}
+
+svg text {
+  font-size: 13pt;
+}
+
+@media handheld, only screen and (max-width: 540px) {
+
+}
+
+@media handheld, only screen and (max-width: 320px) {
+
+}
+@media handheld, only screen and (max-width: 768px) {
+
+}

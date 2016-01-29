@@ -1,0 +1,90 @@
+<?php
+
+# define admin levels
+defined('SCIENTIST') or define( 'SCIENTIST', 0 );
+defined('HOSPITAL_ADMIN') or define( 'HOSPITAL_ADMIN', 1 );
+defined('SUPER_ADMIN') or define( 'SUPER_ADMIN', 2 );
+
+defined('DATE_FORMAT') or define( 'DATE_FORMAT', 'm/d/Y' );
+defined('DATE_TIME_FORMAT') or define( 'DATE_TIME_FORMAT', 'm/d/Y h:i a' );
+
+defined('ACTION_SYSTEM_FEEDBACK') or define('ACTION_SYSTEM_FEEDBACK', 0x0001);
+defined('ACTION_BREASTFEEDING_FOLLOWUP') or 
+  define('ACTION_BREASTFEEDING_FOLLOWUP', 0x0002);
+defined('ACTION_SELF_EFFICACY') or 
+  define('ACTION_SELF_EFFICACY', 0x0004);
+defined('ACTION_BREASTFEEDING_EVALUATION') or 
+  define('ACTION_BREASTFEEDING_EVALUATION', 0x0008);
+defined('ACTION_RESET_PASSWORD')  or define('ACTION_RESET_PASSWORD', 0x0010);
+defined('ACTION_DISABLE_USER')    or define('ACTION_DISABLE_USER',   0x0020);
+defined('ACTION_ENABLE_USER')     or define('ACTION_ENABLE_USER',    0x0040);
+defined('ACTION_DELETE_ACCOUNT')  or define('ACTION_DELETE_ACCOUNT', 0x0080);
+defined('ACTION_MOTHER_INFORMATION')  or 
+  define('ACTION_MOTHER_INFORMATION', 0x0100);
+defined('ACTION_SYSTEM_PERCEPTION') or define('ACTION_SYSTEM_PERCEPTION', 0x0200);
+defined('ACTION_POSTNATAL_DEPRESSION') or 
+  define('ACTION_POSTNATAL_DEPRESSION', 0x0400);
+defined('ACTION_CONSENT')  or define('ACTION_CONSENT', 0x1000);
+defined('ACTION_GU_CONSENT')  or define('ACTION_GU_CONSENT', 0x2000);
+
+
+defined('NOTIFICATION_LATCHING'   ) or define('NOTIFICATION_LATCHING',   1);
+defined('NOTIFICATION_SLEEPY'     ) or define('NOTIFICATION_SLEEPY',     2);
+defined('NOTIFICATION_JAUNDICE'   ) or define('NOTIFICATION_JAUNDICE',   3);
+defined('NOTIFICATION_ENGORGEMENT') or define('NOTIFICATION_ENGORGEMENT',4);
+defined('NOTIFICATION_SORE_NIPPLE') or define('NOTIFICATION_SORE_NIPPLE',5);
+defined('NOTIFICATION_INSUFFICIENT_BREASTFEEDING') or 
+  define( 'NOTIFICATION_INSUFFICIENT_BREASTFEEDING', 6 );
+defined('NOTIFICATION_NIPPLE_SHIELD') or define('NOTIFICATION_NIPPLE_SHIELD',7);
+defined('NOTIFICATION_SUFFICIENT_BREASTFEEDING') or 
+  define( 'NOTIFICATION_SUFFICIENT_BREASTFEEDING', 8 );
+defined('NOTIFICATION_SUFFICIENT_OUTPUT') or 
+  define( 'NOTIFICATION_SUFFICIENT_OUTPUT', 9 );
+defined('NOTIFICATION_SUFFICIENT_READDING') or 
+  define( 'NOTIFICATION_SUFFICIENT_READING', 10 );
+
+defined('ENTRYTYPE_BREASTFEEDING') or define('ENTRYTYPE_BREASTFEEDING',1);
+defined('ENTRYTYPE_PUMPING'      ) or define('ENTRYTYPE_PUMPING'      ,1);
+defined('ENTRYTYPE_SUPPLEMENT'   ) or define('ENTRYTYPE_SUPPLEMENT'   ,2);
+defined('ENTRYTYPE_OUTPUT'       ) or define('ENTRYTYPE_OUTPUT'       ,3);
+defined('ENTRYTYPE_HEALTH'       ) or define('ENTRYTYPE_HEALTH'       ,4);
+defined('ENTRYTYPE_HEALTH'       ) or define('ENTRYTYPE_WEIGHT'       ,5);
+
+defined('WEB_SUPPORT_EMAIL') or define('WEB_SUPPORT_EMAIL', 'ahmedah@purdue.edu');
+defined('TECH_SUPPORT_EMAIL') or define('TECH_SUPPORT_EMAIL', 'tmcgrew@purdue.edu');
+
+defined('INBOX_SENDER_MOTHER') or define('INBOX_SENDER_MOTHER', 0x1);
+defined('INBOX_SENDER_SCIENTIST') or define('INBOX_SENDER_SCIENTIST', 0x2);
+defined('INBOX_RECIPIENT_MOTHER') or define('INBOX_RECIPIENT_MOTHER', 0x4);
+defined('INBOX_RECIPIENT_SCIENTIST') or define('INBOX_RECIPIENT_SCIENTIST', 0x8);
+defined('INBOX_MESSAGE_UNREAD') or define('INBOX_MESSAGE_UNREAD', 0x10);
+defined('INBOX_MESSAGE_READ') or define('INBOX_MESSAGE_READ', 0x20);
+
+defined('PAGE_MODIFY_ENTRY') or define('PAGE_MODIFY_ENTRY', 0);
+defined('PAGE_ADD_ENTRY') or define('PAGE_ADD_ENTRY', 1);
+defined('PAGE_NOTIFICATIONS') or define('PAGE_NOTIFICATIONS', 2);
+defined('PAGE_INBOX') or define('PAGE_INBOX', 3);
+defined('PAGE_VIEW_DIARY') or define('PAGE_VIEW_DIARY', 4);
+defined('PAGE_TUTORIALS') or define('PAGE_TUTORIALS', 5);
+defined('PAGE_PROFILE') or define('PAGE_PROFILE', 6);
+defined('PAGE_EDUCATIONAL_MATERIALS') or define('PAGE_EDUCATIONAL_MATERIALS', 7);
+defined('PAGE_LOGOUT') or define('PAGE_LOGOUT', 8);
+
+defined('ADMIN_PAGE_DASHBOARD') or define('ADMIN_PAGE_DASHBOARD', 0);
+defined('ADMIN_PAGE_DISPLAY_DATA') or define('ADMIN_PAGE_DISPLAY_DATA', 1);
+defined('ADMIN_PAGE_MOTHER') or define('ADMIN_PAGE_MOTHER', 2);
+defined('ADMIN_PAGE_ACCOUNTS') or define('ADMIN_PAGE_ACCOUNTS', 3);
+defined('ADMIN_PAGE_CHILD_INFO') or define('ADMIN_PAGE_CHILD_INFO', 4);
+defined('ADMIN_PAGE_LOGOUT') or define('ADMIN_PAGE_LOGOUT', 5);
+defined('ADMIN_PAGE_NOTIFICATIONS') or define('ADMIN_PAGE_NOTIFICATIONS', 6);
+defined('ADMIN_PAGE_INBOX') or define('ADMIN_PAGE_INBOX', 7);
+
+defined('NOTIFICATION_STATUS_CURRENT') or 
+  define('NOTIFICATION_STATUS_CURRENT', 1);
+defined('NOTIFICATION_STATUS_PAST') or 
+  define('NOTIFICATION_STATUS_PAST', 2);
+
+// include environment-specific constants
+include( 'environment.php' );
+
+?>

@@ -1,0 +1,104 @@
+body{
+    background:#efefef;
+}
+#inbox_content{
+  font-family: Open Sans, sans-serif;
+  font-size: 1em;
+
+}
+.inbox_received {
+  width: 60%;
+  float: left;
+  clear: both;
+  padding: 1em;
+  border-radius: 1em;
+  border: none;
+  margin: 0.5em 0 0.5em 0.8em;
+  background-color: #fff;
+  position: relative;
+  box-shadow: 0px 1px 0px 0px rgba(170,170,170,1);
+  line-height:1.2em;
+}
+
+.inbox_sent {
+  width: 60%;
+  float: right;
+  clear: both;
+  padding: 1em;
+  border-radius: 1em;
+  margin: 0.5em 0.8em 0.5em 0;
+  background-color: #6C4893;
+  color: #fff;
+  position: relative;
+  font-family: Open Sans, sans-serif;
+  line-height:1.2em;
+
+}
+
+.inbox_sent .time, .inbox_received .time {
+  font-size: 0.7em;
+}
+
+.inbox_sent .time {
+  text-align: left;
+  color: #aaa;
+}
+
+.inbox_received .time {
+  color: #777;
+}
+
+.inbox_sent .tail {
+  position: absolute;
+  right: -0.93em;
+  bottom: -0.92em;
+  height: 1.8em;
+  width: 1.8em;
+  background: url('../img/sent_tail.svg') no-repeat;
+  background-size: cover;
+}
+
+.inbox_received .tail {
+  position: absolute;
+  left: -0.93em;
+  bottom: -0.92em;
+  height: 1.8em;
+  width: 1.8em;
+  background: url('../img/received_tail.svg') no-repeat;
+  background-size: cover;
+}
+
+#inbox_compose {
+  position:fixed;
+  height: 3em;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  border-top: 1px solid #888;
+  background-color: #efefef;
+  box-shadow: 0px -1px 2px 0px rgba(50, 50, 50, 0.3);
+}
+
+#inbox_compose_text {
+  height: 60%;
+  width: 70%;
+  margin: 8px 10px;
+  margin-left: 2%;
+  border-radius: 0.3em;
+  margin-top:1.5%;
+
+}
+
+#inbox_compose_send {
+  width: 15%;
+  height: 80%;
+  margin-left: 2%;
+  margin-right: 1%;
+  margin-top:1%;
+  float: right;
+  border-radius: 0.3em;
+  background-color: #593474;
+  border:none;
+  color: #fff;
+  border-color: none;
+}

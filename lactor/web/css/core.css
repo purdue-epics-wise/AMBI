@@ -1,0 +1,629 @@
+
+/* TODO: ORGANIZE */
+/* STANDARD */
+/*whole element*/
+*{  
+margin-top: 0px;
+margin-bottom: 0px;
+}
+
+/*page*/
+body{
+background-color: #b9dcff;
+}
+
+/*main container*/
+#maincontainer{
+background-color: White;
+border: solid 1pt black;     
+margin:auto;  
+width: 1000px; 
+overflow:auto;
+}
+
+/*header*/
+#header{
+font-size: 42pt;
+font-family: Arial,Helvetica,sans-serif;
+font-style: italic;
+font-weight:bolder;
+color: White;
+background-color: #0070df;    
+}
+
+/*menu*/
+#menu{  
+background-color: #d7d7d7;
+line-height: 50px;   
+font-family: Tahoma;
+font-size: 20px;
+font-weight:bold;
+text-align: center; 
+border-bottom: dotted 1px;
+}
+
+
+
+/*link*/
+a{
+text-decoration: none;  
+color: #004891;
+}
+a:hover {   
+color: #000040; 
+text-decoration: underline;
+}
+#linkself{
+color: Black;
+}
+#linkself:hover{
+text-decoration: none;
+color: Black;
+}
+
+
+/*pagecontent*/
+#pagecontent{
+font-family: Verdana;  
+font-size: 10pt;  
+line-height: 20px;  
+padding-top: 40px;
+padding-left: 20px;  
+padding-right: 20px; 
+overflow:auto;
+}
+
+img	{  
+	border: 0px;
+}
+
+/*footer*/
+#footer{    
+margin-top: 20px;
+line-height: 20px;
+text-align: center;  
+padding: 10px;  
+border-top: solid 1px;
+font-size: 14px;
+}
+
+pre {
+	font-size:1.2em;
+	padding: 5px;
+	/* font-weight:600; */ 
+}
+
+
+/*basic layout*/
+#standardcontent{
+width:300px;
+}
+#standardform{
+margin:0
+}
+#standardfieldset{ 
+margin-bottom:10px; 
+padding-left: 10px;
+}
+#standardlegend{ 
+font-size: 14px;  
+letter-spacing: 0.2em;
+color:#004891;
+}
+#standardlabel{ 
+font-size:.9em;
+font-weight:600; 
+width:250px; 
+padding-top:.5em;
+position:absolute;
+float:left;
+}
+#standardinput{
+font-size:.9em;
+color:#666;
+margin-left:10px;
+margin-bottom:.5em;
+margin-top:.3em;
+}
+#standardtextform, .standardtextform {
+width:150px;
+height:1.5em;
+margin-left:10px;
+margin-top:.5em;
+}
+#standardselect, .standardselect {
+width:156px;
+height:1.5em;
+margin-left:10px;
+margin-top:.5em;
+}
+#standardsubmit {
+margin-left:175px;
+}
+
+//MESSAGES
+#standardmessage{
+background: #b9dcff;
+border-radius: 7px;
+width: 450px; 
+overflow:auto;
+}
+#standarddetail{
+  border-radius: 7px;
+ 
+  width: 450px; 
+  overflow:auto;
+  background: #0070df;
+  color: Black;
+}
+.standardmessageclass {
+background: #b9dcff;
+border-radius: 7px;
+width: 450px; 
+overflow:auto;
+}
+
+#goodmessage {
+	background: #99FF99;
+	border-style: solid;
+	border-width: 1px;
+	border-color:  #339900;
+	padding: 5px;
+	width: 450px; 
+	overflow:auto;
+}
+
+#warnmessage {
+	background: #FAFFBD;
+	border-style: solid;
+	border-width: 1px;
+	border-color:  #FFFF00;
+	padding: 5px;
+	width: 450px; 
+	overflow:auto;
+}
+
+#errormessage {
+	background: #FFEBE8;
+	border-style: solid;
+	border-width: 1px;
+	border-color:  #DD3C10;
+	padding: 5px;
+	width: 450px; 
+	overflow:auto;
+}
+
+/* MESSAGE This CSS is used for the Show/Hide functionality. */
+.more {
+  display: none;
+  margin:left;  
+  width: 450px; 
+  overflow:auto;
+  background: #b9dcff;
+  color: Black;}
+a.showLink, a.hideLink {
+  text-decoration: none;
+  text-align: right;
+  color: White;
+  padding-left: 8px;
+  background: #b9dcff; }
+a.hideLink {
+}
+a.showLink:hover, a.hideLink:hover {
+  border-bottom: 1px dotted #36f; }
+  
+
+//MESSAGES
+#notificationmessage{
+background: #CD5555;
+border-radius: 7px;
+width: 450px; 
+overflow:auto;
+}
+#notificationdetail{
+  border-radius: 7px;
+ 
+  width: 450px; 
+  overflow:auto;
+  background: #CC1100;
+  color: Black;
+}
+.notificationmessageclass {
+background: #CD5555;
+border-radius: 7px;
+width: 450px; 
+overflow:auto;
+}
+
+/* MESSAGE This CSS is used for the Show/Hide functionality. */
+.notmore {
+  display: none;
+  margin:left;  
+  width: 450px; 
+  overflow:auto;
+  background: #CD5555;
+  color: Black;}
+a.notshowLink, a.nothideLink {
+  text-decoration: none;
+  text-align: right;
+  color: White;
+  padding-left: 8px;
+  background: #CD5555; }
+a.hideLink {
+}
+a.notshowLink:hover, a.nothideLink:hover {
+  border-bottom: 1px dotted #CC1100; }
+  
+textarea {
+	resize:none;
+}
+
+/*LOGIN*/
+#loginforget {
+margin-left:100;
+}
+
+/*CHANGE PASS*/
+#changePass{
+
+color:#666;
+
+}
+#changePass:hover{
+text-decoration: none;
+}
+
+/* MOTHER INFORMATION */  
+#mothercontent{width:600px;}
+#mothersubmit{margin-left:500px;}
+ 
+ 
+/* ADD ENTRY */  
+
+/******* GENERAL RESET *******/
+#tablist{
+margin-top: 0px;
+margin-bottom: 0px;
+background-color: #b9dcff;
+
+}
+
+.clear{
+	clear: both;
+	height: 0;
+	visibility: hidden;
+	display: block;
+}
+
+/******* GENERAL RESET *******/
+/******* LOGO *******/
+#logo{
+	margin-top: 1em;
+	display: block;
+}
+/******* /LOGO  *******/
+/******* MENU *******/
+#container{
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 800px;
+}
+#container ul{
+
+	list-style: none;
+	list-style-position: outside;
+}
+#container ul.menu li{
+	float: left;
+	margin-right: 5px;
+	margin-bottom: -1px;
+}
+#container ul.menu li{
+	font-weight: 700;
+	display: block;
+	padding: 5px 10px 5px 10px;
+	background: #efefef;
+	margin-bottom: -1px;
+	border: 1px solid #d0ccc9;
+	border-width: 1px 1px 1px 1px;
+	position: relative;
+	color: #898989;
+	cursor: pointer;
+}
+#container ul.menu li.active{
+	background: #fff;
+	top: 1px;
+	border-bottom: 0;
+	color: #5f95ef;
+}
+/******* /MENU *******/
+/******* CONTENT *******/
+.content{
+	margin: 0pt auto;
+	background: #efefef;
+	background: #fff;
+	border: 1px solid #d0ccc9;
+	text-align: left;
+	padding: 10px;
+	padding-bottom: 20px;
+	font-size: 11px;
+}
+.content h1{
+	line-height: 1em;
+	vertical-align: middle;
+	height: 48px;
+	padding: -10px 10px 10px 52px;
+	font-size: 32px;
+}
+
+/******* /CONTENT *******/
+/******* NEWS *******/
+.content.breastfeeding h1{
+	background: transparent no-repeat scroll left top;
+	padding-bottom: 20px;
+}
+/******* /NEWS *******/
+/******* TUTORIALS *******/
+.content.supplement h1{
+	background: transparent  no-repeat scroll left top;
+	padding-bottom: 20px;
+}
+/******* /TUTORIALS *******/
+/******* LINKS *******/
+.content.output h1{
+	background: transparent  no-repeat scroll left top;
+	padding-bottom: 20px;
+}
+.content.output a{
+	color: #5f95ef;
+}
+/******* /LINKS *******/
+
+/******* /MORBIDITY *******/
+.content.morbidity h1{
+	background: transparent  no-repeat scroll left top;
+	padding-bottom: 20px;
+}
+
+/******* /MORBIDITY *******/
+.content.time h1{
+	background: transparent  no-repeat scroll left top;
+}
+.content.time{
+}
+
+
+/******* /MORBIDITY *******/
+#entrysubmit{margin-left:500px;}
+
+#entryfieldset{ 
+margin-bottom:10px; 
+margin-left:10px; 
+padding-left: 10px;
+}
+
+#entryinput{
+font-size:.9em;
+color:#666;
+margin-left:10px;
+margin-bottom:.5em;
+margin-top:.3em;
+}
+
+#entrytextform {
+width:150px;
+height:1.5em;
+margin-left:5px;
+margin-top:.5em;
+}
+
+#entrysubmit {
+margin-left:320px;
+}
+
+#entrycontent{
+width:612px;
+}
+
+
+
+
+/* VIEW ENTRY */
+thead td{
+font-weight:bold;
+color:#000;
+background-color:#b9dcff;
+border:1px solid #000;
+}
+
+td{
+padding:2px;
+border:1px solid #000;
+}
+
+table{
+border:1px solid #000;
+border-collapse: collapse;
+
+}
+
+h1{
+font-size:1.3em;
+margin-bottom:0px;
+}
+
+table,h1,p,#ads{
+margin-left:10px;
+}
+
+#ads{
+margin-top:20px;
+}
+
+/* These classes are used by the script as rollover effect for table 1 and 2 */
+
+.tableRollOverEffect1{
+background-color:#b9dcff;
+color:#FFF;
+}
+
+.tableRollOverEffect2{
+background-color:#000;
+color:#FFF;
+}
+
+.tableRowClickEffect1{
+background-color:#F00;
+color:#FFF;
+}
+.tableRowClickEffect2{
+background-color:#00F;
+color:#FFF;
+}
+
+
+#viewfieldset{ 
+margin-bottom:10px; 
+margin-left:100px; 
+padding-left: 10px;
+}
+
+#viewinput{
+font-size:.9em;
+color:#666;
+margin-left:10px;
+margin-bottom:.5em;
+margin-top:.3em;
+}
+
+#viewtextform {
+width:150px;
+height:1.5em;
+margin-left:5px;
+margin-top:.5em;
+}
+
+#viewsubmit {
+margin-left:320px;
+}
+
+#viewcontent{
+width:420px;
+}
+
+/* calendar icon */
+img.tcalIcon {
+	cursor: pointer;
+	margin-left: 1px;
+	vertical-align: middle;
+}
+/* calendar container element */
+div#tcal {
+	position: absolute;
+	visibility: hidden;
+	z-index: 100;
+	width: 158px;
+	padding: 2px 0 0 0;
+}
+/* all tables in calendar */
+div#tcal table {
+	width: 100%;
+	border: 1px solid silver;
+	border-collapse: collapse;
+	background-color: white;
+}
+/* navigation table */
+div#tcal table.ctrl {
+	border-bottom: 0;
+}
+/* navigation buttons */
+div#tcal table.ctrl td {
+	width: 15px;
+	height: 20px;
+}
+/* month year header */
+div#tcal table.ctrl th {
+	background-color: white;
+	color: black;
+	border: 0;
+}
+/* week days header */
+div#tcal th {
+	border: 1px solid silver;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 3px 0;
+	font-family: tahoma, verdana, arial;
+	font-size: 10px;
+	background-color: gray;
+	color: white;
+}
+/* date cells */
+div#tcal td {
+	border: 0;
+	border-collapse: collapse;
+	text-align: center;
+	padding: 2px 0;
+	font-family: tahoma, verdana, arial;
+	font-size: 11px;
+	width: 22px;
+	cursor: pointer;
+}
+/* date highlight
+   in case of conflicting settings order here determines the priority from least to most important */
+div#tcal td.othermonth {
+	color: silver;
+}
+div#tcal td.weekend {
+	background-color: #ACD6F5;
+}
+div#tcal td.today {
+	border: 1px solid red;
+}
+div#tcal td.selected {
+	background-color: #FFB3BE;
+}
+/* iframe element used to suppress windowed controls in IE5/6 */
+iframe#tcalIF {
+	position: absolute;
+	visibility: hidden;
+	z-index: 98;
+	border: 0;
+}
+/* transparent shadow */
+div#tcalShade {
+	position: absolute;
+	visibility: hidden;
+	z-index: 99;
+}
+div#tcalShade table {
+	border: 0;
+	border-collapse: collapse;
+	width: 100%;
+}
+div#tcalShade table td {
+	border: 0;
+	border-collapse: collapse;
+	padding: 0;
+}
+
+
+/* Error and Success messages */
+.errorMessage {
+	background-color: #faa;
+	border: 1px solid #d0ccc9;
+	margin: 5px 0;
+	padding: 5px;
+}
+.successMessage {
+	background-color: #afa;
+	border: 1px solid #d0ccc9;
+	margin: 5px 0;
+}
+  
+
+
+

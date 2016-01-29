@@ -1,0 +1,74 @@
+html, body {
+  height: 100%;
+  font-family: Arial,Helvetica,sans-serif;
+  margin: 0;
+}
+
+#body {
+  height: 100%;
+  /* fallback (Opera) */
+  background: #13a;
+  /* Mozilla: */
+  background: fixed -moz-linear-gradient(top, #24f, #014);
+  /* Chrome, Safari:*/
+  background: fixed -webkit-gradient(linear,
+              left top, left bottom, from(#24f), to(#014));
+  /* MSIE */
+  filter: progid:DXImageTransform.Microsoft.Gradient(
+              StartColorStr='#2244ff', EndColorStr='#001144', GradientType=0);
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+  font-weight: bold;
+}
+
+
+#maincontainer {
+  width: 1024px;
+  border: 1px solid #aaa;
+  background-color: white;
+  margin: auto;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+
+#logo {
+  padding: 10px;
+  height: 100px;
+  background: center center no-repeat url('https://lactor.org/image/logo.png') #0070df;
+}
+
+
+#menu {  
+  background-color: #d7d7d7;
+  line-height: 50px;   
+  font-family: Tahoma;
+  font-size: 20px;
+  font-weight:bold;
+  text-align: center; 
+  border-bottom: dotted 1px;
+}
+
+
+a {
+  text-decoration: none;  
+  color: #004891;
+}
+
+a:hover {   
+  color: #000040; 
+  text-decoration: underline;
+}
+
+#content {
+  padding: 1.5em;
+}
+
+#footer {
+  padding-top: 1.5em;
+  text-align: right;
+  font-size: 0.8em;
+}

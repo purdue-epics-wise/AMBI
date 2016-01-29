@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 128 128">
+  <g>
+    <circle stroke-width="12" cx="64" cy="64" r="58" fill="white" stroke="white"
+        stroke-opacity="0.25"/>
+    <text x="64" y="76" text-anchor="middle" fill="#336699" 
+        font-family="Verdana" font-size="32">Start</text>
+  </g>
+</svg>

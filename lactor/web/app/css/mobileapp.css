@@ -1,0 +1,164 @@
+@font-face {
+  font-family: "Open Sans Light";
+  src: url('../fonts/OpenSans-Light.ttf');/* relative path from the css file */
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url('../fonts/OpenSans-Regular.ttf');/* relative path from the css file */
+}
+@font-face {
+  font-family: "Open Sans Semibold";
+  src: url('../fonts/OpenSans-Semibold.ttf');/* relative path from the css file */
+}
+@font-face {
+  font-family: "Open Sans Bold";
+  src: url('../fonts/OpenSans-Bold.ttf');/* relative path from the css file */
+}
+@font-face {
+  font-family: "Open Sans Extrabold";
+  src: url('../fonts/OpenSans-Extrabold.ttf');/* relative path from the css file */
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#mainContent {
+  font-size: 1em;
+  font-family: Open Sans, sans-serif;
+  margin-top:50px;
+  padding-bottom: 64px;
+  min-height:100%;
+}
+ 
+select { 
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding: 0 2%;
+}
+ 
+select, input[type='time'] {
+  /*zoom: 1.5;*/
+  border-width: 0.8px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+ 
+#actionBar {
+  position: fixed;
+  top: 0;
+  padding: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #3a74ad;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.2em;
+  color: white;
+  z-index: 1;
+
+}
+
+#actionBarIcon {
+  position: absolute;
+  top: 10px;
+  left: 18px;
+  height: 32px;
+  width: 32px;
+}
+
+#actionBar span{
+    display:inline-block;
+    margin-top: 15px;
+    font-family: Open Sans Light, sans-serif;
+}
+.icon svg{
+    margin-top:-3px;
+}
+ 
+#menu ul {
+  margin: 0;
+  padding: 0;
+}
+
+#menu li {
+  list-style-type: none;
+  margin: 0;
+  padding: 1em;
+  border-bottom: 1px solid #ddd;
+  font-family: Open Sans, sans-serif;
+}
+
+#mainMenuOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+
+}
+
+.itemDetailList {
+  margin: 0;
+  padding: 0;
+}
+
+.itemDetailList li {
+  list-style-type: none;
+  margin: 0;
+  padding: 1em 0 1em 2em;
+  border-bottom: 1px solid;
+}
+
+.view_panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

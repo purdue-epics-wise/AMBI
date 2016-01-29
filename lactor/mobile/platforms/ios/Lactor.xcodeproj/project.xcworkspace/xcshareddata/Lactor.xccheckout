@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5250AFB5-DE5C-43BA-A0E2-21C58ED93D13</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Lactor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC9ABF7C3C19BE808184B2FB3FF647F4158C0653</key>
+		<string>ssh://core02.bbc.purdue.edu/var/git/lactor/mobile</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Lactor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC9ABF7C3C19BE808184B2FB3FF647F4158C0653</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://core02.bbc.purdue.edu/var/git/lactor/mobile</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC9ABF7C3C19BE808184B2FB3FF647F4158C0653</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC9ABF7C3C19BE808184B2FB3FF647F4158C0653</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lactor-mobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>

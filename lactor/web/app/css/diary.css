@@ -1,0 +1,148 @@
+
+html {
+  background-color: #eee;
+}
+
+#mainContent {
+  font-size: 1em;
+}
+
+#diary_buttonBar {
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height:64px;
+  background-color: #ffbbdd;
+}
+
+#diary_timeSelect table {
+  margin: auto;
+}
+
+#diary_saveButtons table {
+  width: 96%;
+  margin: auto;
+}
+
+#diary_saveButtons td {
+  padding: 0 3%;
+}
+
+#diary_saveButtons button {
+  border-radius: 0.3em;
+  border-color: white;
+  height: 2em;
+  font-size: 0.7em;
+  background-color: white;
+  width: 100%;
+}
+
+#diary_saveButtons {
+  position:fixed;
+  bottom:64px;
+  width:100%;
+  height:32px;
+  padding-bottom: 24px;
+  background-color: #eee;
+}
+
+#diary_saveButtons #diary_saveButton {
+  background-color: #336699
+  color: white;
+}
+
+#diary_buttonBar .active {
+  background: top center url('../img/active_arrow.svg') no-repeat;
+  background-size: 20px 20px;
+}
+
+#diary_buttonBar > div {
+  float: left;
+  width: 16.6%;
+}
+
+#diary_buttonBar > #diary_nav_breastfeeding {
+  background-color: #862447;
+}
+
+#diary_buttonBar > #diary_nav_pumping {
+  background-color: #a12b54;
+}
+
+#diary_buttonBar > #diary_nav_supplement {
+  background-color: #ba3262;
+}
+
+#diary_buttonBar > #diary_nav_output {
+  background-color: #d24375;
+}
+
+#diary_buttonBar > #diary_nav_weight {
+  background-color: #ee5a8e;
+}
+
+#diary_buttonBar > #diary_nav_health {
+  background-color: #ef7fa7;
+}
+
+.diary_chart_wrapper {
+  background-color: #862447;
+  padding-bottom:2em;
+}
+
+.diary_chart {
+  height: 200px;
+  width: 90%;
+  margin-left: 5%;
+
+}
+#diary_breastfeeding_chart{
+
+}
+.diary_chart * {
+  color: #fff;
+  border-right:none;
+}
+.diary{
+    background:#fff;
+    width:100%;
+    border-top: 1px solid #aaa;
+    margin-right: 1em;
+}
+.diary_entry {
+
+  font-size: 1em;
+  padding: 1em;
+
+
+}
+.diary_details{
+}
+.diary_date {
+  font-size: 1em;
+  font-family: Open Sans Bold, sans-serif;
+}
+
+.diary_main {
+  font-size: 1em;
+  font-family: Open Sans, sans-serif;
+  overflow:wrap;
+}
+
+.diary_panel {
+  padding-bottom: 64px;
+}
+
+svg text {
+  font-size: 12pt;
+}
+
+.diary_icon {
+  margin: 0 20px 0 5px;
+  float: left;
+
+}
+.diary_icon img{
+      width: 2em;
+      height: 2em;
+}

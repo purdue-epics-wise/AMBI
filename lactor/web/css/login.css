@@ -1,0 +1,79 @@
+/******* GENERAL RESET *******/
+/******* LOGO *******/
+#logo{
+	margin-top: 1em;
+	display: block;
+}
+/******* /LOGO  *******/
+/******* MENU *******/
+#container{
+
+	margin-top: -10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 300px;
+}
+#container ul{
+
+	list-style: none;
+	list-style-position: outside;
+}
+#container ul.menu li{
+	float: left;
+	margin-right: 5px;
+	margin-bottom: -1px;
+}
+#container ul.menu li{
+	font-weight: 700;
+	display: block;
+	padding: 5px 10px 5px 10px;
+	background: #efefef;
+	margin-bottom: -1px;
+	border: 1px solid #d0ccc9;
+	border-width: 1px 1px 1px 1px;
+	position: relative;
+	color: #898989;
+	cursor: pointer;
+}
+#container ul.menu li.active{
+	background: #fff;
+	top: 1px;
+	border-bottom: 0;
+	color: #5f95ef;
+}
+/******* /MENU *******/
+/******* CONTENT *******/
+.content{
+	margin: 0pt auto;
+	background: #efefef;
+	background: #fff;
+	border: 1px solid #d0ccc9;
+	text-align: left;
+	padding: 10px;
+	padding-bottom: 20px;
+	font-size: 11px;
+}
+.content h1{
+	line-height: 1em;
+	vertical-align: middle;
+	height: 20px;
+	padding: 10px;
+	font-size: 20px;
+}
+/******* /CONTENT *******/
+/******* NEWS *******/
+.content.breastfeeding h1{
+	background: transparent no-repeat scroll left top;
+}
+.content.breastfeeding{
+	display: block;
+}
+/******* /NEWS *******/
+/******* TUTORIALS *******/
+.content.supplement h1{
+	background: transparent url(../image/tuts.jpg) no-repeat scroll left top;
+}
+.content.supplement{
+	display: none;
+}

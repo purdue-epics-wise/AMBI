@@ -1,0 +1,941 @@
+2014-10-22 22:58:59.376 Lactor[8377:10618788] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/14243B5F-4D30-4B90-8CCD-9EFDE492D250/Library/Cookies/Cookies.binarycookies
+2014-10-22 22:58:59.752 Lactor[8377:10618788] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-22 22:58:59.753 Lactor[8377:10618788] Multi-tasking -> Device: YES, App: YES
+2014-10-22 22:58:59.909 Lactor[8377:10618788] Unlimited access to network resources
+2014-10-22 22:58:59.947 Lactor[8377:10618788] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-22 22:59:02.024 Lactor[8377:10618788] Resetting plugins due to page load.
+2014-10-22 22:59:02.598 Lactor[8377:10618788] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/928B8EB4-492C-44AE-902B-28CA6366177A/Lactor.app/www/index.html
+2014-10-23 00:24:08.368 Lactor[9186:11274676] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/B447B26A-C627-49EC-8A60-B21ECD99BF7E/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:24:08.721 Lactor[9186:11274676] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:24:08.722 Lactor[9186:11274676] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:24:08.727 Lactor[9186:11274676] Unlimited access to network resources
+2014-10-23 00:24:08.729 Lactor[9186:11274676] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:24:09.333 Lactor[9186:11274676] Resetting plugins due to page load.
+2014-10-23 00:24:09.583 Lactor[9186:11274676] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/B2430B4B-9A12-4B2B-8E3A-6D4CCBB57633/Lactor.app/www/index.html
+2014-10-23 00:25:49.434 Lactor[9393:11295889] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/3043C9DD-BF94-4B82-8920-055646A3E7A4/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:25:49.560 Lactor[9393:11295889] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:25:49.561 Lactor[9393:11295889] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:25:49.567 Lactor[9393:11295889] Unlimited access to network resources
+2014-10-23 00:25:49.572 Lactor[9393:11295889] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:25:49.902 Lactor[9393:11295889] Resetting plugins due to page load.
+2014-10-23 00:25:50.068 Lactor[9393:11295889] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/69FF13D3-5CC2-4CE2-AD80-26E910A9C3F2/Lactor.app/www/index.html
+2014-10-23 00:30:21.863 Lactor[9618:11349829] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/49686D9C-83F9-48D9-AB60-B733C7E06374/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:30:21.983 Lactor[9618:11349829] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:30:21.984 Lactor[9618:11349829] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:30:21.990 Lactor[9618:11349829] Unlimited access to network resources
+2014-10-23 00:30:21.994 Lactor[9618:11349829] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:30:22.299 Lactor[9618:11349829] Resetting plugins due to page load.
+2014-10-23 00:30:22.437 Lactor[9618:11349829] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/64E45A5C-0E54-413E-8068-BBD60B689CF6/Lactor.app/www/index.html
+2014-10-23 00:33:11.544 Lactor[9832:11384846] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/D605A09E-0CFA-4FC0-9C59-D4A8B3F0FD02/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:33:11.693 Lactor[9832:11384846] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:33:11.694 Lactor[9832:11384846] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:33:11.704 Lactor[9832:11384846] Unlimited access to network resources
+2014-10-23 00:33:11.710 Lactor[9832:11384846] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:33:12.035 Lactor[9832:11384846] Resetting plugins due to page load.
+2014-10-23 00:33:12.202 Lactor[9832:11384846] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/1596BFFD-B267-4E88-9CF9-0A412E365EB0/Lactor.app/www/index.html
+2014-10-23 00:35:51.439 Lactor[10043:11417216] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/8B5594FD-7190-4085-BDDD-6F4DC0BC057E/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:35:51.582 Lactor[10043:11417216] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:35:51.582 Lactor[10043:11417216] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:35:51.590 Lactor[10043:11417216] Unlimited access to network resources
+2014-10-23 00:35:51.593 Lactor[10043:11417216] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:35:51.914 Lactor[10043:11417216] Resetting plugins due to page load.
+2014-10-23 00:35:52.061 Lactor[10043:11417216] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/836301CE-E125-46F9-BC4B-CD6C4695394C/Lactor.app/www/index.html
+2014-10-23 00:50:42.018 Lactor[10421:11598050] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/DAB3B278-B9D3-4CD3-8770-AAD831BAD874/data/Containers/Data/Application/2BB181F6-0AD9-4685-AE08-F94F1F77E98B/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:50:42.860 Lactor[10421:11598050] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:50:42.861 Lactor[10421:11598050] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:50:43.066 Lactor[10421:11598050] Unlimited access to network resources
+2014-10-23 00:50:43.151 Lactor[10421:11598050] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:50:44.675 Lactor[10421:11598050] Resetting plugins due to page load.
+2014-10-23 00:50:45.097 Lactor[10421:11598050] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/DAB3B278-B9D3-4CD3-8770-AAD831BAD874/data/Containers/Bundle/Application/FA0041F4-0FF8-49CF-83A4-EE9DEF6452E5/Lactor.app/www/index.html
+2014-10-23 00:50:55.547 Lactor[10421:11598353] Terminating since there is no system app.
+2014-10-23 00:51:02.726 Lactor[10665:11603139] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/82FFE70E-A090-4A1C-AA39-383A0E656F50/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:51:02.842 Lactor[10665:11603139] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:51:02.842 Lactor[10665:11603139] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:51:02.851 Lactor[10665:11603139] Unlimited access to network resources
+2014-10-23 00:51:02.856 Lactor[10665:11603139] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:51:03.218 Lactor[10665:11603139] Resetting plugins due to page load.
+2014-10-23 00:51:03.375 Lactor[10665:11603139] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/54BB4DBB-0C70-44DE-9D88-4479A566ABDC/Lactor.app/www/index.html
+2014-10-23 00:52:46.418 Lactor[10933:11624768] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/BADAC575-72C1-4B54-94B7-FD40465A9E4E/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:52:46.930 Lactor[10933:11624768] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:52:46.931 Lactor[10933:11624768] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:52:47.012 Lactor[10933:11624768] Unlimited access to network resources
+2014-10-23 00:52:47.016 Lactor[10933:11624768] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:52:48.541 Lactor[10933:11624768] Resetting plugins due to page load.
+2014-10-23 00:52:48.717 Lactor[10933:11624768] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/3FE833E1-03CE-4573-8D74-699F60D50F46/Lactor.app/www/index.html
+2014-10-23 00:53:08.378 Lactor[11138:11629903] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/D8311B04-5907-4376-B410-66C6879CB839/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:53:08.568 Lactor[11138:11629903] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:53:08.569 Lactor[11138:11629903] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:53:08.577 Lactor[11138:11629903] Unlimited access to network resources
+2014-10-23 00:53:08.580 Lactor[11138:11629903] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:53:08.999 Lactor[11138:11629903] Resetting plugins due to page load.
+2014-10-23 00:53:09.305 Lactor[11138:11629903] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/1ECE23D1-4614-4D6C-90E7-E970C364B2DB/Lactor.app/www/index.html
+2014-10-23 00:53:46.411 Lactor[11375:11638171] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/DAB3B278-B9D3-4CD3-8770-AAD831BAD874/data/Containers/Data/Application/43544531-3D5C-4957-9EF1-3286EC663E26/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:53:46.530 Lactor[11375:11638171] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:53:46.531 Lactor[11375:11638171] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:53:46.536 Lactor[11375:11638171] Unlimited access to network resources
+2014-10-23 00:53:46.539 Lactor[11375:11638171] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:53:46.856 Lactor[11375:11638171] Resetting plugins due to page load.
+2014-10-23 00:53:46.944 Lactor[11375:11638171] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/DAB3B278-B9D3-4CD3-8770-AAD831BAD874/data/Containers/Bundle/Application/2E207624-19C2-4E84-BB46-A989CA71F4C1/Lactor.app/www/index.html
+2014-10-23 00:54:07.241 Lactor[11615:11643001] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/DCCF61BA-787C-4C0D-ADA2-444A1404105A/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:54:07.336 Lactor[11615:11643001] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:54:07.337 Lactor[11615:11643001] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:54:07.343 Lactor[11615:11643001] Unlimited access to network resources
+2014-10-23 00:54:07.347 Lactor[11615:11643001] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:54:07.659 Lactor[11615:11643001] Resetting plugins due to page load.
+2014-10-23 00:54:07.819 Lactor[11615:11643001] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/335A7499-79C1-4404-89BA-F372CD5E0632/Lactor.app/www/index.html
+2014-10-23 00:54:25.402 Lactor[11615:11643263] Terminating since there is no system app.
+2014-10-23 00:54:32.936 Lactor[11857:11648927] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/63FF9D53-BB82-4264-8AA5-A6F363E8A1C0/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:54:33.398 Lactor[11857:11648927] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:54:33.399 Lactor[11857:11648927] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:54:33.407 Lactor[11857:11648927] Unlimited access to network resources
+2014-10-23 00:54:33.410 Lactor[11857:11648927] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:54:33.870 Lactor[11857:11648927] Resetting plugins due to page load.
+2014-10-23 00:54:33.951 Lactor[11857:11648927] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/555D2FE7-151E-4594-A9A3-4F96F13D6697/Lactor.app/www/index.html
+2014-10-23 00:54:58.806 Lactor[12103:11655003] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/6AB6AC17-838B-4A92-A7A2-2C3D9DD56ADB/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:54:59.201 Lactor[12103:11655003] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:54:59.201 Lactor[12103:11655003] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:54:59.242 Lactor[12103:11655003] Unlimited access to network resources
+2014-10-23 00:54:59.245 Lactor[12103:11655003] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:55:00.409 Lactor[12103:11655003] Resetting plugins due to page load.
+2014-10-23 00:55:00.489 Lactor[12103:11655003] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/AA521087-670D-4CE5-97FA-F1B22619C5F4/Lactor.app/www/index.html
+2014-10-23 00:55:54.794 Lactor[12341:11667050] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/45B3DE0F-D8F0-401B-89C9-B1D3875D528C/data/Containers/Data/Application/E2FF9F22-79A9-4E4F-BE07-74982720BB32/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:55:55.340 Lactor[12341:11667050] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:55:55.341 Lactor[12341:11667050] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:55:55.609 Lactor[12341:11667050] Unlimited access to network resources
+2014-10-23 00:55:55.748 Lactor[12341:11667050] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:55:57.310 Lactor[12341:11667050] Resetting plugins due to page load.
+2014-10-23 00:55:57.960 Lactor[12341:11667050] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/45B3DE0F-D8F0-401B-89C9-B1D3875D528C/data/Containers/Bundle/Application/700708D6-D024-42DD-BD47-C75533DD574C/Lactor.app/www/index.html
+2014-10-23 00:56:15.839 Lactor[12585:11672120] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/C5B4C8AE-3C4F-4193-8A41-5080C980DF53/Library/Cookies/Cookies.binarycookies
+2014-10-23 00:56:15.930 Lactor[12585:11672120] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 00:56:15.930 Lactor[12585:11672120] Multi-tasking -> Device: YES, App: YES
+2014-10-23 00:56:15.938 Lactor[12585:11672120] Unlimited access to network resources
+2014-10-23 00:56:15.941 Lactor[12585:11672120] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 00:56:16.357 Lactor[12585:11672120] Resetting plugins due to page load.
+2014-10-23 00:56:16.467 Lactor[12585:11672120] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/BECFACCE-D8CD-416C-9CB7-E0D7F6D3C192/Lactor.app/www/index.html
+2014-10-23 01:04:22.523 Lactor[13141:11769073] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/5821019F-6946-47E0-A71A-51C47B9DF276/Library/Cookies/Cookies.binarycookies
+2014-10-23 01:04:22.936 Lactor[13141:11769073] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 01:04:22.937 Lactor[13141:11769073] Multi-tasking -> Device: YES, App: YES
+2014-10-23 01:04:22.943 Lactor[13141:11769073] Unlimited access to network resources
+2014-10-23 01:04:22.947 Lactor[13141:11769073] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 01:04:23.270 Lactor[13141:11769073] Resetting plugins due to page load.
+2014-10-23 01:04:23.352 Lactor[13141:11769073] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/FB951305-E233-406E-9FF2-6B2C9BE4418F/Lactor.app/www/index.html
+2014-10-23 01:09:10.770 Lactor[13374:11770565] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/69240A89-C143-412F-B9E4-83D5E940F652/Library/Cookies/Cookies.binarycookies
+2014-10-23 01:09:11.018 Lactor[13374:11770565] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 01:09:11.019 Lactor[13374:11770565] Multi-tasking -> Device: YES, App: YES
+2014-10-23 01:09:11.028 Lactor[13374:11770565] Unlimited access to network resources
+2014-10-23 01:09:11.031 Lactor[13374:11770565] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 01:09:11.628 Lactor[13374:11770565] Resetting plugins due to page load.
+2014-10-23 01:09:11.818 Lactor[13374:11770565] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/5883F2CB-A557-440C-9FB2-D2002FCAFE93/Lactor.app/www/index.html
+2014-10-23 01:10:25.630 Lactor[13577:11771282] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/70641DE0-C5B9-48EF-82A1-C496BE8844A5/Library/Cookies/Cookies.binarycookies
+2014-10-23 01:10:25.999 Lactor[13577:11771282] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 01:10:26.000 Lactor[13577:11771282] Multi-tasking -> Device: YES, App: YES
+2014-10-23 01:10:26.006 Lactor[13577:11771282] Unlimited access to network resources
+2014-10-23 01:10:26.010 Lactor[13577:11771282] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 01:10:26.351 Lactor[13577:11771282] Resetting plugins due to page load.
+2014-10-23 01:10:26.555 Lactor[13577:11771282] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/10EF146B-ADD2-40B8-8D99-49FFF9FAFA0B/Lactor.app/www/index.html
+2014-10-23 02:21:04.531 Lactor[14229:12033152] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/DE60E31A-0465-49DB-BF44-C37E80CCC538/Library/Cookies/Cookies.binarycookies
+2014-10-23 02:21:04.682 Lactor[14229:12033152] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 02:21:04.683 Lactor[14229:12033152] Multi-tasking -> Device: YES, App: YES
+2014-10-23 02:21:04.693 Lactor[14229:12033152] Unlimited access to network resources
+2014-10-23 02:21:04.698 Lactor[14229:12033152] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 02:21:05.072 Lactor[14229:12033152] Resetting plugins due to page load.
+2014-10-23 02:21:05.265 Lactor[14229:12033152] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/0C162C63-0CD1-49F1-8221-1C55433EDD40/Lactor.app/www/index.html
+2014-10-23 02:26:25.954 Lactor[14459:12099079] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/3C4DE924-622F-477C-99D1-56D3804D0FE3/Library/Cookies/Cookies.binarycookies
+2014-10-23 02:26:26.037 Lactor[14459:12099079] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 02:26:26.038 Lactor[14459:12099079] Multi-tasking -> Device: YES, App: YES
+2014-10-23 02:26:26.047 Lactor[14459:12099079] Unlimited access to network resources
+2014-10-23 02:26:26.050 Lactor[14459:12099079] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 02:26:26.418 Lactor[14459:12099079] Resetting plugins due to page load.
+2014-10-23 02:26:26.624 Lactor[14459:12099079] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/6AD19501-276D-4F32-9500-E93530DC892B/Lactor.app/www/index.html
+2014-10-23 02:27:21.318 Lactor[14661:12110715] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/70A6DF1F-093E-4F5F-B6CB-104AEB884C96/Library/Cookies/Cookies.binarycookies
+2014-10-23 02:27:21.619 Lactor[14661:12110715] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 02:27:21.620 Lactor[14661:12110715] Multi-tasking -> Device: YES, App: YES
+2014-10-23 02:27:21.629 Lactor[14661:12110715] Unlimited access to network resources
+2014-10-23 02:27:21.632 Lactor[14661:12110715] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 02:27:22.016 Lactor[14661:12110715] Resetting plugins due to page load.
+2014-10-23 02:27:22.184 Lactor[14661:12110715] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/5ED6DB7F-7EFC-4594-9126-6DEC229A3951/Lactor.app/www/index.html
+2014-10-23 02:28:19.253 Lactor[14862:12122914] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/D5510012-C154-4E20-9339-766F3743AEE5/Library/Cookies/Cookies.binarycookies
+2014-10-23 02:28:19.633 Lactor[14862:12122914] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 02:28:19.634 Lactor[14862:12122914] Multi-tasking -> Device: YES, App: YES
+2014-10-23 02:28:19.642 Lactor[14862:12122914] Unlimited access to network resources
+2014-10-23 02:28:19.644 Lactor[14862:12122914] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 02:28:19.998 Lactor[14862:12122914] Resetting plugins due to page load.
+2014-10-23 02:28:20.179 Lactor[14862:12122914] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/40D9ADDD-D2F5-455C-9D53-5AA5540B3A51/Lactor.app/www/index.html
+2014-10-23 02:28:35.836 Lactor[14862:12122914] Application tried to represent an active popover presentation: <UIPopoverPresentationController: 0x796e8850>
+2014-10-23 02:57:47.001 Lactor[15376:12461783] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/53BD910F-8BC2-4CED-BD8C-3123C032D57B/Library/Cookies/Cookies.binarycookies
+2014-10-23 02:57:47.125 Lactor[15376:12461783] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 02:57:47.126 Lactor[15376:12461783] Multi-tasking -> Device: YES, App: YES
+2014-10-23 02:57:47.132 Lactor[15376:12461783] Unlimited access to network resources
+2014-10-23 02:57:47.152 Lactor[15376:12461783] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 02:57:47.397 Lactor[15376:12461783] [CDVTimer][statusbar] 29.249012ms
+2014-10-23 02:57:47.397 Lactor[15376:12461783] [CDVTimer][TotalPluginStartup] 29.489994ms
+2014-10-23 02:57:47.674 Lactor[15376:12461783] Resetting plugins due to page load.
+2014-10-23 02:57:47.916 Lactor[15376:12461783] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/4C3EB3BC-6017-4A08-A271-8986CAD64FCD/Lactor.app/www/index.html
+2014-10-23 03:17:11.568 Lactor[15769:12468462] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/D60A22AF-5B89-4F20-9E2D-39FE5EE2A261/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:17:11.913 Lactor[15769:12468462] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:17:11.913 Lactor[15769:12468462] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:17:11.920 Lactor[15769:12468462] Unlimited access to network resources
+2014-10-23 03:17:11.968 Lactor[15769:12468462] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:17:12.812 Lactor[15769:12468462] [CDVTimer][statusbar] 115.092993ms
+2014-10-23 03:17:12.812 Lactor[15769:12468462] [CDVTimer][TotalPluginStartup] 115.267992ms
+2014-10-23 03:17:13.106 Lactor[15769:12468462] Resetting plugins due to page load.
+2014-10-23 03:17:13.328 Lactor[15769:12468462] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/3B6CE3CF-73A4-40E8-BD55-0F313C26E6CC/Lactor.app/www/index.html
+2014-10-23 03:19:36.550 Lactor[15990:12469610] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/BB3A12D7-E541-41AC-BF9D-02FB1FA4C19A/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:19:36.949 Lactor[15990:12469610] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:19:36.950 Lactor[15990:12469610] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:19:36.957 Lactor[15990:12469610] Unlimited access to network resources
+2014-10-23 03:19:36.960 Lactor[15990:12469610] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:19:37.193 Lactor[15990:12469610] [CDVTimer][statusbar] 17.432034ms
+2014-10-23 03:19:37.193 Lactor[15990:12469610] [CDVTimer][TotalPluginStartup] 17.607033ms
+2014-10-23 03:19:37.497 Lactor[15990:12469610] Resetting plugins due to page load.
+2014-10-23 03:19:37.652 Lactor[15990:12469610] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/E0EEB95B-783F-4BAF-862B-F7997FD84DC2/Lactor.app/www/index.html
+2014-10-23 03:21:51.108 Lactor[16205:12470616] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/1F0D500A-7F24-411C-B770-531CEB82A3CD/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:21:51.466 Lactor[16205:12470616] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:21:51.467 Lactor[16205:12470616] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:21:51.474 Lactor[16205:12470616] Unlimited access to network resources
+2014-10-23 03:21:51.477 Lactor[16205:12470616] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:21:51.714 Lactor[16205:12470616] [CDVTimer][statusbar] 20.215988ms
+2014-10-23 03:21:51.714 Lactor[16205:12470616] [CDVTimer][TotalPluginStartup] 20.388961ms
+2014-10-23 03:21:52.034 Lactor[16205:12470616] Resetting plugins due to page load.
+2014-10-23 03:21:52.197 Lactor[16205:12470616] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/080AB93D-6EE0-44D4-AE93-007486E0469F/Lactor.app/www/index.html
+2014-10-23 03:23:26.951 Lactor[16423:12471603] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/0E027917-6E43-4997-AF9D-9F492F5C4CDA/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:23:27.296 Lactor[16423:12471603] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:23:27.297 Lactor[16423:12471603] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:23:27.306 Lactor[16423:12471603] Unlimited access to network resources
+2014-10-23 03:23:27.309 Lactor[16423:12471603] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:23:27.550 Lactor[16423:12471603] [CDVTimer][statusbar] 17.940044ms
+2014-10-23 03:23:27.550 Lactor[16423:12471603] [CDVTimer][TotalPluginStartup] 18.117011ms
+2014-10-23 03:23:27.829 Lactor[16423:12471603] Resetting plugins due to page load.
+2014-10-23 03:23:28.010 Lactor[16423:12471603] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/541BD899-24EF-41F8-9E17-FE439302C876/Lactor.app/www/index.html
+2014-10-23 03:29:42.968 Lactor[16708:12473907] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/A5B2DEB4-0050-4C5A-A3B4-C22331C25DD3/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:29:43.369 Lactor[16708:12473907] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:29:43.370 Lactor[16708:12473907] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:29:43.377 Lactor[16708:12473907] Unlimited access to network resources
+2014-10-23 03:29:43.380 Lactor[16708:12473907] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:29:43.622 Lactor[16708:12473907] [CDVTimer][statusbar] 18.199027ms
+2014-10-23 03:29:43.623 Lactor[16708:12473907] [CDVTimer][TotalPluginStartup] 18.374026ms
+2014-10-23 03:29:43.897 Lactor[16708:12473907] Resetting plugins due to page load.
+2014-10-23 03:29:44.076 Lactor[16708:12473907] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/386CE85D-C367-4AAF-8394-0532042A5E5E/Lactor.app/www/index.html
+2014-10-23 03:30:57.565 Lactor[16924:12474679] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/F9D56094-92E0-4F2C-90AD-610C8602BD51/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:30:57.918 Lactor[16924:12474679] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:30:57.919 Lactor[16924:12474679] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:30:57.925 Lactor[16924:12474679] Unlimited access to network resources
+2014-10-23 03:30:57.928 Lactor[16924:12474679] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:30:58.149 Lactor[16924:12474679] [CDVTimer][statusbar] 19.966006ms
+2014-10-23 03:30:58.150 Lactor[16924:12474679] [CDVTimer][TotalPluginStartup] 20.135999ms
+2014-10-23 03:30:58.416 Lactor[16924:12474679] Resetting plugins due to page load.
+2014-10-23 03:30:58.603 Lactor[16924:12474679] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/36739983-DFBC-4D13-844E-EB8A52684943/Lactor.app/www/index.html
+2014-10-23 03:32:10.720 Lactor[17151:12475589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/90503A66-3431-455D-AC15-7CEBA70211B9/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:32:10.831 Lactor[17151:12475589] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:32:10.832 Lactor[17151:12475589] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:32:10.839 Lactor[17151:12475589] Unlimited access to network resources
+2014-10-23 03:32:10.841 Lactor[17151:12475589] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:32:11.081 Lactor[17151:12475589] [CDVTimer][statusbar] 17.292976ms
+2014-10-23 03:32:11.081 Lactor[17151:12475589] [CDVTimer][TotalPluginStartup] 17.461956ms
+2014-10-23 03:32:11.362 Lactor[17151:12475589] Resetting plugins due to page load.
+2014-10-23 03:32:11.541 Lactor[17151:12475589] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/51E533DA-0826-4DEE-9347-EA623D2F4514/Lactor.app/www/index.html
+2014-10-23 03:49:53.965 Lactor[18904:12484944] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/87856C44-815C-4307-ABD8-F7FA04EFA87D/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:49:54.185 Lactor[18904:12484944] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:49:54.186 Lactor[18904:12484944] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:49:54.195 Lactor[18904:12484944] Unlimited access to network resources
+2014-10-23 03:49:54.198 Lactor[18904:12484944] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:49:54.580 Lactor[18904:12484944] [CDVTimer][statusbar] 23.136973ms
+2014-10-23 03:49:54.580 Lactor[18904:12484944] [CDVTimer][TotalPluginStartup] 23.501039ms
+2014-10-23 03:49:54.857 Lactor[18904:12484944] Resetting plugins due to page load.
+2014-10-23 03:49:55.028 Lactor[18904:12484944] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/F66B1A4A-EC28-4A18-A2D1-AF9641D17F02/Lactor.app/www/index.html
+2014-10-23 03:51:21.254 Lactor[19175:12485998] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/3F8725CB-FF7E-4F48-9C9F-6BA95CA281A6/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:51:21.358 Lactor[19175:12485998] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:51:21.359 Lactor[19175:12485998] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:51:21.364 Lactor[19175:12485998] Unlimited access to network resources
+2014-10-23 03:51:21.382 Lactor[19175:12485998] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:51:21.647 Lactor[19175:12485998] [CDVTimer][statusbar] 42.141020ms
+2014-10-23 03:51:21.647 Lactor[19175:12485998] [CDVTimer][TotalPluginStartup] 42.378008ms
+2014-10-23 03:51:21.716 Lactor[19175:12485998] Resetting plugins due to page load.
+2014-10-23 03:51:21.874 Lactor[19175:12485998] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/603AF682-94B4-4394-9147-1695C8492E8F/Lactor.app/www/index.html
+2014-10-23 03:52:36.933 Lactor[19454:12487115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/69070CE4-9786-40DD-9A5F-1A7451189B26/Library/Cookies/Cookies.binarycookies
+2014-10-23 03:52:37.188 Lactor[19454:12487115] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-23 03:52:37.188 Lactor[19454:12487115] Multi-tasking -> Device: YES, App: YES
+2014-10-23 03:52:37.195 Lactor[19454:12487115] Unlimited access to network resources
+2014-10-23 03:52:37.198 Lactor[19454:12487115] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-23 03:52:37.450 Lactor[19454:12487115] [CDVTimer][statusbar] 36.787987ms
+2014-10-23 03:52:37.450 Lactor[19454:12487115] [CDVTimer][TotalPluginStartup] 37.021995ms
+2014-10-23 03:52:37.726 Lactor[19454:12487115] Resetting plugins due to page load.
+2014-10-23 03:52:37.899 Lactor[19454:12487115] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/7D7AB1BA-70B9-4BD5-BB0F-130B8F0BB092/Lactor.app/www/index.html
+2014-10-23 03:53:03.863 Lactor[19454:12487514] Terminating since there is no system app.
+2014-10-24 02:37:14.251 Lactor[27498:12992474] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/C30761C9-56B8-49EF-8433-BFED0ADF2A88/Library/Cookies/Cookies.binarycookies
+2014-10-24 02:37:14.472 Lactor[27498:12992474] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-24 02:37:14.473 Lactor[27498:12992474] Multi-tasking -> Device: YES, App: YES
+2014-10-24 02:37:14.481 Lactor[27498:12992474] Unlimited access to network resources
+2014-10-24 02:37:14.494 Lactor[27498:12992474] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-24 02:37:17.696 Lactor[27498:12992474] [CDVTimer][statusbar] 2189.440012ms
+2014-10-24 02:37:17.723 Lactor[27498:12992474] [CDVTimer][TotalPluginStartup] 2216.165006ms
+2014-10-24 02:37:17.842 Lactor[27498:12992474] Resetting plugins due to page load.
+2014-10-24 02:37:19.835 Lactor[27788:12992985] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/925E8B28-988F-483E-89FA-63FADC06BEF5/Library/Cookies/Cookies.binarycookies
+2014-10-24 02:37:19.932 Lactor[27788:12992985] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-24 02:37:19.932 Lactor[27788:12992985] Multi-tasking -> Device: YES, App: YES
+2014-10-24 02:37:19.938 Lactor[27788:12992985] Unlimited access to network resources
+2014-10-24 02:37:19.942 Lactor[27788:12992985] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-24 02:37:20.200 Lactor[27788:12992985] [CDVTimer][statusbar] 17.527044ms
+2014-10-24 02:37:20.200 Lactor[27788:12992985] [CDVTimer][TotalPluginStartup] 17.713010ms
+2014-10-24 02:37:20.267 Lactor[27788:12992985] Resetting plugins due to page load.
+2014-10-24 02:37:20.594 Lactor[27788:12992985] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/93946989-8A73-430C-B7BE-3065953F0E7D/Lactor.app/www/index.html
+2014-10-24 02:40:33.812 Lactor[27788:12993902] Terminating since there is no system app.
+2014-10-24 02:40:51.967 Lactor[28710:12995616] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/228DFD89-AE27-46D7-AC76-39E2518EF953/Library/Cookies/Cookies.binarycookies
+2014-10-24 02:40:52.132 Lactor[28710:12995616] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-24 02:40:52.132 Lactor[28710:12995616] Multi-tasking -> Device: YES, App: YES
+2014-10-24 02:40:52.207 Lactor[28710:12995616] Unlimited access to network resources
+2014-10-24 02:40:52.321 Lactor[28710:12995616] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-24 02:40:53.498 Lactor[28710:12995616] [CDVTimer][statusbar] 299.090981ms
+2014-10-24 02:40:53.498 Lactor[28710:12995616] [CDVTimer][TotalPluginStartup] 299.346983ms
+2014-10-24 02:40:54.391 Lactor[28710:12995616] Resetting plugins due to page load.
+2014-10-24 02:40:54.859 Lactor[28710:12995616] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/F96BBE92-A315-410B-A130-B8AA2B0177B3/Lactor.app/www/index.html
+2014-10-24 02:43:08.307 Lactor[29598:12997837] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/4474B4E5-19CC-4277-9624-61AA12BCCE01/Library/Cookies/Cookies.binarycookies
+2014-10-24 02:43:08.424 Lactor[29598:12997837] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-24 02:43:08.425 Lactor[29598:12997837] Multi-tasking -> Device: YES, App: YES
+2014-10-24 02:43:08.433 Lactor[29598:12997837] Unlimited access to network resources
+2014-10-24 02:43:08.436 Lactor[29598:12997837] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-24 02:43:08.682 Lactor[29598:12997837] [CDVTimer][statusbar] 18.593013ms
+2014-10-24 02:43:08.682 Lactor[29598:12997837] [CDVTimer][TotalPluginStartup] 18.770039ms
+2014-10-24 02:43:08.750 Lactor[29598:12997837] Resetting plugins due to page load.
+2014-10-24 02:43:08.889 Lactor[29598:12997837] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/0A261194-14B7-4E83-9EB4-23F24563A2DC/Lactor.app/www/index.html
+2014-10-24 02:47:04.648 Lactor[29835:12999253] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/CD9760E1-237C-44B3-839B-72D80E61F7EE/Library/Cookies/Cookies.binarycookies
+2014-10-24 02:47:04.767 Lactor[29835:12999253] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-24 02:47:04.767 Lactor[29835:12999253] Multi-tasking -> Device: YES, App: YES
+2014-10-24 02:47:04.774 Lactor[29835:12999253] Unlimited access to network resources
+2014-10-24 02:47:04.778 Lactor[29835:12999253] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-24 02:47:05.015 Lactor[29835:12999253] [CDVTimer][statusbar] 17.813981ms
+2014-10-24 02:47:05.015 Lactor[29835:12999253] [CDVTimer][TotalPluginStartup] 17.987013ms
+2014-10-24 02:47:05.093 Lactor[29835:12999253] Resetting plugins due to page load.
+2014-10-24 02:47:05.238 Lactor[29835:12999253] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/8F3A74B9-8E65-465A-AD9C-EE5A9EC29616/Lactor.app/www/index.html
+2014-10-26 21:55:20.221 Lactor[35968:13628316] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/BDF1BC8D-D170-4955-AE78-AB2B0C21B4AA/Library/Cookies/Cookies.binarycookies
+2014-10-26 21:55:20.350 Lactor[35968:13628316] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-26 21:55:20.351 Lactor[35968:13628316] Multi-tasking -> Device: YES, App: YES
+2014-10-26 21:55:20.359 Lactor[35968:13628316] Unlimited access to network resources
+2014-10-26 21:55:20.362 Lactor[35968:13628316] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-26 21:55:21.556 Lactor[35968:13628316] [CDVTimer][statusbar] 309.687972ms
+2014-10-26 21:55:21.557 Lactor[35968:13628316] [CDVTimer][TotalPluginStartup] 309.894979ms
+2014-10-26 21:55:22.010 Lactor[35968:13628316] Resetting plugins due to page load.
+2014-10-26 21:55:23.002 Lactor[35968:13628316] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/D5615385-9F25-43F3-8493-964214CD7D06/Lactor.app/www/index.html
+2014-10-26 22:00:33.064 Lactor[36384:13630507] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/D50AB41A-2916-4BC5-8A1F-B3656FF0C273/Library/Cookies/Cookies.binarycookies
+2014-10-26 22:00:33.185 Lactor[36384:13630507] Apache Cordova native platform version 3.6.3 is starting.
+2014-10-26 22:00:33.185 Lactor[36384:13630507] Multi-tasking -> Device: YES, App: YES
+2014-10-26 22:00:33.191 Lactor[36384:13630507] Unlimited access to network resources
+2014-10-26 22:00:33.194 Lactor[36384:13630507] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-10-26 22:00:33.438 Lactor[36384:13630507] [CDVTimer][statusbar] 17.572045ms
+2014-10-26 22:00:33.438 Lactor[36384:13630507] [CDVTimer][TotalPluginStartup] 17.765045ms
+2014-10-26 22:00:33.507 Lactor[36384:13630507] Resetting plugins due to page load.
+2014-10-26 22:00:33.643 Lactor[36384:13630507] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/9B273954-3CBD-4804-B092-9D055E33ACFA/Lactor.app/www/index.html
+2014-11-06 18:21:02.561 Lactor[92974:23434092] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/05D0C2D5-B194-4040-95AE-8CAE5F4C2F03/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:21:02.890 Lactor[92974:23434092] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:21:02.890 Lactor[92974:23434092] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:21:02.896 Lactor[92974:23434092] Unlimited access to network resources
+2014-11-06 18:21:02.931 Lactor[92974:23434092] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:21:03.479 Lactor[92974:23434092] [CDVTimer][statusbar] 244.876027ms
+2014-11-06 18:21:03.479 Lactor[92974:23434092] [CDVTimer][TotalPluginStartup] 245.117009ms
+2014-11-06 18:21:04.087 Lactor[92974:23434092] Resetting plugins due to page load.
+2014-11-06 18:21:04.522 Lactor[92974:23434092] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/320C01B9-E774-4E6B-852D-A006B9DBD241/Lactor.app/www/index.html
+2014-11-06 18:21:25.597 Lactor[93188:23434653] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/2E110763-A467-4BA6-A1D0-FD8509DFB1D5/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:21:25.694 Lactor[93188:23434653] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:21:25.694 Lactor[93188:23434653] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:21:25.701 Lactor[93188:23434653] Unlimited access to network resources
+2014-11-06 18:21:25.704 Lactor[93188:23434653] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:21:25.975 Lactor[93188:23434653] [CDVTimer][statusbar] 17.127991ms
+2014-11-06 18:21:25.975 Lactor[93188:23434653] [CDVTimer][TotalPluginStartup] 17.301977ms
+2014-11-06 18:21:26.042 Lactor[93188:23434653] Resetting plugins due to page load.
+2014-11-06 18:21:26.176 Lactor[93188:23434653] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/622DC78C-EDFA-4044-8C64-5B4C916981D8/Lactor.app/www/index.html
+2014-11-06 18:23:37.719 Lactor[93423:23435998] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/5F57F38E-1D55-442C-A2FA-4E7884326CD2/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:23:37.829 Lactor[93423:23435998] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:23:37.830 Lactor[93423:23435998] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:23:37.836 Lactor[93423:23435998] Unlimited access to network resources
+2014-11-06 18:23:37.839 Lactor[93423:23435998] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:23:38.247 Lactor[93423:23435998] [CDVTimer][statusbar] 42.192996ms
+2014-11-06 18:23:38.248 Lactor[93423:23435998] [CDVTimer][TotalPluginStartup] 42.512000ms
+2014-11-06 18:23:38.315 Lactor[93423:23435998] Resetting plugins due to page load.
+2014-11-06 18:23:38.460 Lactor[93423:23435998] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/32BBD2E1-DFF6-4ACC-9E6E-6DF0E1A92DDE/Lactor.app/www/index.html
+2014-11-06 18:25:09.767 Lactor[93423:23436710] Terminating since there is no system app.
+2014-11-06 18:25:38.178 Lactor[93691:23437597] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/3690BB1E-206E-4901-96A8-D426B3590175/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:25:38.273 Lactor[93691:23437597] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:25:38.274 Lactor[93691:23437597] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:25:38.282 Lactor[93691:23437597] Unlimited access to network resources
+2014-11-06 18:25:38.286 Lactor[93691:23437597] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:25:38.668 Lactor[93691:23437597] [CDVTimer][statusbar] 23.823023ms
+2014-11-06 18:25:38.669 Lactor[93691:23437597] [CDVTimer][TotalPluginStartup] 24.010003ms
+2014-11-06 18:25:38.771 Lactor[93691:23437597] Resetting plugins due to page load.
+2014-11-06 18:25:38.933 Lactor[93691:23437597] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/D9F1DBE8-1BF4-432C-8F61-632D6E3D862A/Lactor.app/www/index.html
+2014-11-06 18:27:07.486 Lactor[93926:23438646] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/65A00148-0FBD-4A93-94E3-14B043F65115/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:27:07.599 Lactor[93926:23438646] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:27:07.600 Lactor[93926:23438646] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:27:07.606 Lactor[93926:23438646] Unlimited access to network resources
+2014-11-06 18:27:07.609 Lactor[93926:23438646] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:27:07.871 Lactor[93926:23438646] [CDVTimer][statusbar] 39.129019ms
+2014-11-06 18:27:07.871 Lactor[93926:23438646] [CDVTimer][TotalPluginStartup] 39.375007ms
+2014-11-06 18:27:07.937 Lactor[93926:23438646] Resetting plugins due to page load.
+2014-11-06 18:27:08.078 Lactor[93926:23438646] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/2401D6F0-E779-4420-8682-EFDC6941F75D/Lactor.app/www/index.html
+2014-11-06 18:28:05.484 Lactor[94146:23439468] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/69C46304-BFC6-4548-A993-8C182CB9FD88/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:28:05.718 Lactor[94146:23439468] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:28:05.718 Lactor[94146:23439468] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:28:05.725 Lactor[94146:23439468] Unlimited access to network resources
+2014-11-06 18:28:05.728 Lactor[94146:23439468] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:28:05.974 Lactor[94146:23439468] [CDVTimer][statusbar] 25.444984ms
+2014-11-06 18:28:05.974 Lactor[94146:23439468] [CDVTimer][TotalPluginStartup] 25.636017ms
+2014-11-06 18:28:06.045 Lactor[94146:23439468] Resetting plugins due to page load.
+2014-11-06 18:28:06.214 Lactor[94146:23439468] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/53FDEA44-515A-48EC-AE11-7B774AB6C5C7/Lactor.app/www/index.html
+2014-11-06 18:28:37.618 Lactor[94359:23440071] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/063B09C4-9619-4543-A3A4-0557EFB881AB/Library/Cookies/Cookies.binarycookies
+2014-11-06 18:28:37.713 Lactor[94359:23440071] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-06 18:28:37.713 Lactor[94359:23440071] Multi-tasking -> Device: YES, App: YES
+2014-11-06 18:28:37.719 Lactor[94359:23440071] Unlimited access to network resources
+2014-11-06 18:28:37.722 Lactor[94359:23440071] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-06 18:28:37.970 Lactor[94359:23440071] [CDVTimer][statusbar] 18.745959ms
+2014-11-06 18:28:37.970 Lactor[94359:23440071] [CDVTimer][TotalPluginStartup] 18.922985ms
+2014-11-06 18:28:38.058 Lactor[94359:23440071] Resetting plugins due to page load.
+2014-11-06 18:28:38.201 Lactor[94359:23440071] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/7FA25B60-9D61-472E-9BAD-660A98DFBD6E/Lactor.app/www/index.html
+2014-11-07 03:19:48.490 Lactor[829:24100525] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/009F8D11-BCF2-4D21-A67B-DF05D65980D3/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:19:49.119 Lactor[829:24100525] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:19:49.120 Lactor[829:24100525] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:19:49.126 Lactor[829:24100525] Unlimited access to network resources
+2014-11-07 03:19:49.161 Lactor[829:24100525] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:19:49.601 Lactor[829:24100525] [CDVTimer][statusbar] 182.578981ms
+2014-11-07 03:19:49.601 Lactor[829:24100525] [CDVTimer][TotalPluginStartup] 182.835996ms
+2014-11-07 03:19:49.846 Lactor[829:24100525] Resetting plugins due to page load.
+2014-11-07 03:19:50.082 Lactor[829:24100525] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/087A630B-F77E-4523-ABFB-6E15CBE8323B/Lactor.app/www/index.html
+2014-11-07 03:22:29.402 Lactor[1086:24134707] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/A92EE26E-3744-4906-B5E2-3B0880566BA0/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:22:29.497 Lactor[1086:24134707] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:22:29.498 Lactor[1086:24134707] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:22:29.503 Lactor[1086:24134707] Unlimited access to network resources
+2014-11-07 03:22:29.507 Lactor[1086:24134707] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:22:29.822 Lactor[1086:24134707] [CDVTimer][statusbar] 82.570016ms
+2014-11-07 03:22:29.823 Lactor[1086:24134707] [CDVTimer][TotalPluginStartup] 82.812965ms
+2014-11-07 03:22:29.892 Lactor[1086:24134707] Resetting plugins due to page load.
+2014-11-07 03:22:29.996 Lactor[1086:24134707] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/D6AB235F-63C5-4B42-AB3B-3D221B917DCA/Lactor.app/www/index.html
+2014-11-07 03:24:32.061 Lactor[1350:24160127] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/3946952B-ED22-413B-854F-39B40F39324F/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:24:32.174 Lactor[1350:24160127] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:24:32.175 Lactor[1350:24160127] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:24:32.182 Lactor[1350:24160127] Unlimited access to network resources
+2014-11-07 03:24:32.186 Lactor[1350:24160127] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:24:32.443 Lactor[1350:24160127] [CDVTimer][statusbar] 18.948972ms
+2014-11-07 03:24:32.443 Lactor[1350:24160127] [CDVTimer][TotalPluginStartup] 19.178987ms
+2014-11-07 03:24:32.510 Lactor[1350:24160127] Resetting plugins due to page load.
+2014-11-07 03:24:32.602 Lactor[1350:24160127] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/649FE2BF-07EF-4E66-848F-5322A4112E8F/Lactor.app/www/index.html
+2014-11-07 03:26:48.507 Lactor[1586:24188324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/B6039F19-2ED4-4BCF-9F35-F9A9438CB4C0/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:26:48.618 Lactor[1586:24188324] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:26:48.618 Lactor[1586:24188324] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:26:48.624 Lactor[1586:24188324] Unlimited access to network resources
+2014-11-07 03:26:48.628 Lactor[1586:24188324] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:26:48.912 Lactor[1586:24188324] [CDVTimer][statusbar] 36.963046ms
+2014-11-07 03:26:48.912 Lactor[1586:24188324] [CDVTimer][TotalPluginStartup] 37.196994ms
+2014-11-07 03:26:48.995 Lactor[1586:24188324] Resetting plugins due to page load.
+2014-11-07 03:26:49.143 Lactor[1586:24188324] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/EE9738E1-D639-48A4-8ABA-5E578C9C8810/Lactor.app/www/index.html
+2014-11-07 03:31:42.553 Lactor[1842:24249187] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/32B66305-7382-4DA4-812A-BCB7DFF23360/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:31:42.661 Lactor[1842:24249187] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:31:42.662 Lactor[1842:24249187] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:31:42.669 Lactor[1842:24249187] Unlimited access to network resources
+2014-11-07 03:31:42.672 Lactor[1842:24249187] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:31:42.953 Lactor[1842:24249187] [CDVTimer][statusbar] 46.024024ms
+2014-11-07 03:31:42.953 Lactor[1842:24249187] [CDVTimer][TotalPluginStartup] 46.245992ms
+2014-11-07 03:31:43.021 Lactor[1842:24249187] Resetting plugins due to page load.
+2014-11-07 03:31:43.164 Lactor[1842:24249187] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/1C21EF27-BFBE-477C-AA39-1CC00D9A1034/Lactor.app/www/index.html
+2014-11-07 03:33:35.735 Lactor[2072:24272515] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/45E1EE68-AAD3-4959-9FCF-7BBCF2D61EC4/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:33:35.838 Lactor[2072:24272515] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:33:35.838 Lactor[2072:24272515] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:33:35.846 Lactor[2072:24272515] Unlimited access to network resources
+2014-11-07 03:33:35.850 Lactor[2072:24272515] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:33:36.109 Lactor[2072:24272515] [CDVTimer][statusbar] 18.617988ms
+2014-11-07 03:33:36.109 Lactor[2072:24272515] [CDVTimer][TotalPluginStartup] 18.794000ms
+2014-11-07 03:33:36.178 Lactor[2072:24272515] Resetting plugins due to page load.
+2014-11-07 03:33:36.320 Lactor[2072:24272515] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/23A20B4C-0EB4-41C0-9687-ED146B3F4E06/Lactor.app/www/index.html
+2014-11-07 03:34:16.971 Lactor[2331:24281569] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/21B81C19-7C45-4613-86C6-4FD921815799/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:34:17.251 Lactor[2331:24281569] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:34:17.251 Lactor[2331:24281569] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:34:17.261 Lactor[2331:24281569] Unlimited access to network resources
+2014-11-07 03:34:17.302 Lactor[2331:24281569] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:34:17.842 Lactor[2331:24281569] [CDVTimer][statusbar] 85.757017ms
+2014-11-07 03:34:17.842 Lactor[2331:24281569] [CDVTimer][TotalPluginStartup] 86.018026ms
+2014-11-07 03:34:17.877 Lactor[2331:24281569] Resetting plugins due to page load.
+2014-11-07 03:34:18.406 Lactor[2331:24281569] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/6360643F-3017-4AB9-A795-0532BB6A3863/Lactor.app/www/index.html
+2014-11-07 03:37:29.412 Lactor[2594:24311094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/D25C3C57-51D4-4C19-AE96-940EB6B62DDC/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:37:29.712 Lactor[2594:24311094] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:37:29.713 Lactor[2594:24311094] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:37:29.718 Lactor[2594:24311094] Unlimited access to network resources
+2014-11-07 03:37:29.721 Lactor[2594:24311094] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:37:29.960 Lactor[2594:24311094] [CDVTimer][statusbar] 31.359017ms
+2014-11-07 03:37:29.960 Lactor[2594:24311094] [CDVTimer][TotalPluginStartup] 31.594992ms
+2014-11-07 03:37:30.249 Lactor[2594:24311094] Resetting plugins due to page load.
+2014-11-07 03:37:30.409 Lactor[2594:24311094] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/3E7AAA9C-35BE-445E-9449-D01F2D98B9C4/Lactor.app/www/index.html
+2014-11-07 03:48:02.084 Lactor[2922:24315084] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/15DDDE3E-26D7-45D9-B4B2-921FB8AF0C4E/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:48:02.288 Lactor[2922:24315084] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:48:02.289 Lactor[2922:24315084] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:48:02.296 Lactor[2922:24315084] Unlimited access to network resources
+2014-11-07 03:48:02.299 Lactor[2922:24315084] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:48:02.677 Lactor[2922:24315084] Resetting plugins due to page load.
+2014-11-07 03:48:02.869 Lactor[2922:24315084] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/A7A4906D-7E66-49A0-8A04-0E40B30F02AE/Lactor.app/www/index.html
+2014-11-07 03:49:17.223 Lactor[3135:24315951] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/C6B423E8-2436-4AF5-ABAD-2916925F256E/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:49:17.387 Lactor[3135:24315951] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:49:17.388 Lactor[3135:24315951] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:49:17.397 Lactor[3135:24315951] Unlimited access to network resources
+2014-11-07 03:49:17.400 Lactor[3135:24315951] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:49:17.745 Lactor[3135:24315951] Resetting plugins due to page load.
+2014-11-07 03:49:17.930 Lactor[3135:24315951] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/743BCCA9-D5ED-4894-B1CD-F8033BB3E480/Lactor.app/www/index.html
+2014-11-07 03:49:57.700 Lactor[3348:24316509] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Data/Application/E8ACABC4-43EF-4658-90B6-A820B3A3F3C1/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:49:57.810 Lactor[3348:24316509] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:49:57.811 Lactor[3348:24316509] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:49:57.820 Lactor[3348:24316509] Unlimited access to network resources
+2014-11-07 03:49:57.823 Lactor[3348:24316509] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:49:58.220 Lactor[3348:24316509] Resetting plugins due to page load.
+2014-11-07 03:50:04.042 Lactor[3348:24316509] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/5C767DDA-7140-4BF7-BFD0-D65BD13D9B96/data/Containers/Bundle/Application/FDFD4E6B-59AD-42E0-A74C-5BC99D236F29/Lactor.app/www/index.html
+2014-11-07 03:50:43.940 Lactor[3595:24317536] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/2F4041F2-65AF-47CF-954C-8474E5B8A4AB/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:50:44.048 Lactor[3595:24317536] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:50:44.049 Lactor[3595:24317536] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:50:44.054 Lactor[3595:24317536] Unlimited access to network resources
+2014-11-07 03:50:44.057 Lactor[3595:24317536] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:50:44.344 Lactor[3595:24317536] Resetting plugins due to page load.
+2014-11-07 03:50:46.683 Lactor[3595:24317536] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/EADB85E9-9EB5-46CA-8785-E71364E449B8/Lactor.app/www/index.html
+2014-11-07 03:51:25.115 Lactor[3807:24318177] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/A5566617-BD65-4FC9-ABA6-DA200FF4313F/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:51:25.213 Lactor[3807:24318177] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:51:25.214 Lactor[3807:24318177] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:51:25.219 Lactor[3807:24318177] Unlimited access to network resources
+2014-11-07 03:51:25.223 Lactor[3807:24318177] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:51:25.512 Lactor[3807:24318177] Resetting plugins due to page load.
+2014-11-07 03:51:25.647 Lactor[3807:24318177] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/BB625AFD-6224-4026-965D-6C4137F07890/Lactor.app/www/index.html
+2014-11-07 03:52:15.559 Lactor[4021:24318952] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/5B116079-AC29-4334-A17D-462CC39FE839/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:52:15.678 Lactor[4021:24318952] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:52:15.679 Lactor[4021:24318952] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:52:15.684 Lactor[4021:24318952] Unlimited access to network resources
+2014-11-07 03:52:15.688 Lactor[4021:24318952] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:52:15.982 Lactor[4021:24318952] Resetting plugins due to page load.
+2014-11-07 03:52:18.935 Lactor[4021:24318952] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/DF62FDBB-77F4-438A-BDA5-9B0C1E0D4A91/Lactor.app/www/index.html
+2014-11-07 03:52:51.307 Lactor[4229:24319507] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/1070FD07-D779-4397-BC2B-483483FCA1F7/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:52:51.408 Lactor[4229:24319507] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:52:51.408 Lactor[4229:24319507] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:52:51.417 Lactor[4229:24319507] Unlimited access to network resources
+2014-11-07 03:52:51.421 Lactor[4229:24319507] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:52:51.727 Lactor[4229:24319507] Resetting plugins due to page load.
+2014-11-07 03:52:55.009 Lactor[4229:24319507] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/B9960031-FFE6-4EA2-9A58-0A5E28796234/Lactor.app/www/index.html
+2014-11-07 03:53:45.423 Lactor[4443:24320244] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/40EC62B6-6CE2-44E5-95B3-C7513902EB37/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:53:45.551 Lactor[4443:24320244] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:53:45.552 Lactor[4443:24320244] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:53:45.559 Lactor[4443:24320244] Unlimited access to network resources
+2014-11-07 03:53:45.562 Lactor[4443:24320244] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:53:45.853 Lactor[4443:24320244] Resetting plugins due to page load.
+2014-11-07 03:53:52.544 Lactor[4443:24320244] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/F8A9E77B-9480-461B-8654-370B70AC12B2/Lactor.app/www/index.html
+2014-11-07 03:57:57.634 Lactor[4685:24322193] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/313E1C03-929A-48CD-A898-9542C015FFE0/Library/Cookies/Cookies.binarycookies
+2014-11-07 03:57:57.735 Lactor[4685:24322193] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 03:57:57.736 Lactor[4685:24322193] Multi-tasking -> Device: YES, App: YES
+2014-11-07 03:57:57.743 Lactor[4685:24322193] Unlimited access to network resources
+2014-11-07 03:57:57.747 Lactor[4685:24322193] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 03:57:58.056 Lactor[4685:24322193] Resetting plugins due to page load.
+2014-11-07 04:01:07.895 Lactor[4913:24323774] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/54A4BE13-B2E5-43D8-860F-0BD5B30EDC50/Library/Cookies/Cookies.binarycookies
+2014-11-07 04:01:08.004 Lactor[4913:24323774] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 04:01:08.004 Lactor[4913:24323774] Multi-tasking -> Device: YES, App: YES
+2014-11-07 04:01:08.012 Lactor[4913:24323774] Unlimited access to network resources
+2014-11-07 04:01:08.015 Lactor[4913:24323774] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 04:01:08.307 Lactor[4913:24323774] Resetting plugins due to page load.
+2014-11-07 04:01:08.441 Lactor[4913:24323774] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/3A5179D0-5DC2-450E-A244-529B000D9717/Lactor.app/www/index.html
+2014-11-07 04:02:36.580 Lactor[5129:24324745] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Data/Application/C6387CCB-00E9-4D0A-A059-3F30B8C1BF14/Library/Cookies/Cookies.binarycookies
+2014-11-07 04:02:36.696 Lactor[5129:24324745] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-07 04:02:36.696 Lactor[5129:24324745] Multi-tasking -> Device: YES, App: YES
+2014-11-07 04:02:36.702 Lactor[5129:24324745] Unlimited access to network resources
+2014-11-07 04:02:36.705 Lactor[5129:24324745] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-07 04:02:37.012 Lactor[5129:24324745] Resetting plugins due to page load.
+2014-11-07 04:02:37.150 Lactor[5129:24324745] Finished load of: file:///Users/mcgrew/Library/Developer/CoreSimulator/Devices/67F39001-7793-430F-BC94-EF1143C5554E/data/Containers/Bundle/Application/EC834978-DD0B-474F-B9DA-BC282D7DB4BE/Lactor.app/www/index.html
