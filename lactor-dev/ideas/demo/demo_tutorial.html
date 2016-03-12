@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Simple Demo Page</title>
+    
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  
+    <style>
+      /* Vertical Tabs
+----------------------------------*/
+.ui-tabs-vertical { width: 55em; }
+.ui-tabs-vertical .ui-tabs-nav { padding: .2em .1em .2em .2em; float: left; width: 12em; }
+.ui-tabs-vertical .ui-tabs-nav li { clear: left; width: 100%; border-bottom-width: 1px !important; border-right-width: 0 !important; margin: 0 -1px .2em 0; }
+.ui-tabs-vertical .ui-tabs-nav li a { display:block; }
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-selected { padding-bottom: 0; padding-right: .1em; border-right-width: 1px; border-right-width: 1px; }
+.ui-tabs-vertical .ui-tabs-panel { padding: 1em; float: right; width: 40em;}
+
+	</style>
+     
+</head>
+
+<body>
+
+    <button id="demo" class="btn btn-lg btn-primary">Demo Tutorial</button>
+    
+    <br>
+    <br>
+    
+    <div style="width:200px"
+           class="bootstro" 
+         data-bootstro-step='0'
+         data-bootstro-title='Welcome to Lactor'
+         data-bootstro-content='You can choose date here'
+         data-bootstro-placement='right'
+         data-bootstro-width='400px'
+         >Date: <input type="text" id="datepicker"></div>
+    
+    <div class="bootstro" 
+         data-bootstro-step='1'
+         data-bootstro-title='Diary Chart'
+         data-bootstro-content='You can hover to see the value'
+         data-bootstro-placement='right'
+         data-bootstro-width='500px'
+         id="breastfeeding_chart" style="width: 500px; height: 300px">
+		 Sorry your browser does not support our library :(
+		 We will find different way to transport data to you
+		 </div>
+    
+    <div id="tabs" class="bootstro"
+         data-bootstro-step='2'
+         data-bootstro-title='Resource v.1'
+         data-bootstro-content='This is a vertica navigation' 
+         data-bootstro-placement='top'>
+		<ul>
+			<li><a href="#tab-1">Mother education</a></li>
+			<li><a href="#tab-2">Tutorial</a></li>
+			<li><a href="#tab-3">Get involved</a></li>
+		</ul>
+		<div id="tab-1">
+			<h2>Mother education</h2>
+			This is resource for mother education			
+		</div>
+		<div id="tab-2">
+			Tutorial to use Lactor
+		</div>
+		<div id="tab-3">
+			Get involved and contribute to Lactor
+		</div>
+    </div>
+    <br><br>
+    <div id="tabs2" class="bootstro"
+         data-bootstro-step='3'
+         data-bootstro-title='Resource v.2'
+         data-bootstro-content='This is a horizontal navigation' 
+         data-bootstro-placement='bottom'>
+      <ul>
+        <li><a href="#tab-4">Mother education</a></li>
+        <li><a href="#tab-5">Tutorial</a></li>
+        <li><a href="#tab-6">Get involved</a></li>
+      </ul>
+      <div id="tab-4">
+        This is resource for mother education
+        
+      </div>
+      <div id="tab-5">
+        Tutorial to use Lactor
+      </div>
+      <div id="tab-6">
+        Get involved and contribute to Lactor
+      </div>
+     </div>
+<!-- JavaScript under so as to load faster-->
+<!-- import normal things-->
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<!-- import Google chart-->
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+
+<!-- import Bootstro js-->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="./bootstro.css">
+<script src="./bootstro.js"></script>
+    
+    
+<script>
+      /* JQuery UI datepicker*/
+$("#datepicker").datepicker();
+
+
+$("#tabs").tabs().addClass('ui-tabs-vertical ui-helper-clearfix');
+$("#tabs li").removeClass('ui-corner-top').addClass('ui-corner-left');
+
+$("#tabs2").tabs();
+/* Google chart*/     
+google.charts.load('current', {
+			  'packages':['corechart']
+			});
+			google.charts.setOnLoadCallback(drawChart);
+
+			function drawChart() {
+			  var data = google.visualization.arrayToDataTable([
+				['Date', 'Value'],
+				['10',  1000  ],
+				['11',  1000  ],
+				['12',  1000  ],
+				['13',  1000  ],
+				['14',  1000  ],
+				['14',  200   ],
+				['15',  1170  ],
+				['17',  660   ],
+				['20',  1030  ],
+			  ]);
+			  var options = {
+				title: 'Breast feeding',
+				curveType: 'function',
+				legend :{position: 'right'}
+			  };
+			  var chart = new google.visualization.LineChart(document.getElementById('breastfeeding_chart'));
+			  chart.draw(data, options); 
+      }
+
+/* boostro js, tutorial*/
+var selector = ".bootstro";
+var options = {
+  /*onComplete: function(params) {
+    alert("Reached end of introduction with total " + params.idx + 1);
+  },
+  onExit: function(params){
+    alert("Introduction stopped at slide #" + (params.idx + 1));
+  }*/
+};
+
+
+  $('#demo').click(function(){
+    bootstro.start(selector, options);
+  });
+      
+</script>
+
+    
+    
+    
+  </body>
+</html>
