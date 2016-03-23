@@ -6,8 +6,8 @@
 4. Choose (httpd.config), this will open .txt file
 5. Search Document root, --> change location to this folder
 6. Open localhost
-	*/home/index
-	*/diary/view
-	*/anything/anything --> check log folder
-	*/diary/stuff --> before do this, remember to import database in App/Modles/
+	* /home/index
+	* /diary/view
+	* /anything/anything --> check log folder
+	* /diary/stuff --> before do this, remember to import database in App/Modles/
 	
