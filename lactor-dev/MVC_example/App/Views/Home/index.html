@@ -1,0 +1,33 @@
+{% extends "template_base.html" %}
+
+{% block title %}
+ {{title}}
+{% endblock%}
+
+
+{% block content %}
+    
+    <nav>
+        <a href="/home/index">Home</a>
+        <a href="/diary/view">Diary</a>
+    </nav>
+    
+    <h1>{{message}}</h1>
+    
+    {% if form %}
+        <form method="POST">
+                <div>
+                    <label for="name">Your name</label>
+                    <input id="name" name="user" autofocus=true>
+                </div>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
+        </form>
+    {% endif %}
+    
+    {% if name is defined %}
+        <div class="name">{{name}} you can proceed :)</div>
+    {% endif %}
+    
+{% endblock%}
