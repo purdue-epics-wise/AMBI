@@ -1,0 +1,15 @@
+{% extends "template_base.html" %}
+
+{% block title %}
+  {{title}}
+{% endblock%}
+
+{% block content %}
+    
+    <nav>
+        <a href="/home/index">Home</a>
+        <a href="/diary/view">Diary</a>
+    </nav>
+    <h1>This is diary page</h1>
+    <p>{{message}}</p>
+{% endblock %}

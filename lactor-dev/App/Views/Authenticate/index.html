@@ -1,0 +1,23 @@
+{% extends "template_base.html" %}
+
+{% block title %}
+ {{title}}
+{% endblock%}
+
+
+{% block content %}
+    
+        {{message}}
+        <form method="POST">
+                <div>
+                    <label for="email">Email</label>
+                    <input id="email" name="email" autofocus=true>
+                    <label for="password">Password</label>
+                    <input id="password" name="password" autofocus=true>
+                </div>
+                <div>
+                    <button type="submit">Submit</button>
+                </div>
+        </form>
+    
+{% endblock%}
