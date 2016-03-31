@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<?php use \App\Config
+    
+?>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Home Page">
+    <meta name="author" content="Shubhang">
+
+
+    <title>LACTOR Breastfeeding Monitor</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="App/Views/Home/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="App/Views/Home/font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link rel="stylesheet" href= "App/Views/Home/css/animate.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="App/Views/Home/css/creative.css" type="text/css">
+    <style type="text/css">
+    @media only screen and (max-device-width: 480px) {
+        header {
+            background-color: #ffb6c1;
+        }
+    }
+    </style>
+    
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body id="page-top">
+
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+               <!-- Brand and toggle get grouped for better mobile display -->
+               <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">LACTOR Breastfeeding Monitor</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">Link1</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Link2</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Link3</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll launch-modal" data-toggle="modal" href="#myModal">Login</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1>Welcome to LACTOR</h1>
+                <hr>
+                <p>LACTOR is an innovative, interactive web-based breastfeeding monitoring system. LACTOR was created to help breastfeeding mothers monitor their breastfeeding patterns and detect early breastfeeding problems</p>
+                <a href="#info" class="btn btn-primary btn-xl page-scroll">More Info</a>
+            </div>
+        </div>
+    </header>
+
+    
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <h1 style="color:red;" font-family: 'Roboto Slob'><b>LACTOR</b></h1>
+          </div>
+          <div class="modal-body">
+              <form role="form" action="authenticate" method="post" class="login-form">
+                
+                <div class="form-group">
+                    <label class="sr-only" for="email">Email</label>
+                    <input type="text" name="email" placeholder="Email..." class="form-username form-control" id="form-username">
+                </div>
+                <div class="form-group">
+                    <label class="sr-only" for="password">Password</label>
+                    <input type="password" name="password" placeholder="Password..." class="form-password form-control" id="form-password">
+                </div>
+                <button type="submit" class="btn">Sign in</button> {{message}}
+            </form>
+        </div>
+        <div class="modal-footer">
+          <p>Forgot <a href="#">Password?</a></p>
+      </div>
+        <!-- End Modal content -->
+   </div>
+    <!--End Modal-->
+
+</div>
+</div> 
+</div>
+
+
+
+<section id="info">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">We'll help you get through the tough times...</h2>
+                <hr class="primary">
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-stethoscope wow bounceIn text-primary"></i>
+                    <h3>Professional Support</h3>
+                    <p class="text-muted">Online one-on-one interaction with professional lactation consultants</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-pencil-square wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                    <h3>Built-In Monitor Diaries</h3>
+                    <p class="text-muted">Various diaries to monitor the extent of healthy breastfeeding</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-line-chart wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                    <h3>Chart Your Progress</h3>
+                    <p class="text-muted">Facilities such as charts, timers and calenders to keep track of your breastfeeding progress</p>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6 text-center">
+                <div class="service-box">
+                    <i class="fa fa-4x fa-envelope wow bounceIn text-primary" data-wow-delay=".3s"></i>
+                    <h3>Instant notifications</h3>
+                    <p class="text-muted">Get instant notifications via email according to your entries</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- jQuery -->
+<script src="App/Views/Home/js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="App/Views/Home/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="App/Views/Home/js/jquery.easing.min.js"></script>
+<script src="App/Views/Home/js/jquery.fittext.js"></script>
+<script src="App/Views/Home/js/wow.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="App/Views/Home/js/creative.js"></script>
+
+{% if autoModal %}
+<script>
+    $('#myModal').modal();
+</script>
+{% endif %}
+
+</body>
+
+</html>
