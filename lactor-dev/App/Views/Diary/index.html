@@ -1,15 +1,327 @@
-{% extends "template_base.html" %}
+<!DOCTYPE html>
+<html lang="en">
 
-{% block title %}
-  {{title}}
-{% endblock%}
+<head>
 
-{% block content %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Diaries">
+    <meta name="author" content="Shubhang">
+
+
+    <title>LACTOR Breastfeeding Monitor</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="vendor/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="vendor/css/jquery-ui-1.8.23.flick-theme.css">
+
+    <!-- Custom Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css" type="text/css">
+
+    <!-- Plugin CSS -->
+    <!-- <link rel="stylesheet" href="css/animate.min.css" type="text/css"> -->
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="vendor/css/creative.css" type="text/css">
+    <link rel="stylesheet" href="App/Views/Diary/style-tabs.css" type="text/css">
+
+    <script src="App/Views/Diary/js/prefixfree.min.js"></script>
+    <style type="text/css">
+    body{
+        background-color: #ffb6c1;
+    }
+    #page-container{
+        background-color: white;
+        width: 90%;
+        height: 80%;
+        position:absolute;
+        top: 12%;
+        left: 5%;
+    }
     
-    <nav>
-        <a href="/home/index">Home</a>
-        <a href="/diary/view">Diary</a>
+    .datepicker {
+        display: inline-block;
+    }
+
+    .modal-header{
+      height: 10%;
+      padding: none;
+    }
+    #add-entry-btn{
+      border:2px solid orange;
+      /*border-left:1px solid gray;
+      border-bottom:1px solid gray;
+      border-right:1px solid gray;*/
+      padding: 10px;
+    }
+    tr{
+      padding: 5px;
+    }
+    @media only screen and (max-device-width: 480px) {
+        header {
+            background-color: #ffb6c1;
+            }
+        }
+
+    </style>
+
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body id="page-top">
+
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+             <!-- Brand and toggle get grouped for better mobile display -->
+             <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                
+                <a class="navbar-brand page-scroll" href="/wise/ambi">LACTOR Home</a>
+                <!-- Google translate -->
+                 <div id="google_translate_element"></div>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active">
+                        <a class="page-scroll" href="#diaries">Diaries</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#notifications">Notifications</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#resources">Resources</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="#profile">Profile</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#logout">Logout</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
     </nav>
-    <h1>This is diary page</h1>
-    <p>{{message}}</p>
-{% endblock %}
+    <div id="page-container">
+      <main>
+ 
+  <input id="tab1" type="radio" name="tabs" checked>
+  <label for="tab1">Breastfeeding</label>
+    
+  <input id="tab2" type="radio" name="tabs">
+  <label for="tab2">Supplement</label>
+    
+  <input id="tab3" type="radio" name="tabs">
+  <label for="tab3">Pumping</label>
+    
+  <input id="tab4" type="radio" name="tabs">
+  <label for="tab4">Output</label>
+
+  <input id="tab5" type="radio" name="tabs">
+  <label for="tab5">Infant Weight</label>
+
+  <input id="tab6" type="radio" name="tabs">
+  <label for="tab6">Health Issues</label>
+    
+<!-- Breast feeding -->  
+<section id="content1">
+   
+     
+    <input type='hidden' name='breast' value='1'>
+    <a id="add-entry-btn" class="page-scroll launch-modal" data-toggle="modal" href="#myModal" type="submit" data-translate='true' style="float:right;"><span class="glyphicon glyphicon-pencil"></span></a>
+
+   <!-- Search form-->
+	 From <input type="text" class="datepicker" name="dateFrom">
+	 To <input type="text" class="datepicker" name="dateTo">
+	 <button type="submit" value="Search diary">Search Diary</button>
+ 
+   
+   <div id="breastfeeding_chart" style="width: 500px; height: 300px; margin: 1px;"> </div>
+
+    <h2>Breast feeding diary</h2>
+  <table id='breast' class='diary' border='1' cellpadding='3' cellspacing='0'>
+   <thead>
+     <tr>
+       <th>Date &amp; Time</th>
+       <th>Duration</th>
+       <th>Side</th>
+       <th>Latching</th>
+       <th>Infant Alertness</th>
+       <th>Maternal Problems</th>
+       <th>Modify</th>
+     </tr>
+   </thead>
+   <tbody>
+     <tr class=''>
+       <td>04/12/2016 11:45 PM</td>
+       <td>3-4 Minutes</td>
+       <td>Both</td>
+       <td>Latch correctly</td>
+       <td>Quiet and alert</td>
+       <td>No problems</td>
+       <td>
+         <!-- <form> -->
+           <input name='entryid' type='hidden' value='19211'/>
+           <input name='breast' value='Modify' type='submit' />
+           <input name='direction' value='view' type='hidden' />
+                     <button>Modify</button>
+         <!-- </form> -->
+       </td>
+     </tr>
+   </tbody>
+  </table>
+   
+   
+</section>
+  
+<section id="content2">
+  Supplement
+</section>
+  
+<section id="content3">
+  Pumping
+</section>
+  
+<section id="content4">
+   Ouput
+</section>
+
+<section id="content5">
+  Infant Weight
+</section>
+
+<section id="content6">
+  Health Issues
+</section>
+
+
+
+  <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">&times;</button>
+              <!-- <h1 style="color:red;" padding="none;"><b>ADD ENTRY</b></h1> -->
+              <strong style="color: red; font-size:200%;">BREASTFEEDING DIARY: ADD ENTRY</strong>
+          </div>
+          <div class="modal-body">
+             <!--Form -->
+  <form action='' name='breastfeedingForm'>
+    <table border='0'><tbody>
+    <tr style="padding:10px;"><td>Breastfeeding duration:</td><td>Left:<select class="standardselect" name="duration_left">
+    <option value='0' >Choose one</option><option value='1' >1-2 Minutes</option><option value='2' >3-4 Minutes</option><option value='3' >5-10 Minutes</option><option value='4' >11-15 Minutes</option><option value='5' >> 15 Minutes</option></select> Right: <select class="standardselect" name="duration_right">
+    <option value='0' >Choose one</option><option value='1' >1-2 Minutes</option><option value='2' >3-4 Minutes</option><option value='3' >5-10 Minutes</option><option value='4' >11-15 Minutes</option><option value='5' >> 15 Minutes</option>      </select></td></tr>
+    <tr><td>Latching:</td><td><select class="standardselect" name="latching">
+    <option value='0' >Choose one</option><option value='1' >Not at all</option><option value='2' >Slipping of the breast</option><option value='3' >Latch correctly</option><option value='4' >Latch with nipple shield</option>      </select></td></tr>
+  
+    <tr><td>Infant alertness:</td><td><select class="standardselect" name="infant_state">
+    <option value='0' >Choose one</option><option value='1' >Difficult to awake</option><option value='2' >Drowsy</option><option value='3' >Quiet and alert</option><option value='4' >Active alert</option><option value='5' >Crying</option>      </select></td></tr>
+  
+    <tr><td>Maternal breastfeeding problems:</td><td><select class="standardselect" name="maternal_problems">
+    <option value='0' >Choose one</option><option value='1' >Breast tissue is soft/no milk coming in</option><option value='2' >Sore nipple</option><option value='3' >Flat/inverted nipple</option><option value='4' >Engorgement</option><option value='5' >Mastitis</option><option value='6' >No problems</option>      </select></td></tr>
+    </tbody></table>    
+  </form>
+  <!--End form-->
+        </div>
+        <div class="modal-footer">
+          <!-- <p>Forgot <a href="#">Password?</a></p> -->
+          <button>Submit</button>
+      </div>
+        <!-- End Modal content -->
+   </div>
+    <!--End Modal-->
+    
+        
+</main>
+    </div>
+</body>
+
+<!-- jQuery -->
+<script src="vendor/js/jquery.js"></script>
+<script src="vendor/js/jquery-ui.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/js/bootstrap.min.js"></script>
+
+<!-- import Google chart-->
+<script src="vendor/js/loader.js"></script>
+
+<!-- Google translate-->
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    
+
+<script>
+    //date picker
+    $(".datepicker").datepicker();
+    
+    //goolge translate
+    function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,en,es', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+        
+    //google chart
+    google.charts.load('current', {
+			  'packages':['corechart']
+			});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+        ['Date', 'Value'],
+        ['10',  1000  ],
+        ['11',  1000  ],
+        ['12',  1000  ],
+        ['13',  1000  ],
+        ['14',  1000  ],
+        ['14',  200   ],
+        ['15',  1170  ],
+        ['17',  660   ],
+        ['20',  1030  ],
+      ]);
+      var options = {
+        title: 'Breast feeding',
+        curveType: 'function',
+        legend :{position: 'right'}
+      };
+      var chart = new google.visualization.LineChart(document.getElementById('breastfeeding_chart'));
+      chart.draw(data, options); 
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
