@@ -37,7 +37,8 @@ class Home extends \Core\Controller {
     public function indexAction() {
         
         $params = [
-            'autoModal' => false
+            'autoModal' => false,
+			'message' => "fill in please"
         ];
         if (isset($_SESSION['loginType'])) {
             $params['message'] = $_SESSION['message'];
